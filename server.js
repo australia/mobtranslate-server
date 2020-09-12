@@ -107,4 +107,4 @@ app.post("/translate", function (req, res) {
   res.send({ originalText: text, translatedText: translation });
 });
 
-app.listen(4000);
+app.listen(process.env.PORT || 4000);
