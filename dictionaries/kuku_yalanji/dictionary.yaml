@@ -1,0 +1,90 @@
+meta:
+  name: Kuku Yalanji
+
+words:
+  - word: bubu
+    type: noun
+    definition: earth, country
+    translations:
+      - country
+
+  - word: dawar
+    type: noun
+    definition: sparkles in the night sky
+    translations:
+      - stars
+
+  - word: jalbu
+    type: noun
+    definition: woman are like men
+    translations:
+      - female
+      - woman
+
+  - word: jalkay
+    type: noun
+    definition: something fishy
+    translations:
+      - salmon
+
+  - word: jalun
+    type: noun
+    definition: ocean
+    translations:
+      - ocean
+      - sea
+
+  - word: jiba
+    type: noun
+    definition: food sits inside your belly
+    translations:
+      - belly
+
+  - word: jina
+    type: noun
+    definition: need them to stand up
+    translations:
+      - foot
+
+  - word: kija
+    type: noun
+    definition: reflects the sun at night
+    translations:
+      - moon
+
+  - word: mayi
+    type: noun
+    definition: everybody eats food, vegetable protein
+    translations:
+      - food
+      - vegetables
+
+  - word: mara
+    type: noun
+    definition: you clap with your hands
+    translations:
+      - hand
+
+  - word: minya
+    type: noun
+    definition: food, protein
+    translations:
+      - meat
+
+  - word: mukay
+    type: noun
+    definition: mothers sister
+    translations:
+      - aunty
+
+  - word: munga
+    type: noun
+    definition: covers your head, brush your hair
+    translations:
+      - hair
+
+  - word: wawu
+    type: noun
+    definition: spirit is in all living things
+    translations:
+      - spirit
