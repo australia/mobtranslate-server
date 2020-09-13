@@ -23,14 +23,102 @@ words:
     translations:
       - ask
       - asked
-
-  - word: bubu
-    type: noun
+  - word: babal
+    type: trv
     definitions:
-      - earth, country
+      - try. "ngayu baduriji dungaka, yinya bubu babanka", "I want to go fishing to try the place out"
+      - taste. "ngayu mayi wayjul-wayjul, babal saltmunku", "While I'm cooking the food I'll taste it for salt"
     translations:
-      - country
-
+      - try
+      - taste
+  - word: baban
+    type: n
+    definitions:
+      - anglefish
+    translations:
+      - anglefish
+  - word: babarr
+    type: n
+    definitions:
+      - older sister. "Yabaju-karra babarranda dungan mayika", "The younger brothers went to their older sister for food"
+    translations:
+      - older sister
+      - sister
+  - word: babi
+    type: n
+    definitions:
+      - grandmother, father's mother. "Babingka jija kujin-kujil", "Grand mother is looking after her grandchild"
+      - grandfather, mother's father
+    translations:
+      - grandmother
+      - grandfather
+  - word: bada
+    type: dir
+    definitions:
+      - down, down river, down hill. "Ngayu bada beachmunbu dungan", "I went to the beach"
+    translations:
+      - down
+      - down hill
+      - down river
+  - word: badamal
+    type: intrv
+    definitions:
+      - bend down. "Yungu dukul badamaka", "You bend your head down"
+    translations:
+      - bend
+      - bend down
+  - word: bada-bada
+    type: dir
+    definitions:
+      - underneath, below. "Kaban bada-bada tablebu", "The paper is under the table"
+    translations:
+      - below
+      - underneath
+  - word: badi
+    type: intrv
+    definitions:
+      - to cry, "karrakay badin mayika", "the child cried for food"
+      - to wail, mourn. "jana banbadi yaba wulanya", "They are wailing because their older brother died"
+      - to sing. "Dikal yalibalaku banbadin", "The birds were singing early in the morning"
+      - to howl. "kaya-kaya banbadin majangka bawanya", "the dogs were howling because their master left them"
+    translations:
+      - cry
+      - wail
+      - sing
+      - howl
+  - word: badibu
+    type: n
+    definitions:
+      - spotted eagle ray
+    translations:
+      - ray
+      - eagle ray
+      - spotted eagle ray
+  - word: badur
+    type: n
+    definitions:
+      - hook and line. "ngayu badurriji bundanday", "I'm fishing (sitting with hook and line)"
+    translations:
+      - hook
+      - fishing
+      - fishing line
+  - word: baja
+    type: mod
+    definitions:
+      - again. "jana kuljubu jarba kunin baja, kunin baja", "They hit the snake again and again with stones"
+      - more. "yundu wunay baja?", "do you have more?"
+      - I don't know. "ngayu wanyu baja balkal", "I don't know what to tell" (This is used only with a question word)
+    translations:
+      - more
+      - again
+  - word: bajabaja
+    type: n
+    definitions:
+      - blue-tongue lizard
+      - place name. spring above middle camp, story site
+    translations:
+      - more
+      - again
   - word: dawar
     type: noun
     definitions:
