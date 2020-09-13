@@ -8,6 +8,9 @@ const bodyParser = require("body-parser");
 
 // ====== Setup Server
 
+// adj - adjective
+// ass - associative
+
 // parse application/json
 app.use(bodyParser.json());
 
