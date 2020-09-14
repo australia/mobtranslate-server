@@ -349,6 +349,13 @@ words:
       - boil
     translations:
       - boil
+      
+  - word: jalbu
+    type: noun
+    definitions:
+      - a woman
+    translations:
+      - woman
 
   - word: jalkay
     type: noun
