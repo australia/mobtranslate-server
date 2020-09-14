@@ -74,6 +74,7 @@ words:
     translations:
       - below
       - underneath
+
   - word: badi
     type: intrv
     definitions:
@@ -86,6 +87,7 @@ words:
       - wail
       - sing
       - howl
+
   - word: badibu
     type: n
     definitions:
@@ -94,6 +96,7 @@ words:
       - ray
       - eagle ray
       - spotted eagle ray
+
   - word: badur
     type: n
     definitions:
@@ -102,6 +105,7 @@ words:
       - hook
       - fishing
       - fishing line
+
   - word: baja
     type: mod
     definitions:
@@ -111,6 +115,7 @@ words:
     translations:
       - more
       - again
+
   - word: bajabaja
     type: n
     definitions:
@@ -119,12 +124,14 @@ words:
     translations:
       - blue-tongue lizard
       - lizard
+
   - word: baja-burray
     type: intrv
     definitions:
       - tired. "ngayu baja-burray jilbamun", "I'm tired after the walkabout"
     translations:
       - tired
+
   - word: bajaku
     type: mod
     definitions:
@@ -135,6 +142,7 @@ words:
       - very
       - definitely
       - real
+
   - word: bajal
     type: n
     definitions:
@@ -142,12 +150,143 @@ words:
     translations:
       - bower bird
 
-  - word: dawar
+  - word: bajalji
+    type: n
+    definitions:
+      - species of rock python. Not many at Bloomfield, but many at Helenvale, Rossville and Shiptons Flats. They have a white head and will chase bald-headed people not wearing a hat beecause they think they are being copied
+    translations:
+      - rock python
+
+  - word: bajanji
     type: noun
     definitions:
-      - sparkles in the night sky
+      - stubborn
+    synonyms:
+      - dukul-dandi
+      - walu-walu
+      - walu-dandi
     translations:
-      - stars
+      - stubborn
+
+  - word: bajar
+    type: noun
+    definitions:
+      - Moreton Bay ash.
+    translations:
+      - ash
+
+  - word: bajar
+    type: noun
+    definitions:
+      - Moreton Bay ash.
+    translations:
+      - ash
+
+  - word: bajarr
+    type: noun
+    definitions:
+      - loya vine fern leaves, used in making mia-mia
+    translations:
+      - leaves
+      - vine
+      - fern
+
+  - word: bajarr
+    type: noun
+    definitions:
+      - loya vine fern leaves, used in making mia-mia
+    translations:
+      - leaves
+      - vine
+      - fern
+
+  - word: bajaybajay
+    type: adjective
+    definitions:
+      - painful. "Bangkarr bajaybajay flumunmun", "My body is sore after the fly"
+    synonyms:
+      - kaka
+      - wurrkal
+    translations:
+      - pain
+      - painful
+
+  - word: baji
+    type: noun
+    definitions:
+      - a sore
+    translations:
+      - sore
+
+  - word: bajibay
+    type: noun
+    definitions:
+      - bone
+    translations:
+      - bone
+
+  - word: baju
+    type: noun
+    definitions:
+      - lump on neck
+    translations:
+      - lump
+      - neck lump
+
+  - word: bajurr
+    type: noun
+    definitions:
+      - nuisance. "Yinya karrkay bajurr bajaku", "That child is a big nuisance"
+    translations:
+      - nuisance
+
+  - word: bajurr-bangkan
+    type: transitive-verb
+    definitions:
+      - to scold. "Ngayu kangkal bajurr-bangkan, nyulu cassette dumbarrinya", "I scolded my child because he broke the cassette"
+    translations:
+      - scolded
+
+  - word: bajuy
+    type: noun
+    definitions:
+      - slippery lizard
+    translations:
+      - lizard
+
+  - word: bakal
+    type: transitive
+    definitions:
+      - dig. "Jana bubu bakan", "They dug a hole"
+      - stab, prick. "Sisterrangka needleda bakan", "Sister gave me a shot (pricked with a needle)"
+    translations:
+      - dig
+      - stab
+      - prick
+
+  - word: bakamu
+    type: noun
+    definitions:
+      - green pigeon
+    translations:
+      - pigeon
+      - green pigeon
+
+  - word: bakarr
+    type: noun
+    definitions:
+      - ridge pole
+    translations:
+      - ridge pole
+      - pole
+
+  - word: bakay
+    type: noun
+    definitions:
+      - short light brown or yellow water snake
+    translations:
+      - water snake
+      - snake
 
   - word: jalbu
     type: noun
