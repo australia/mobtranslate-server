@@ -288,13 +288,67 @@ words:
       - water snake
       - snake
 
-  - word: jalbu
+  - word: baki
     type: noun
     definitions:
-      - woman are like men
+      - toys with wheels. English loan word from buggy.
     translations:
-      - female
-      - woman
+      - toy
+      - buggy
+
+  - word: Bakikiri
+    type: noun
+    definitions:
+      - place name, the river and ground at Butcher's Hill
+    translations:
+      - butchers hill
+
+  - word: Baku
+    type: noun
+    definitions:
+      - place name, point off Snapper Island
+    translations:
+      - snapper island
+
+  - word: bakul
+    type: noun
+    definitions:
+      - poison plant found at Rossville.
+      - tobacco. This is no longer in use for tobacco.
+    translations:
+      - poison plant
+
+  - word: bala
+    type: noun
+    definitions:
+      - feathertail flider or sugar glider
+    translations:
+      - sugar glider
+
+  - word: bala
+    type: adjective
+    definitions:
+      - skinny, weak from sickness or not enough to eat. "Yundu balaman mayi karimun", "You became skinny from not having enough food"
+    synonyms:
+      - yayji
+    translations:
+      - skinny
+      - weak
+      - boney
+
+  - word: Balabay
+    type: noun
+    definitions:
+      - place name. Plantation Creek and the ground around its mouth
+    translations:
+      - plantation creek
+
+  - word: balamu
+    type: noun
+    definitions:
+      - boil
+    translations:
+      - boil
 
   - word: jalkay
     type: noun

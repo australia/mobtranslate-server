@@ -52,8 +52,6 @@ const parseText = (text) => {
 };
 
 const lookupWord = (dictionary, word) => {
-  console.log("Looking up", word, dictionary);
-
   let wordData = null;
   const wordObj = _.find(dictionary.words, (w) => {
     let foundTranslation = false;
@@ -80,7 +78,6 @@ app.get("/", function (req, res) {
 
 app.get("/lookup/:word", function (req, res) {
   const { word } = req.params;
-  console.log({ word });
   const dictionary = parseDictionary("kuku_yalanji");
   const wordData = lookupWord(dictionary, word);
 
@@ -89,24 +86,23 @@ app.get("/lookup/:word", function (req, res) {
 
 app.post("/translate", function (req, res) {
   const { text } = req.body;
-  console.log("================= NEW TRANSLATE");
   const dictionary = parseDictionary("kuku_yalanji");
   const textArray = parseText(text);
   const translationArray = _.clone(textArray);
-  console.log(typeof translationArray, translationArray);
   _.each(textArray, (textWord, index) => {
     // try find translation and do override
     const translatedWord = lookupWord(dictionary, textWord);
-    console.log("Looking up words", textWord, "found, translatedWord");
     if (translatedWord) {
-      console.log("found some translation info", translatedWord);
       translationArray[index] = translatedWord.word;
     }
   });
 
   // convert translations array back to string
   const translation = translationArray.join(" ");
-
+  console.log("Found user search", {
+    originalText: text,
+    translatedText: translation,
+  });
   res.send({ originalText: text, translatedText: translation });
 });
 
