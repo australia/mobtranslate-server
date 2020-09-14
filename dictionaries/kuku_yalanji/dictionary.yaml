@@ -117,8 +117,31 @@ words:
       - blue-tongue lizard
       - place name. spring above middle camp, story site
     translations:
-      - more
-      - again
+      - blue-tongue lizard
+      - lizard
+  - word: baja-burray
+    type: intrv
+    definitions:
+      - tired. "ngayu baja-burray jilbamun", "I'm tired after the walkabout"
+    translations:
+      - tired
+  - word: bajaku
+    type: mod
+    definitions:
+      - very. "jana mayi jirray ajaku manin storemun", "They got very much food from the store"
+      - definitely. "ngayu kari bajakudungay", "I'm definitely not going"
+      - shows intensity. "nyulu bama bajaku", "he's a real aboriginal"
+    translations:
+      - very
+      - definitely
+      - real
+  - word: bajal
+    type: n
+    definitions:
+      - species of bower bird"
+    translations:
+      - bower bird
+
   - word: dawar
     type: noun
     definitions:
