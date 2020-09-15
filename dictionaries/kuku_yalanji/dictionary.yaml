@@ -349,6 +349,14 @@ words:
       - boil
     translations:
       - boil
+    
+  - word: dingkar
+    type: noun
+    definitions:
+      - man. male.
+    translations:
+      - male
+      - man
       
   - word: jalbu
     type: noun
