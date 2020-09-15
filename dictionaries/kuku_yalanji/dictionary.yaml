@@ -365,6 +365,13 @@ words:
     translations:
       - woman
 
+  - word: nbulkurr
+    type: adjective
+    definitions:
+      - good
+    translations:
+      - good
+
   - word: jalkay
     type: noun
     definitions:
@@ -443,3 +450,10 @@ words:
       - spirit is in all living things
     translations:
       - spirit
+
+  - word: yalada
+    type: adjective
+    definitions:
+      - hello
+    translations:
+      - hello
