@@ -34,8 +34,8 @@ node server.js
 Blah blah split into some sections
 
 - [Transcription](#Transcription)
-- [Translation Engine](#Translation%20Engine)
-  * [Transcription Instructions](#Transcription%20Instructions)
+- [Translation Engine](#Translation-Engine)
+  * [Transcription Instructions](#Transcription-Instructions)
 - [Servers](#Servers)
 
 ### Transcription
