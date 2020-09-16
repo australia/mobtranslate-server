@@ -40,92 +40,82 @@ Blah blah split into some sections
 
 ### Transcription
 
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
 
 ### Translation Engine
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
+
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
 #### Transcription Instructions
 
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
+
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
 ### Servers
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
+
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
+- test
 ### Frontend
 test
 test
