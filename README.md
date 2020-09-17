@@ -10,7 +10,7 @@ Our contributor discussions happen on Telegram -> [https://t.me/mobtranslate](ht
 
 It is essentially impossible to make a fully grammatically correct translation service for languages that are not widely used and not well documented.
 
-The projects mission will be to;
+The projects mission will be in order of priority to;
 
 - Help people learn basic vocabulary even if used grammatically incorrect e.g. "I caught a fish" -> "I caught a kuyu"
 - Attempt to create a hybrid language between English and Tribal dialects, for example [Singlish](https://en.wikipedia.org/wiki/Singlish) (Singaporean English)
@@ -134,15 +134,13 @@ t - time
 trv - transitive verb
 ```
 
-- test
-
 ### Translation Engine
 
 As outlined at the top, the projects mission is to help teach Aboriginal languages to those who want to learn. Again, it is a very hard task to make the project accurate or an authority by any means.
 
-As a first step, most people would just like to expand their vocabulary. This can easily be achieved through simple string replacement using [string similarity](https://www.npmjs.com/package/string-similarity) techniques.
+As a first step, most people would just like to expand their vocabulary. This can easily be achieved through simple string replacement using [string similarity](https://www.npmjs.com/package/string-similarity) techniques e.g. "I like fishes" and "I like fish" could translate to "I like kuyu".
 
-The second step would be trying to get sentences grammatically correct. This will involve more extensive research, more conditional logic (does this verb makes sense proceeding this noun) and more complex natural language processing to achieve. All ideas on how to achieve this are extremely welcome.
+The second step would be trying to get sentences grammatically correct. This will involve more extensive research, more conditional logic (does this verb makes sense proceeding this noun) and more complex natural language processing to achieve. All ideas on relating to this step are extremely welcome.
 
 The third step, or project end goal, would be to revive the language. Given that many people can't speak conversational dialect's, there might be a requirement to also invent or inspire new grammar inside the specified language. (Perhaps machine learning models have the answer to this, and an answer that everyone might be happy to appropriate)
 
@@ -174,6 +172,14 @@ Currently hosted on Heroku. Doesn't need much else yet.
 ### Client
 
 Built with React (Next.js), the client code can be found at [https://github.com/australia/mobtranslate-client](https://github.com/australia/mobtranslate-client)
+
+### Design
+
+The design will remain as minimal as possible. (Much like the current homepage)
+
+There will be links to a Figma board where anybody can see the current design mockups.
+
+The app will make sure to credit on the everyone on the homepage below translations (contributors, language speakers, anthropologists, lexicographers etc)
 
 ### Deployment
 
