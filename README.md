@@ -2,19 +2,25 @@
 
 [https://mobtranslate.com](https://mobtranslate.com)
 
-A fully open source community orientated endaevour to make "Google Translate" for as many Australian Aboriginal languages as possible.
+A fully open source community orientated endeavour to make "Google Translate" for as many Australian Aboriginal languages as possible.
 
-I am currently converting one dictionary (Yalanji) from PDF to YAML but it is super time intensive.
+Our contributor discussions happen on Telegram -> [https://t.me/mobtranslate](https://t.me/mobtranslate)
 
-Looking for any other developers who would like to help out. (writing YAML files mostly to begin with)
+## Project Goals
 
-I've made an [issue](https://github.com/australia/mobtranslate-server/issues/1) for volunteers to get in touch with.
+It is essentially impossible to make a fully grammatically correct translation service for languages that are not widely used and not well documented.
 
-We also have a Telegram channel for contributors to chat on -> [https://t.me/mobtranslate](https://t.me/mobtranslate)
+The projects mission will be to;
+
+- Help people learn basic vocabulary even if used grammatically incorrect e.g. "I caught a fish" -> "I caught a kuyu"
+- Attempt to create a hybrid language between English and Tribal dialects, for example [Singlish](https://en.wikipedia.org/wiki/Singlish) (Singaporean English)
+- In the absence of grammatical knowledge, the project _could_ also possibly make efforts to invent some new grammatical concepts.
+
+(The infrastructure will be built with the thought in mind that there are many global minority languages that could also benefit from this framework)
 
 ## Getting Started
 
-Download and install project
+Download and install dependencies
 
 ```bash
 git clone git@github.com:australia/mobtranslate-server.git
@@ -29,54 +35,23 @@ node server.js
 # There is no auto-reload yet so restart manually after file changes
 ```
 
-## Project Plan
-
-Blah blah split into some sections
+## Technical Project Plan
 
 - [Transcription](#Transcription)
-- [Translation Engine](#Translation-Engine)
   - [Transcription Instructions](#Transcription-Instructions)
+- [Translation Engine](#Translation-Engine)
+- [Dictionary Format](#Dictionary-Format)
 - [Servers](#Servers)
+- [Client](#Client)
+- [Deployment](#Deployment)
 
 ### Transcription
 
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
+There are over 400 tribal languages in Australia and they are stored in many different ways.
 
-### Translation Engine
+The process of getting a particular dialect will differ each time.
 
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
+We have only started on Kuku Yalanji for which there are some basic instructions below.
 
 #### Transcription Instructions
 
@@ -84,12 +59,12 @@ Language Dictionary: http://www.ausil.org.au/sites/ausil/files/WP-B-7%20English%
 
 ##### Requirements
 
-- Transcripts pages 155 - 167 (All words starting with "Y")
-- Your output should end up in one file called `dictionary.yaml`
+- Check out `./dictionaries/kuku_yalanji/dictionary.yaml` to see what hasn't been done yet
+- Your work should end up in `./dictionaries/kuku_yalanji/dictionary.yaml`
 - It should be in alphabetical order
 - The word type should be saved correctly e.g. noun, verb, transitive-verb, adjective (full table below)
 - It should be valid YAML (you can check your syntax by pasting into here ->http://www.yamllint.com)
-- You have to use your better judgement when choosing a potential translations per word (I explain more below)
+- You have to use your better judgement when choosing potential translations per word (I explain more below)
 
 In short, one has to take the words, definitions and grammar from the PDF and transcribe them into the common data format YAML. The dictionary PDF can be a bit inconsistent so you will have to use a bit of common sense when transcribing.
 
@@ -127,7 +102,7 @@ Here is an example of the output below, you should end up with file called `dict
     - stubborn
 ```
 
-^ Above is how the data should look in `dictionary.yaml`
+Above is how the data should look in `./dictionaries/kuku_yalanji/dictionary.yaml`
 
 `word` - The Aboriginal version of the word
 
@@ -140,7 +115,7 @@ Here is an example of the output below, you should end up with file called `dict
 `translations` - This one requires a bit of creativity. If the word translates to "hello", add a new line for "hello", but maybe add a new
 line for "hi" and "hey". (Use your best judgement here)
 
-Word Types
+Word Types;
 
 ```
 adj - adjective
@@ -160,108 +135,51 @@ trv - transitive verb
 ```
 
 - test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
+
+### Translation Engine
+
+As outlined at the top, the projects mission is to help teach Aboriginal languages to those who want to learn. Again, it is a very hard task to make the project accurate or an authority by any means.
+
+As a first step, most people would just like to expand their vocabulary. This can easily be achieved through simple string replacement using [string similarity](https://www.npmjs.com/package/string-similarity) techniques.
+
+The second step would be trying to get sentences grammatically correct. This will involve more extensive research, more conditional logic (does this verb makes sense proceeding this noun) and more complex natural language processing to achieve. All ideas on how to achieve this are extremely welcome.
+
+The third step, or project end goal, would be to revive the language. Given that many people can't speak conversational dialect's, there might be a requirement to also invent or inspire new grammar inside the specified language. (Perhaps machine learning models have the answer to this, and an answer that everyone might be happy to appropriate)
+
+### Dictionary Format
+
+There is no doubt that this will likely be the most contentious issue.
+
+Language is one of those rabbit hole subjects, the complexity is duly noted.
+
+That being said, this project will be considered a success if all it ever does is help people expand their vocabularies.
+
+But the project does also aim to be a bit more ambitious so the data format should be able to evolve over time.
+
+We will begin in YAML because;
+
+- The current research on Aboriginal languages is quite primitive, there isn't much recorded information on linguistic nuances (there isn't many relationships between words)
+- YAML is easy to read, understand and edit
+- YAML requires no extra tooling on a contributors behalf
+- YAML is quite "portable"
+
+Once it seems that project is about to evolve pass the limitations of YAML we will port it to another format.
+
+The desired format is undecided at this point but would likely be a database or XML files.
 
 ### Servers
 
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
-- test
+Currently hosted on Heroku. Doesn't need much else yet.
 
-### Frontend
+### Client
 
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
+Built with React (Next.js), the client code can be found at [https://github.com/australia/mobtranslate-client](https://github.com/australia/mobtranslate-client)
 
 ### Deployment
 
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
-test
+Deployed on Heroku, automatically deploys master branch.
 
-Useful Links:
+### Useful Links:
 
-- faith based translations
-- different apps
-
-```
-
-```
+- [http://ausil.org/Dictionary/Djinang/lexicon/index.htm](http://ausil.org/Dictionary/Djinang/lexicon/index.htm)
+- [https://ebible.org/study/?w1=bible&t1=local:gvn&v1=JN1_1](https://ebible.org/study/?w1=bible&t1=local:gvn&v1=JN1_1)
