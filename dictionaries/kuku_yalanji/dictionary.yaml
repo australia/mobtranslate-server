@@ -349,7 +349,47 @@ words:
       - boil
     translations:
       - boil
-    
+
+  - word: balanbalan
+    type: adjective
+    definitions:
+      - level, flat. Yundu balnji wunay, bayan ngara bubungu balanbalanba. 'When you camp out, you should build your shelter on flat ground.'
+    translations:
+      - level
+      - flat
+
+  - word: balar
+    type: noun
+    definitions:
+      - high tide
+      - place name - Oaky Creek ground.
+    translations:
+      - high tide
+      - Oaky Creek ground
+
+  - word: balarr
+    type: noun
+    definitions:
+      - human body flea
+    translations:
+      - human body flea
+
+  - word: balarri
+    type: noun
+    definitions:
+      - queenfish
+    translations:
+      - queenfish
+
+  - word: balay
+    type: adjective
+    definitions:
+      - level ground
+    translations:
+      - level ground
+    synonyms:
+      - dubar
+
   - word: dingkar
     type: noun
     definitions:
@@ -357,7 +397,7 @@ words:
     translations:
       - male
       - man
-      
+
   - word: jalbu
     type: noun
     definitions:
