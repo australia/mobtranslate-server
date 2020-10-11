@@ -355,10 +355,10 @@ words:
     definitions:
       - level, flat
       - a "Yundu balnhi wunay, bayan ngara bubunga balanbalanba.", "When you camp out, you should build your shelter on flat ground"
-
     translations:
       - level
       - flat
+
   - word: balar
     type: noun
     definitions:
@@ -551,3 +551,164 @@ words:
       - hello
     translations:
       - hello
+
+  - word: wurra
+    type: noun
+    definitions:
+      - umbilical cord
+    translations:
+      - umbilical cord
+
+  - word: muyurr
+    type: noun
+    definitions:
+      - umbrella
+      - part of an umbrella palm
+    translations:
+      - umbrella
+
+  - word: nganyi-burra
+    type: adjective
+    definitions:
+      - unable
+      - not good at something
+    translations:
+      - unable
+      - not good at something
+
+  - word: muna
+    type: adjective
+    definitions:
+      - unafraid
+    translations:
+      - unafraid
+
+  - word: minday
+    type: adjective
+    definitions:
+      - unafraid
+    translations:
+      - unafraid
+
+  - word: kalnga
+    type: noun
+    definitions:
+      - uncle
+      - mothers brother
+    translations:
+      - uncle
+
+  - word: wulay
+    type: intrv
+    definitions:
+      - unconscious
+    translations:
+      - unconscious
+
+  - word: bada-bada
+    type: dir
+    definitions:
+      - underneath
+    translations:
+      - underneath
+
+  - word: kural
+    type: ma
+    definitions:
+      - underwater
+    translations:
+      - underwatter
+      - submerged
+
+  - word: ngangkal
+    type: trv
+    definitions:
+      - unexpected
+    translations:
+      - unexpected
+      - surprising
+
+  - word: jirrbu-jirrbu
+    type: adjective
+    definitions:
+      - uninhabited
+    translations:
+      - uninhabited
+
+  - word: kayal
+    type: adjective
+    definitions:
+      - unripe
+    translations:
+      - unripe
+
+  - word: kalki
+    type: adjective
+    definitions:
+      - unripe
+    translations:
+      - unripe
+
+  - word: wawu-daki
+    type: ma
+    definitions:
+      - unsociable
+    translations:
+      - unsociable
+
+  - word: nyikurrku
+    type: transitive
+    definitions:
+      - until now
+    translations:
+      - until now
+
+  - word: wangkar
+    type: dir
+    definitions:
+      - up
+      - upriver
+    translations:
+      - up
+      - upriver
+
+  - word: barrkar
+    type: noun
+    definitions:
+      - upper jaw
+    translations:
+      - upper jaw
+
+  - word: jurrngal
+    type: transitive
+    definitions:
+      - upset
+    translations:
+      - upset
+
+  - word: kumbu
+    type: noun
+    definitions:
+      - urine
+    translations:
+      - urine
+      - piss
+      - pee
+
+  - word: yiwan
+    type: noun
+    definitions:
+      - urine
+    translations:
+      - urine
+      - piss
+      - pee
+
+  - word: dalngarri
+    type: noun
+    definitions:
+      - urine
+    translations:
+      - urine
+      - piss
+      - pee

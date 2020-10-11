@@ -55,7 +55,9 @@ We have only started on Kuku Yalanji for which there are some basic instructions
 
 #### Transcription Instructions
 
-Language Dictionary: http://www.ausil.org.au/sites/ausil/files/WP-B-7%20English%20-%20Kuku-Yal%20Dict._0.pdf
+Language Dictionaries: 
+- Kuku-Yalanji -> English: http://www.ausil.org.au/sites/ausil/files/WP-B-7%20Kuku-Yal%20-%20English%20Dict._0.pdf
+- English -> Kuku-Yalanji: http://www.ausil.org.au/sites/ausil/files/WP-B-7%20English%20-%20Kuku-Yal%20Dict._0.pdf
 
 ##### Requirements
 
