@@ -349,7 +349,101 @@ words:
       - boil
     translations:
       - boil
-    
+
+  - word: balanbalan
+    type: adj
+    definitions:
+      - level, flat
+      - a "Yundu balnhi wunay, bayan ngara bubunga balanbalanba.", "When you camp out, you should build your shelter on flat ground"
+
+    translations:
+      - level
+      - flat
+  - word: balar
+    type: noun
+    definitions:
+      - high tide
+      - place name - Okay Creek ground
+    translations:
+      - high tide
+      - high-tide
+      - tide
+  - word: balarr
+    type: noun
+    definitions:
+      - human body flea
+    translations:
+      - flea
+  - word: balarri
+    type: noun
+    definitions:
+      - queenfish
+    translations:
+      - queenfish
+  - word: balay
+    type: adjective
+    definitions:
+      - level ground
+    translations:
+      - ground
+    synonyms:
+      - dubar
+  - word: balba
+    type: adjective
+    definitions:
+      - pregnant
+    translations:
+      - pregnant
+    synonyms:
+      - kulngkul
+  - word: balbal
+    type: trv
+    definitions:
+      - shine "Wungaraba dayirr bajaku balban." , "The sun shone brightly"
+    translations:
+      - shine
+  - word: balbay
+    type: noun
+    definitions:
+      - lightning "Balbaynja dalbarrinji", "Lighting might strike"
+    translations:
+      - lightning
+  - word: balbi
+    type: trv
+    definitions:
+      - hunt for, search for
+    translations:
+      - hunt
+      - search
+  - word: balibali
+    type: adj
+    definitions:
+      - leaky, "Bayan balibali, bana walalarrku", "The house is leaky, the water is coming in."
+    translations:
+      - leaky
+      - leaking
+      - leak
+  - word: baliji
+    type: noun
+    definitions:
+      - "people belonging to open country"
+    translations:
+      - people
+      - country people
+  - word: balja
+    type: noun
+    definitions:
+      - A kind of food. It is coked in the fire, groud up and eaten.
+    translations:
+      - food
+      - ground food
+  - word: balji
+    type: noun
+    definitions:
+      - ladie's dilly bag, made from grass or black palm
+    translations:
+      - bag
+      - dilly bag
   - word: dingkar
     type: noun
     definitions:
@@ -357,7 +451,7 @@ words:
     translations:
       - male
       - man
-      
+
   - word: jalbu
     type: noun
     definitions:

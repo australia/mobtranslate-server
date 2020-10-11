@@ -47,7 +47,9 @@ const parseDictionary = (dictionaryName) => {
 // ];
 
 const parseText = (text) => {
+  // take into account grammar
   const textWords = text.split(" ");
+
   return textWords;
 };
 
