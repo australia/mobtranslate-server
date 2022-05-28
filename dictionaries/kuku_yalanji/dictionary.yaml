@@ -1568,7 +1568,7 @@ words:
       - sitting with hands in legs
 
   - word: biwuy
-    type: noin
+    type: noun
     definitions:
       - purpoise, dugong, sea cow
       - iron
@@ -1576,25 +1576,181 @@ words:
       - dugong
 
   - word: biyal
-    type: noin
+    type: noun
     definitions:
       - gristle, sinew, string, blood vessel (especially wallaby tail sinew)
     translations:
       - gristle
 
-  - word: jiba
+  - word: biyangkal
     type: noun
     definitions:
-      - food sits inside your belly
+      - yam, which must be first roasted, then ground, then leached for a couple huors in many changes of water before it can be safely eaten
     translations:
-      - belly
+      - yam
 
-  - word: jina
+  - word: biyul
     type: noun
     definitions:
-      - need them to stand up
+      - nyungkal - turtle spear point
+      - yalanji kurajan.
     translations:
-      - foot
+      - spear head
+      - turtle spear head
+
+  - word: bubal
+    type: noun
+    definitions:
+      - species of tree snake
+    translations:
+      - snake
+      - tree snake
+
+  - word: buban
+    type: noun
+    definitions:
+      - small amount, "ngayu money buban wunay", "I have only a little bit of money"
+      - short time, "nyulu buban bundan", "He stayed a little while"
+    translations:
+      - small
+      - broke
+
+  - word: bubanmal
+    type: intransitive verb
+    definitions:
+      - jumble, unimportant
+    translations:
+      - humble
+      - unimportant
+
+  - word: bubu
+    type: noun
+    definitions:
+      - groud, earth. "kambi bubujida", "the clothes are dirty now"
+      - a person's country, where he belonds, "nyungu bubu Shipton's Flats", "his country is Shipton's Flats"
+    translations:
+      - ground
+      - earth
+
+  - what: bubu walu-yindu-walu-yindi
+    maybe: place names
+
+  - word: baja-baja
+    type: noun
+    definitions:
+      - spring at Middle Camp
+    translations:
+      - Middle Camp
+
+  # todo - page
+  # 18 -> 25
+
+  - word: bakikiri
+  - word: balabay
+  - word: balar
+  - word: banabila
+  - word: banbanba
+  - word: bangkal-ngaren
+  - word: barkamali
+  - word: bibikarrbaja
+  - word: bidin-damaja
+  - word: bijalabay
+  - word: bulban
+  - word: burrkaymba
+  - word: buru
+  - word: dikarr
+  - word: dilngku-baja
+  - word: dubu-mirrkirr
+  - word: dulmbill
+  - word: jijamali
+  - word: jinjurri
+  - word: jiwurru
+  - word: jilkurr
+  - word: julay
+  - word: jungur
+  - word: kada-kada
+  - word: kalal-kalal
+  - word: kalkajaka
+  - word: kangkiji
+  - word: karu-kumbo
+  - word: kija
+  - word: kulki
+  - word: kulngku
+  - word: kumarkaji
+  - word: kuna
+  - word: manyi
+  - word: maramba
+  - word: marbaymba
+  - word: mawurmbu
+  - word: mijinan
+  - word: milbayarr
+  - word: muja
+  - word: ngurra
+  - word: muliku
+  - word: munju-jubal
+  - word: nambil-nambil
+  - word: ngalba-bulal
+  - word: ngalkunbu
+  - word: ngamujin
+  - word: ngarri-murril
+  - word: ngurrku
+  - word: walba-ngarra
+  - word: wayal-wayal
+  - word: wujal-wujal
+  - word: wundu
+  - word: wungkabaja
+  - word: yubulu
+  - word: yuku-baja
+  - word: yumalba
+
+  - what: Buba walu-yindu Mangkalbamun Yibuy-karrbajanga jalundurr
+
+  - word: mangkalba
+  # more to go
+
+  - word: bububay
+    type: noun
+    definitions:
+      - violent-lined parrotfish
+    translations:
+      - parrot fish
+
+  - word: bubun
+
+  - word: buda
+    type: noun
+    definitions:
+      - empty container
+    translations:
+      - container
+      - empty
+
+  - word: budida
+    type: noun
+    definitions:
+      - potatoes (english loan word )
+    translations:
+      - potato
+      - potatoes
+
+  - word: budukul
+    type: noun
+    definitions:
+      - rock wallaby
+    translations:
+      - wallaby
+      - rock wallaby
+
+  - word: bujabay
+    type: noun
+    definitions:
+      - species of tree with fruit which must be soaked to relase the poison before eating
+    translations:
+      - fruit tree
+      - poison tree
+
+  - word: bujal
+    type: noun
 
   - word: kija
     type: noun
