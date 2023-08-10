@@ -1,3 +1,5 @@
+# This is a YAML formatted dictionary that describes the indigenous Australia tribe called Kuku Yalanji.
+
 meta:
   name: Kuku Yalanji
 
@@ -1632,7 +1634,7 @@ words:
       - ground
       - earth
 
-  - what: bubu walu-yindu-walu-yindi
+  - word: bubu walu-yindu-walu-yindi
     maybe: place names
 
   - word: baja-baja
@@ -1642,330 +1644,1226 @@ words:
     translations:
       - Middle Camp
 
-  # todo - page
-  # 18 -> 25
-
   - word: bakikiri
-  - word: balabay
-  - word: balar
-  - word: banabila
-  - word: banbanba
-  - word: bangkal-ngaren
-  - word: barkamali
-  - word: bibikarrbaja
-  - word: bidin-damaja
-  - word: bijalabay
-  - word: bulban
-  - word: burrkaymba
-  - word: buru
-  - word: dikarr
-  - word: dilngku-baja
-  - word: dubu-mirrkirr
-  - word: dulmbill
-  - word: jijamali
-  - word: jinjurri
-  - word: jiwurru
-  - word: jilkurr
-  - word: julay
-  - word: jungur
-  - word: kada-kada
-  - word: kalal-kalal
-  - word: kalkajaka
-  - word: kangkiji
-  - word: karu-kumbo
-  - word: kija
-  - word: kulki
-  - word: kulngku
-  - word: kumarkaji
-  - word: kuna
-  - word: manyi
-  - word: maramba
-  - word: marbaymba
-  - word: mawurmbu
-  - word: mijinan
-  - word: milbayarr
-  - word: muja
-  - word: ngurra
-  - word: muliku
-  - word: munju-jubal
-  - word: nambil-nambil
-  - word: ngalba-bulal
-  - word: ngalkunbu
-  - word: ngamujin
-  - word: ngarri-murril
-  - word: ngurrku
-  - word: walba-ngarra
-  - word: wayal-wayal
-  - word: wujal-wujal
-  - word: wundu
-  - word: wungkabaja
-  - word: yubulu
-  - word: yuku-baja
-  - word: yumalba
+    type: noun
+    definitions:
+      - Butcher's hill
+    translations:
+      - place
 
-  - what: Buba walu-yindu Mangkalbamun Yibuy-karrbajanga jalundurr
+  - word: balabay
+    type: noun
+    definitions:
+      - Plantation Creek area
+    translations:
+      - place
+
+  - word: balar
+    type: noun
+    definitions:
+      - Oaky Creek
+    translations:
+      - place
+
+  - word: banabila
+    type: noun
+    definitions:
+      - Olbar's camp
+    translations:
+      - place
+
+  - word: banbanba
+    type: noun
+    definitions:
+      - Springvale
+    translations:
+      - place
+
+  - word: bangkal-ngaren
+    type: noun
+    definitions:
+      - Shipton's Flat area, a junction of Grasstree and Bijan creeks
+    translations:
+      - place
+
+  - word: barkamali
+    type: noun
+    definitions:
+      - near China Camp
+    translations:
+      - place
+
+  - word: bibikarrbaja
+    type: noun
+    definitions:
+      - Helenvale (warrkin)
+    translations:
+      - place
+
+  - word: bidin-damaja
+    type: noun
+    definitions:
+      - Ten mile area
+    translations:
+      - place
+
+  - word: bijalabay
+    type: noun
+    definitions:
+      - near China Camp
+    translations:
+      - place
+
+  - word: bulban
+    type: noun
+    definitions:
+      - near China Camp
+    translations:
+      - place
+
+  - word: burrkaymba
+    type: noun
+    definitions:
+      - near China Camp
+    translations:
+      - place
+
+  - word: buru
+    type: noun
+    definitions:
+      - China Camp
+    translations:
+      - place
+
+  - word: dikarr
+    type: noun
+    definitions:
+      - Thompson Creek Camp
+    translations:
+      - place
+
+  - word: dilngku-baja
+    type: noun
+    definitions:
+      - Middle camp
+    translations:
+      - place
+
+  - word: dubu-mirrkirr
+    type: noun
+    definitions:
+      - skill in rocks
+    translations:
+      - place
+
+  - word: dulmbill
+    type: noun
+    definitions:
+      - Stucky's Gap
+    translations:
+      - place
+
+  - word: jijamali
+    type: noun
+    definitions:
+      - coconut grove across from mill
+    translations:
+      - place
+
+  - word: jinjurri
+    type: noun
+    definitions:
+      - Billygoat Creek
+    translations:
+      - place
+
+  - word: jiwurru
+    type: noun
+    definitions:
+      - Romeo area
+    translations:
+      - place
+
+  - word: jilkurr
+    type: noun
+    definitions:
+      - Roy Haach's old farm
+    translations:
+      - place
+
+  - word: julay
+    type: noun
+    definitions:
+      - Daintree (site of old bama camp)
+    translations:
+      - place
+
+  - word: jungur
+    type: noun
+    definitions:
+      - Collin's Hill
+    translations:
+      - place
+
+  - word: kada-kada
+    type: noun
+    definitions:
+      - Bailey's Creek
+    translations:
+      - place
+
+  - word: kalal-kalal
+    type: noun
+    definitions:
+      - Harry Dick's place
+    translations:
+      - place
+
+  - word: kalkajaka
+    type: noun
+    definitions:
+      - Black Mountains (also the caves there)
+    translations:
+      - place
+
+  - word: kangkiji
+    type: noun
+    definitions:
+      - see jalundurr list
+    translations:
+      - place
+
+  - word: karu-kumbo
+    type: noun
+    definitions:
+      - top end of Watermelon Creek
+    translations:
+      - place
+
+  - word: kija
+    type: noun
+    definitions:
+      - Roaring Meg Falls
+    translations:
+      - place
+
+  - word: kulki
+    type: noun
+    definitions:
+      - Tribulation
+    translations:
+      - place
+
+  - word: kulngku
+    type: noun
+    definitions:
+      - Bailey's Creek
+    translations:
+      - place
+
+  - word: kumarkaji
+    type: noun
+    definitions:
+      - near China Camp
+    translations:
+      - place
+
+  - word: kuna
+    type: noun
+    definitions:
+      - Shipton's Flats
+    translations:
+      - place
+
+  - word: manyi
+    type: noun
+    definitions:
+      - summit between Bloomfield and Rossville (sea view)
+    translations:
+      - place
+
+  - word: maramba
+    type: noun
+    definitions:
+      - upper Watermelon Creek
+    translations:
+      - place
+
+  - word: marbaymba
+    type: noun
+    definitions:
+      - Rattlesnake Point (story site)
+    translations:
+      - place
+
+  - word: mawurmbu
+    type: noun
+    definitions:
+      - Gold Hill
+    translations:
+      - place
+
+  - word: mijinan
+    type: noun
+    definitions:
+      - Wallaby Creek bridge
+    translations:
+      - place
+
+  - word: milbayarr
+    type: noun
+    definitions:
+      - near China Camp
+    translations:
+      - place
+
+  - word: muja
+    type: noun
+    definitions:
+      - Wtermlon Creek
+    translations:
+      - place
+
+  - word: ngurra
+    type: noun
+    definitions:
+      - Wtermlon Creek
+    translations:
+      - place
+
+  - word: muliku
+    type: noun
+    definitions:
+      - Annan River area (between the Annan and the Bloomfield turnoff)
+    translations:
+      - place
+
+  - word: munju-jubal
+    type: noun
+    definitions:
+      - Shpton's Flat area (near the fork of Grasstree Creek)
+    translations:
+      - place
+
+  - word: nambil-nambil
+    type: noun
+    definitions:
+      - Jubilee
+    translations:
+      - place
+
+  - word: ngalba-bulal
+    type: noun
+    definitions:
+      - Mt. Peter Botte
+    translations:
+      - place
+
+  - word: ngalkunbu
+    type: noun
+    definitions:
+      - Wayalla Plains (upper end of Plantation Creek)
+    translations:
+      - place
+
+  - word: ngamujin
+    type: noun
+    definitions:
+      - Emojin Beach
+    translations:
+      - place
+
+  - word: ngarri-murril
+    type: noun
+    definitions:
+      - Romeo area
+    translations:
+      - place
+
+  - word: ngurrku
+    type: noun
+    definitions:
+      - rock in Bloomfield River
+    translations:
+      - place
+
+  - word: walba-ngarra
+    type: noun
+    definitions:
+      - Grasstree (story site)
+    translations:
+      - place
+
+  - word: wayal-wayal
+    type: noun
+    definitions:
+      - Wayalla Plains
+    translations:
+      - place
+
+  - word: wujal-wujal
+    type: noun
+    definitions:
+      - present Mission site
+    translations:
+      - place
+
+  - word: wundu
+    type: noun
+    definitions:
+      - Mt. Alexandra
+    translations:
+      - place
+
+  - word: wungkabaja
+    type: noun
+    definitions:
+      - Tourist camp
+    translations:
+      - place
+
+  - word: yubulu
+    type: noun
+    definitions:
+      - Mt. Poverty
+    translations:
+      - place
+
+  - word: yuku-baja
+    type: noun
+    definitions:
+      - Annan River
+    translations:
+      - place
+
+  - word: yumalba
+    type: noun
+    definitions:
+      - Mt. Yumalba, a montain new Mt. Poverty
+    translations:
+      - place
+
+  - word: bubu walu-yindu-walu-yindi
+    meaning: Yibuy-karrbajanga jalundurr
+    maybe: place names
 
   - word: mangkalba
-  # more to go
-
-  - word: bububay
     type: noun
     definitions:
-      - violent-lined parrotfish
+      - Cebar Bar
     translations:
-      - parrot fish
+      - place
 
-  - word: bubun
-
-  - word: buda
+  - word: marbaymba
     type: noun
     definitions:
-      - empty container
+      - Rattlesnake Point and Fritz Creek (story site)
     translations:
-      - container
-      - empty
+      - place
 
-  - word: budida
+  - word: balabay
     type: noun
     definitions:
-      - potatoes (english loan word )
+      - Plantation Creek
     translations:
-      - potato
-      - potatoes
+      - place
 
-  - word: budukul
+  - word: jajikal
     type: noun
     definitions:
-      - rock wallaby
+      - north side of Bloomfield River mouth
     translations:
-      - wallaby
-      - rock wallaby
+      - place
 
-  - word: bujabay
+  - word: banabila
     type: noun
     definitions:
-      - species of tree with fruit which must be soaked to relase the poison before eating
+      - south side of Bloomfield River mouth
     translations:
-      - fruit tree
-      - poison tree
+      - place
 
-  - word: bujal
+  - word: jijiniliji
     type: noun
+    definitions:
+      - south side of Bloomfield River mouth
+    translations:
+      - place
 
+  - word: wungkabaja
+    type: noun
+    definitions:
+      - tourist fishing camp
+    translations:
+      - place
+
+  - word: kangkiji
+    type: noun
+    definitions:
+      - Kangkiji (north end)
+    translations:
+      - place
+
+  - word: kalal-kalal
+    type: noun
+    definitions:
+      - Harry Dick's area
+    translations:
+      - place
+
+  - word: burra-warrija
+    type: noun
+    definitions:
+      - southwards
+    translations:
+      - place
+
+  - word: kurrbi
+    type: noun
+    definitions:
+      - southwards (story site of wind)
+    translations:
+      - place
+
+  - word: jibul
+    type: noun
+    definitions:
+      - cave (story site)
+    translations:
+      - place
+
+  - word: ngiwa
+    type: noun
+    definitions:
+      - two jutting stones (snake story site)
+    translations:
+      - place
+
+  - word: malajakuy
+    type: noun
+    definitions:
+      - southwards
+    translations:
+      - place
+
+  - word: yida
+    type: noun
+    definitions:
+      - southwards
+    translations:
+      - place
+
+  - word: kaway
+    type: noun
+    definitions:
+      - Cowie Beach
+    translations:
+      - place
+
+  - word: ngamujin
+    type: noun
+    definitions:
+      - Emogin Beach
+    translations:
+      - place
+
+  - word: kulngurbu
+    type: noun
+    definitions:
+      - Coconut grove near mouth of creek
+    translations:
+      - place
+
+  - word: kaliway
+    type: noun
+    definitions:
+      - lower end of Emogin (story site, big footprint)
+    translations:
+      - place
+
+  - word: kulki
+    type: noun
+    definitions:
+      - Cape Tribulation
+    translations:
+      - place
+
+  - word: ngiri
+    type: noun
+    definitions:
+      - creek south of Tribulation
+    translations:
+      - place
+
+  - word: muwul
+    type: noun
+    definitions:
+      - next ground south
+    translations:
+      - place
+
+  - word: kaba-kada
+    type: noun
+    definitions:
+      - kulngurbu
+    translations:
+      - place
+
+  - word: kulngurk
+    type: noun
+    definitions:
+      - Bailey's Creek
+    translations:
+      - place
+
+  - word: kulngku
+    type: noun
+    definitions:
+      - Bailey's Creek
+    translations:
+      - place
+
+  - word: baku
+    type: noun
+    definitions:
+      - point off Snapper Island
+    translations:
+      - place
+
+  - word: yibuy-karrbaja
+    type: noun
+    definitions:
+      - Snapper Island
+    translations:
+      - place
+
+  - word: Bubu Walu-yindu wawubajaburr
+    meaning: Julaymun Binda-babaranga
+    maybe: place names
+
+  - word: julay
+    type: noun
+    definitions:
+      - Daintree
+    translations:
+      - place
+
+  - word: mulujin
+  - word: jiwaymba
+  - word: binda-dijarr
+  - word: binda-milmal
+  - word: burranga
+  - word: binda-hjalbu
+  - word: kunyussimba
+  - word: jiwukal
+  - word: milbija
+  - word: jangkarra
+  - word: kalmbakay
+  - word: wankara
+  - word: bidin-damja
+  - word: jarrabi
+  - word: ngara-bali-bali
+  - word: binda-babara
+
+  - word: Babu walu-yindu wawubjaburr Bloomfieldmundurr jalunmun wangkar Binda-babaranga
+    meaning: Kuwa wawubajaburr wujal-wujaldarr
+    maybe: place names
+
+  - word: jajikal
+  - word: dilngku-baja
+  - word: baja-baja
+  - word: landin
+  - word: jilnganji
+  - word: jinjurri
+  - word: maraymbaja
+  - word: bularr
+  - word: wujal-wujal
+
+  - word: Naka wawabajaburr wujal-wujaldarr
+    meaning: Naka wawabajaburr wujal-wujaldarr
+    maybe: place names
+
+  - word: jijiniliji
+  - word: jungur
+  - word: banabila
+  - word: nganjuninda
+  - word: jijiamali
+  - word: jarunga-kija
+  - word: dikarr
+  - word: landin
+  - word: ngurku
+  - word: wujal-wujal
+
+  - word: Wujal-wujalmun wangkar Binda-babranga
+    meaning: Wujal-wujalmun wangkar Binda-babranga
+    maybe: place names
+
+  - word: wujal-wujal
+  - word: bulngkalba
+  - word: walba-murru
+  - word: burunbu
+  - word: riba
+  - word: nbalmbungu
+  - word: kubi
+  - word: ngamu-kaja
   - word: kija
-    type: noun
-    definitions:
-      - reflects the sun at night
-    translations:
-      - moon
+  - word: karrulbu
+  - word: milbayarr
+  - word: dabul
+  - word: bununbu
+  - word: burrkaymba
+  - word: jiri-wuran
+  - word: jingka-jingka
+  - word: binda-babara
+  - word: bubu walu-yinda wawubajaburr
+  - word: dikarr
+  - word: landin
+  - word: jarramaliyan
+  - word: kalngkan-damal
+  - word: kabi
+  - word: walu-dalbaji
+  - word: warral-warral
 
-  - word: mayi
-    type: noun
-    definitions:
-      - everybody eats food, vegetable protein
-    translations:
-      - food
-      - vegetables
+  - word: Zigazagmun Main Campmunbu
+    meaning: Zigazagmun Main Campmunbu
+    maybe: place names
 
-  - word: mara
-    type: noun
-    definitions:
-      - you clap with your hands
-    translations:
-      - hand
+  - word: dikurrbu
+  - word: dubu-mirrkirr
+  - word: mabarrba
+  - word: ngumbuymbu
+  - word: marangaku
+  - word: bububay
+  - word: bubun
+  - word: buda
+  - word: budida
+  - word: budukul
+  - word: bujabay
+  - word: bujabuja
+  - word: bujal
+  - word: bujan
+  - word: bujar
+  - word: bujarr-bujarr
+  - word: buji
+  - word: bujil
+  - word: bujil-barin
+  - word: bujil-bulkaji
+  - word: bujil-jalngkun
+  - word: bujil-janjil
+  - word: bujil-kabu
+  - word: bujil-wungara
+  - word: bujil-yiran
+  - word: bujur
+  - word: bukarr
+  - word: bukul
+  - word: bukul-bukul
+  - word: bukunjarra
+  - word: bula
+  - word: bularr
+  - word: bulawu
+  - word: bulba
+  - word: bulban
+  - word: bulbu
+  - word: bulbuji
+  - word: bulbul
+  - word: bulbululul
+  - word: bulbun
+  - word: bulbur
+  - word: buldar
+  - word: buliman
+  - word: buljun
+  - word: bulka
+  - word: bulkiji
+  - word: bulmbuy
+  - word: bulngal
+  - word: bulngkalba
+  - word: bulngkarr
+  - word: bulnja
+  - word: bulnjur
+  - word: bulu
+  - word: bulu-kajaji
+  - word: bulu-ngaru
+  - word: bulu-duray
+  - word: buubarr
+  - word: balur
+  - word: baluriji
+  - word: bunda
+  - word: bunday
+  - word: bungkay
+  - word: bungku
+  - word: bungkubu janay
+  - word: bungku-duray
+  - word: bungku-jaba
+  - word: bungku-mururmur
+  - word: bungun
+  - word: bungun
+  - word: bunjal
+  - word: bunjay
+  - word: bunjay-dalkay
+  - word: bunjay-kangal
+  - word: bunjil
+  - word: bunjulu
+  - word: bunjurril
+  - word: bununbu
+  - word: burakal
+  - word: burakaji
+  - word: bural
+  - word: buray
+  - word: burdal
+  - word: burin
+  - word: buriwarr
+  - word: burkul
+  - word: burkulbu
+  - word: burmu
+  - word: burngkal
+  - word: burngu
+  - word: burra
+  - word: burranga
+  - word: burra-warri
+  - word: burra-warrija
+  - word: burray
+  - word: burrba
+  - word: burrkaymba
+  - word: burri
+  - word: burri-burri
+  - word: burri-dalkil
+  - word: burri-dudal
+  - word: burri-kari
+  - word: burril
+  - word: burrin-burrin
+  - word: burrir
+  - word: burrir-warra
+  - word: burriyaja
+  - word: burrki
+  - word: burrki-manil
+  - word: burrkul
+  - word: burrkul-dandi
+  - word: burrkun
+  - word: burrngkay-burrngkay
+  - word: burrngkuy
+  - word: buru
+  - word: buru-warra
+  - word: buruku
+  - word: burukuy
+  - word: burul
+  - word: burul-burul
+  - word: burunbu
+  - word: bururr
+  - word: buru-warri
+  - word: buru-warri-manil
+  - word: buwal
+  - word: buwiku
+  - word: buwun
+  - word: buyay-manil
+  - word: buyi
+  - word: buyi
+  - word: buyilbuyil
+  - word: buykuji
+  - word: buymbil
+  - word: buyukal
+  - word: buyun
+  - word: buyunkay
+  - word: buyun-buyun
+  - word: dabadaba
+  - word: dabal
+  - word: dabway
+  - word: dabu
+  - word: dabul
+  - word: dabulkurra
+  - word: daburri
+  - word: dabuy
+  - word: dajal
+  - word: dajali
+  - word: dajalkira
+  - word: dajay
+  - word: dajil
+  - word: daya
+  - word: dajiway
+  - word: dakal
+  - word: dakaldakal
+  - word: dakandil
+  - word: daki-daki
+  - word: dakil
+  - word: dakil-dakil
+  - word: dakilji
+  - word: dakumbar
+  - word: dakwul-dakwul
+  - word: dakwurr-dakwun
+  - word: dakwuy
+  - word: dalban
+  - word: dalbarril
+  - word: dalkal
+  - word: dalkan
+  - word: dalkari
+  - word: dalkay
+  - word: dalkay-manil
+  - word: dalkiji
+  - word: dalkil
+  - word: dalku
+  - word: dalmbal
+  - word: dalngan
+  - word: dalngari
+  - word: damal
+  - word: dama-murnil
+  - word: damaway
+  - word: damba
+  - word: dambal
+  - word: dambun
+  - word: dambunji
+  - word: danbal
+  - word: danda
+  - word: dandarrbina
+  - word: dandi
+  - word: dandi
+  - word: dangal
+  - word: dara
+  - word: daray
+  - word: daray-manil
+  - word: dari
+  - word: darka
+  - word: darkay
+  - word: darra
+  - word: wawu-darra
+  - word: darrba
+  - word: darrbil
+  - word: dawadawa
+  - word: dawal
+  - word: dawar
+  - word: dawarr
+  - word: daya
+  - word: dayirr
+  - word: dibarr
+  - word: dibirrdibirr
+  - word: dibul
+  - word: diburr
+  - word: diburr-miyil
+  - word: didal
+  - word: diday-manil
+  - word: dijaraban
+  - word: dijarr
+  - word: dijarrdijin
+  - word: dikal
 
-  - word: minya
-    type: noun
-    definitions:
-      - food, protein
-    translations:
-      - meat
+  - word: Dikal wali-yindu-wai-yindu
+    meaning: Dikal wali-yindu-wai-yindu
+    maybe: something
 
-  - word: mukay
-    type: noun
-    definitions:
-      - mothers sister
-    translations:
-      - aunty
+  - word: babarr
+  - word: bajal
+  - word: bakamu
+  - word: barinku
+  - word: bayil-bayil
+  - word: bidu-bidu
+  - word: bilu-warra
+  - word: binjul-binjul
+  - word: binjurr-binjurr
+  - word: birmba
+  - word: birrbirr
+  - word: biru-biru
+  - word: bujarr-bujarr
+  - word: bujil-yiran
+  - word: bulbul
+  - word: bulnja
+  - word: burrkul
+  - word: buyi
+  - word: dabuy
+  - word: dabway
+  - word: dakwul-dakwul
+  - word: dakwurr-dakwun
+  - word: dawa-dawa
+  - word: dibirr-dibirr
+  - word: dijarr-dijin
+  - word: dirmbay
+  - word: diwalngku
+  - word: diwan
+  - word: dukunjulu
+  - word: dulku
+  - word: jaka
+  - word: jangkan
+  - word: jarruka
+  - word: jinabiju
+  - word: jiral-jiral
+  - word: jiway
+  - word: jiwurrmal
+  - word: juku-juku
+  - word: julurr-julurr
+  - word: juril-juril
+  - word: jurriyam
+  - word: kadanji
+  - word: kalbu
+  - word: kalkuy
+  - word: kalin-kalin
+  - word: kalmnbagarr
+  - word: karkunbay
+  - word: karrmbil
+  - word: kujuway
+  - word: kuludu
+  - word: kumurbina
+  - word: kurkumbay
+  - word: kurranday
+  - word: kurranji
+  - word: kurrbal
+  - word: kurrburrubun
+  - word: kurri-kurri
+  - word: kurrujuwa
+  - word: kurungka
+  - word: kuyir
+  - word: milman
+  - word: mirrki
+  - word: munwingkul
+  - word: muya
+  - word: nili-nili
+  - word: ngarkay
+  - word: wabul
+  - word: waja
+  - word: wakuka
+  - word: wandi
+  - word: wungku
+  - word: yalngkurr
+  - word: yiki
+  - word: yindili
+  - word: yimjul
+  - word: dikarr
+  - word: dikarr-warra
+  - word: dikarra
+  - word: dikirr
+  - word: dikurrbu
+  - word: dilbal
+  - word: dili
+  - word: dilngku-baja
+  - word: dimbi
+  - word: dimbirr
+  - word: dimulji
+  - word: dimur-dimur
+  - word: dimurraji
+  - word: dindal
+  - word: dindarra
+  - word: dingal
+  - word: dingkal
+  - word: dingkar
+  - word: dingki
+  - word: dingkil-dingkil
+  - word: dingkul
+  - word: diri-diri
+  - word: dirka
+  - word: dirka
+  - word: dirka-dirka
+  - word: dirra
+  - word: dirra-baka
+  - word: dirramajaji
+  - word: dirrku
+  - word: dirrmbay
+  - word: diwalngku
+  - word: diwan
+  - word: diyi
+  - word: dubal
+  - word: dubar
+  - word: dubar kalbay
+  - word: dubu
+  - word: dubu-mirrkirr
+  - word: duburan
+  - word: dudal
+  - word: dudu
+  - word: duduy
+  - word: dujandujan
+  - word: dujal
+  - word: duku
+  - word: dukul
+  - word: dukul bajibay
+  - word: dukul-dandi
+  - word: dukul-kulnkul
+  - word: dukul-wuri
+  - word: dukul-barangkal
+  - word: dukul-dukul
+  - word: dukul-mukul
+  - word: dukunjaka
+  - word: dukunjuju
+  - word: dukurr
+  - word: dukurr buyin
+  - word: duli
+  - word: dulku
+  - word: dulmbi
+  - word: dulngki
+  - word: dulngku
+  - word: dumbarril
+  - word: dumbarriji
+  - word: dumbul
+  - word: damu
+  - word: damu naka
+  - word: duna
+  - word: dungay
+  - word: dungkul
+  - word: dungkunji
+  - word: dunjal
+  - word: dunju
+  - word: dunju
+  - word: dunju-dunju
+  - word: mungka-dunja
+  - word: dunyu
+  - word: duray
+  - word: durra
+  - word: durral
+  - word: durray
+  - word: durrbal
+  - word: durrkin
+  - word: durru
+  - word: durrubu dungay
+  - word: duru-duru
+  - word: duwar
+  - word: jaba
+  - word: jaba-jaba
+  - word: jabalbina
+  - word: jabani
+  - word: jabarr
+  - word: jabarrangkl
+  - word: jabil
+  - word: jabil
+  - word: jabul
+  - word: bubu jabul
+  - word: jabulbina
+  - word: jadal-jadal
+  - word: jadalangka
+  - word: jadamu
+  - word: jadi
+  - word: jajikal
+  - word: jajin
+  - word: jajirril
+  - word: jaka
+  - word: jakal
+  - word: jakal
+  - word: jakalba
+  - word: jakalbaku
+  - word: jakalbamunku
+  - word: jakalmunku
+  - word: jakalambal
+  - word: jakakulu
+  - word: jakari
+  - word: jakay
+  - word: jakay-dandi
+  - word: jakay-jakayku
+  - word: jakay-jakay
+  - word: jakibiyal
+  - word: jakuji
+  - word: jakway
+  - word: jala-jala
+  - word: jalamal
+  - word: jalan
+  - word: jalban-baka
+  - word: jalbayn
+  - word: jalbil
+  - word: jalbu
+  - word: jalbubun
+  - word: jalil-jalil
+  - word: jalkar
+  - word: jalkaraburr
+  - word: jalkar-jalkar
+  - word: jaljan
+  - word: jalkay
+  - word: jalkinba
+  - word: jalnji
+  - word: jalngarr
+  - word: jalngka
+  - word: jalngka-bungal
+  - word: jalngkal
+  - word: jalngkay
+  - word: jalngka
+  - word: jalngkun
+  - word: jalun
+  - word: jalunji
+  - word: jalungkarr
+  - word: jamal
+  - word: jamalka
+  - word: jamar
+  - word: jamarbina
+  - word: jamba
+  - word: jambul
+  - word: jambul-jambul
+  - word: jambun
+  - word: jamu
+  - word: jama
+  - word: jana
+  - word: janay
+  - word: janay-manil
+  - word: janbal
+  - word: janban
+  - word: janbangal
+  - word: janbangaji
+  - word: janbar
+  - word: janbay
+  - word: janbay-manil
+  - word: janbay-janbay
+  - word: jandal
+  - word: jandu
+  - word: jangka
+  - word: jangkal-jangkal
+  - word: jangkan
+  - word: jangkarra
+  - word: jangkuy
+  - word: jani
+  - word: janjarr-janjarr
+  - word: janjil
+  - word: janji-manil
+  - word: janka
+  - word: janku
+  - word: jarba
 
-  - word: munga
-    type: noun
-    definitions:
-      - covers your head, brush your hair
-    translations:
-      - hair
+  - word: Jarba wali-yindu-wali-yindu
+    meaning: Jarba wali-yindu-wali-yindu
+    maybe: something
 
-  - word: wawu
-    type: noun
-    definitions:
-      - spirit is in all living things
-    translations:
-      - spirit
-
-  - word: yalada
-    type: adjective
-    definitions:
-      - hello
-    translations:
-      - hello
-
-  - word: wurra
-    type: noun
-    definitions:
-      - umbilical cord
-    translations:
-      - umbilical cord
-
-  - word: muyurr
-    type: noun
-    definitions:
-      - umbrella
-      - part of an umbrella palm
-    translations:
-      - umbrella
-
-  - word: nganyi-burra
-    type: adjective
-    definitions:
-      - unable
-      - not good at something
-    translations:
-      - unable
-      - not good at something
-
-  - word: muna
-    type: adjective
-    definitions:
-      - unafraid
-    translations:
-      - unafraid
-
-  - word: minday
-    type: adjective
-    definitions:
-      - unafraid
-    translations:
-      - unafraid
-
-  - word: kalnga
-    type: noun
-    definitions:
-      - uncle
-      - mothers brother
-    translations:
-      - uncle
-
-  - word: wulay
-    type: intrv
-    definitions:
-      - unconscious
-    translations:
-      - unconscious
-
-  - word: bada-bada
-    type: dir
-    definitions:
-      - underneath
-    translations:
-      - underneath
-
-  - word: kural
-    type: ma
-    definitions:
-      - underwater
-    translations:
-      - underwatter
-      - submerged
-
-  - word: ngangkal
-    type: trv
-    definitions:
-      - unexpected
-    translations:
-      - unexpected
-      - surprising
-
-  - word: jirrbu-jirrbu
-    type: adjective
-    definitions:
-      - uninhabited
-    translations:
-      - uninhabited
-
-  - word: kayal
-    type: adjective
-    definitions:
-      - unripe
-    translations:
-      - unripe
-
-  - word: kalki
-    type: adjective
-    definitions:
-      - unripe
-    translations:
-      - unripe
-
-  - word: wawu-daki
-    type: ma
-    definitions:
-      - unsociable
-    translations:
-      - unsociable
-
-  - word: nyikurrku
-    type: transitive
-    definitions:
-      - until now
-    translations:
-      - until now
-
-  - word: wangkar
-    type: dir
-    definitions:
-      - up
-      - upriver
-    translations:
-      - up
-      - upriver
-
-  - word: barrkar
-    type: noun
-    definitions:
-      - upper jaw
-    translations:
-      - upper jaw
-
-  - word: jurrngal
-    type: transitive
-    definitions:
-      - upset
-    translations:
-      - upset
-
-  - word: kumbu
-    type: noun
-    definitions:
-      - urine
-    translations:
-      - urine
-      - piss
-      - pee
-
-  - word: yiwan
-    type: noun
-    definitions:
-      - urine
-    translations:
-      - urine
-      - piss
-      - pee
-
-  - word: dalngarri
-    type: noun
-    definitions:
-      - urine
-    translations:
-      - urine
-      - piss
-      - pee
+  - word: bajalji
+  - word: bakay
+  - word: banamu
+  - word: barka
+  - word: bindimu
+  - word: binju
+  - word: biwul
+  - word: bubal
+  - word: jijirrbay
+  - word: jinkalmu
+  - word: kabul
+  - word: kabuljaka
+  - word: kalkamuku
+  - word: kundurr
+  - word: kungkun
+  - word: kurriyala
+  - word: ngumbul
+  - word: yarru
+  - word: yuray
+  - word: jarbir
+  - word: jarmbil
+  - word: jarra
+  - word: jarra-jarra
+  - word: jarrabi
+  - word: jarrabina
+  - word: jarra-kulbal
+  - word: jarramali
+  - word: jarramali bajaku
+  - word: jarra-maliyan
+  - word: jarrangkal
+  - word: jarrawaki
+  - word: jarrbar
+  - word: jarri
+  - word: jarrjal
+  - word: jarrkal
+  - word: jarru
+  - word: jurruja
+  - word: jarruka
+  - word: jawarr
+  - word: jawarr-baka
+  - word: jawarr-wunay
+  - word: jaway
+  - word: jawun
+  - word: jawurraji
+  - word: jayarr-jayarr
+  - word: jaybay
+  - word: jayjin
+  - word: jayju
+  - word: jiba
+  - word: jibi-badi
+  - word: jibaby-nyajil
+  - word: jiba-janay
+  - word: jiba-jurrkiji
+  - word: jiba-ngulkurmal
+  - word: jiba-warri
+  - word: jiba-wulay
+  - word:

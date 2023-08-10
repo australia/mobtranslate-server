@@ -74,7 +74,8 @@ const lookupWord = (dictionary, word) => {
 
 app.get("/", function (req, res) {
   const dictionary = parseDictionary("kuku_yalanji");
-
+  // log the ditionary
+  console.log("Found dictionary", dictionary);
   res.send(dictionary);
 });
 
@@ -105,6 +106,7 @@ app.post("/translate", function (req, res) {
     originalText: text,
     translatedText: translation,
   });
+
   res.send({ originalText: text, translatedText: translation });
 });
 
