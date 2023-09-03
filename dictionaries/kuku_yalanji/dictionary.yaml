@@ -2247,28 +2247,145 @@ words:
     translations:
       - place
 
+  #22
   - word: mulujin
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: jiwaymba
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: binda-dijarr
+    type: noun
+    definitions:
+      - stony crosing
+    translations:
+      - stony crossing
+
   - word: binda-milmal
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: burranga
-  - word: binda-hjalbu
-  - word: kunyussimba
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
+  - word: binda-jalbu
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
+  - word: kunyurrimba
+
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: jiwukal
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: milbija
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: jangkarra
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: kalmbakay
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: wankara
-  - word: bidin-damja
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
+  - word: bidin-damaja
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: jarrabi
+    type: noun
+    definitions:
+      - junction to Gold Hill
+    translations:
+      - junction to Gold Hill
+
   - word: ngara-bali-bali
+    type: noun
+    definitions:
+      - upriver Daintree
+    translations:
+      - upriver Daintree
+      - place
+
   - word: binda-babara
+    type: noun
+    definitions:
+      - top of divide
+    translations:
+      - top of divide
 
   - word: Babu walu-yindu wawubjaburr Bloomfieldmundurr jalunmun wangkar Binda-babaranga
     meaning: Kuwa wawubajaburr wujal-wujaldarr
     maybe: place names
 
   - word: jajikal
+    type: noun
+    definitions:
+      - Bloomfield
+    translations:
+      - Bloomfield
+      - place
+
   - word: dilngku-baja
   - word: baja-baja
   - word: landin
@@ -2283,6 +2400,7 @@ words:
     maybe: place names
 
   - word: jijiniliji
+
   - word: jungur
   - word: banabila
   - word: nganjuninda
@@ -2463,19 +2581,108 @@ words:
   - word: buyun
   - word: buyunkay
   - word: buyun-buyun
+
   - word: dabadaba
+    type: noun
+    definitions:
+      - larvae and eggs of any kind of bee
+    translations:
+      - larvae
+      - eggs
+      - bee
+
   - word: dabal
+    type: noun
+    definitions:
+      - boys from the time they are babies - ngawa - to older boys - warru
+    translations:
+      - boys
+
   - word: dabway
+    type: noun
+    definitions:
+      - black messenger bird, totem of both dabu and walarr moieties
+    translations:
+      - black bird
+
   - word: dabu
+    type: noun
+    definitions:
+      - small black bee which nests in trees, has a light sting
+      - the honey from this bee
+      - the name of one of the clan moieties
+    translations:
+      - bee
+
   - word: dabul
+    type: noun
+    definitions:
+      - pierced nose and nose peg. The piecing is always done by a man's biwul, his mother in law. Biwulungku dabul bakan. "My mother in law pierced his nose"
+      - place name - between upper Daintree River and Roaring Meg. The big rock here is a jarramali (thunder) and nose piecing story site.
+    translations:
+      - pierced nose
+
   - word: dabulkurra
+    type: noun
+    definitions:
+      - human shin bone, for conveying messages to someone. The hollow bone is also used to catch a person's shadow which is then closed up inside the bone. This is then used to put withcraft on the person. He may also put a person's urine or other belonging inside.
+    translations:
+      - shin bone
+
   - word: daburri
+    type: noun
+    definitions:
+      - brackish swamp water
+    translations:
+      - swamp
+
   - word: dabuy
+    type: noun
+    definitions:
+      - small brownish kingfisher, totem of both dabu and walarr moieties. When this bird starts singing yo know you will get company, that someone is travelling. 
+      - spirit
+    translations:
+      - spirit
+      - kingfisher
+       
   - word: dajal
+    type: noun
+    definitions:
+      - fighting spear
+    translations:
+      - spear
+
   - word: dajali
+    type: noun
+    definitions:
+      - deep water
+    translations:
+      - deep water
+
   - word: dajalkira
+    type: noun
+    definitions:
+      - brothers and sisters
+    translations:
+      - brothers
+      - sisters
+
   - word: dajay
+    type: noun
+    definitions:
+      - person's spirit after death. "Nyulu jalbu wulan, yinyayanka jana nyungu dajay warrmba-bunganka." "The woman died, that's why they want to find her spirit".
+      Afer a dambunji (murderer) kills a person, the murdered person becomes a dajay. The witch doctor (rrunyuji) will then try to locate this dajay in order to ascertain who did the killing. All people's spirits become a dajay after death, not only those who are murdered.
+    translations:
+      - spirit
+
   - word: dajil
+    type: transitive-verb 
+    definitions: 
+      - give
+      - gave
+    translations:
+      - nyulu present ngayku dajin, "he gave me a present"
+
   - word: daya
   - word: dajiway
   - word: dakal
