@@ -2684,6 +2684,22 @@ words:
       - nyulu present ngayku dajin, "he gave me a present"
 
   - word: daya
+    type: transitive-verb 
+    definitions: 
+      - give
+    translations:
+      - give
+
+  - word: dajiway
+    type:  intransitive-verb 
+    definitions: 
+      - trade
+    translations:
+      - trade
+      - share
+
+
+
   - word: dajiway
   - word: dakal
   - word: dakaldakal
