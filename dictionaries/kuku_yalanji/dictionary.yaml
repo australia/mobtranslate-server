@@ -11,7 +11,7 @@ words:
     translations:
       - come
   - word: babajaka
-    type: n
+    type: noun
     definitions:
       - species of bloodwood tree
     translations:
@@ -2639,12 +2639,12 @@ words:
   - word: dabuy
     type: noun
     definitions:
-      - small brownish kingfisher, totem of both dabu and walarr moieties. When this bird starts singing yo know you will get company, that someone is travelling. 
+      - small brownish kingfisher, totem of both dabu and walarr moieties. When this bird starts singing yo know you will get company, that someone is travelling.
       - spirit
     translations:
       - spirit
       - kingfisher
-       
+
   - word: dajal
     type: noun
     definitions:
@@ -2671,36 +2671,42 @@ words:
     type: noun
     definitions:
       - person's spirit after death. "Nyulu jalbu wulan, yinyayanka jana nyungu dajay warrmba-bunganka." "The woman died, that's why they want to find her spirit".
-      Afer a dambunji (murderer) kills a person, the murdered person becomes a dajay. The witch doctor (rrunyuji) will then try to locate this dajay in order to ascertain who did the killing. All people's spirits become a dajay after death, not only those who are murdered.
+        Afer a dambunji (murderer) kills a person, the murdered person becomes a dajay. The witch doctor (rrunyuji) will then try to locate this dajay in order to ascertain who did the killing. All people's spirits become a dajay after death, not only those who are murdered.
     translations:
       - spirit
 
   - word: dajil
-    type: transitive-verb 
-    definitions: 
+    type: transitive-verb
+    definitions:
       - give
       - gave
     translations:
       - nyulu present ngayku dajin, "he gave me a present"
 
   - word: daya
-    type: transitive-verb 
-    definitions: 
+    type: transitive-verb
+    definitions:
       - give
     translations:
       - give
 
   - word: dajiway
-    type:  intransitive-verb 
-    definitions: 
+    type: intransitive-verb
+    definitions:
       - trade
     translations:
       - trade
       - share
 
+  - word: dakal
+    type: intransitive-verb
+    definitions:
+      - climb. "nyulu jukungu dakan", "he climbed the tree"
+      - get into a truck or car, "nyulu truckmunbu dakan", "he got on the truck"
+    translations:
+      - climb
+      - get into a truck or car
 
-
-  - word: dajiway
   - word: dakal
   - word: dakaldakal
   - word: dakandil

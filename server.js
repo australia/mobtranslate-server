@@ -12,6 +12,7 @@ const bodyParser = require("body-parser");
 // ass - associative
 // IDEA - geo locator for which land you are on - hate politics of it
 // parse application/json
+
 app.use(bodyParser.json());
 
 // enable cors
