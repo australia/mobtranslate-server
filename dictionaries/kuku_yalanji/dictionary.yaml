@@ -1471,9 +1471,9 @@ words:
   - word: birmba
     type: noun
     definitions:
-      - white cockatoo, which is the totem of the walarr moiety
+      - straw-necked ibis, which is the totem of the walarr moiety
     translations:
-      - white cockatoo
+      - straw-necked ibis
 
   - word: biru-biru
     type: noun
@@ -3309,9 +3309,9 @@ words:
   - word: birmba
     type: noun
     definitions:
-      - white cockatoo
+      - straw-necked ibis
     translations:
-      - white cockatoo
+      - straw-necked ibis
       - cockatoo
 
   - word: birrbirr
@@ -3339,70 +3339,490 @@ words:
   - word: bujil-yiran
     type: noun
     definitions:
-      - white cockatoo
+      - straw-necked ibis
     translations:
-      - white cockatoo
+      - straw-necked ibis
 
   - word: bulbul
+    type: noun
+    definitions:
+      - pheasant cookoo
+    translations:
+      - pheasant cookoo
+
   - word: bulnja
+    type: noun
+    definitions:
+      - frogmouth, mopoke
+    translations:
+      - frogmouth
+      - mopoke
+
   - word: burrkul
+    type: noun
+    definitions:
+      - spirit bird
+    translations:
+      - spirit bird
+
   - word: buyi
+    type: noun
+    definitions:
+      - a type of bird called buyi
+    translations:
+      - bird
+      - buyi
+
   - word: dabuy
+    type: noun
+    definitions:
+      - small brown kingfisher
+    translations:
+      - kingfisher
+      - bird
+
   - word: dabway
+    type: noun
+    definitions:
+      - black messenger bird
+    translations:
+      - black messenger bird
+      - bird
+
   - word: dakwul-dakwul
+    type: noun
+    definitions:
+      - brown and white scrub bird
+    translations:
+      - scrub bird
+      - bird
+
   - word: dakwurr-dakwun
+    type: noun
+    definitions:
+      - hammer bird
+    translations:
+      - hammer bird
+      - bird
+
   - word: dawa-dawa
+    type: noun
+    definitions:
+      - species of magpie
+    translations:
+      - magpie
+      - bird
+
   - word: dibirr-dibirr
+    type: noun
+    definitions:
+      - rainbow bird
+    translations:
+      - rainbow bird
+      - bird
+
   - word: dijarr-dijin
-  - word: dirmbay
+    type: noun
+    definitions:
+      - willie wagtail
+    translations:
+      - willie wagtail
+      - bird
+
+  - word: dirrmbay
+    type: noun
+    definitions:
+      - species of seagull
+    translations:
+      - seagull
+      - bird
+
   - word: diwalngku
+    type: noun
+    definitions:
+      - migratory bird
+    translations:
+      - diwalngku
+      - bird
+
   - word: diwan
+    type: noun
+    definitions:
+      - scrub turkey
+    translations:
+      - turkey
+      - bird
+
   - word: dukunjulu
+    type: noun
+    definitions:
+      - golden whistler
+    translations:
+      - golden whistler
+      - bird
+
   - word: dulku
+    type: noun
+    definitions:
+      - white crane
+    translations:
+      - white crane
+      - bird
+
   - word: jaka
+    type: noun
+    definitions:
+      - friarbird
+    translations:
+      - friarbird
+      - bird
+
   - word: jangkan
+    type: noun
+    definitions:
+      - swift
+    translations:
+      - swift
+      - bird
+
   - word: jarruka
+    type: noun
+    definitions:
+      - scrub hen, jungle fowl
+    translations:
+      - scrub hen
+      - jungle fowl
+      - bird
+
   - word: jinabiju
+    type: noun
+    definitions:
+      - chicken hawk (goshawk)
+    translations:
+      - chicken hawk
+      - bird
+
   - word: jiral-jiral
+    type: noun
+    definitions:
+      - night bird
+    translations:
+      - night bird
+      - bird
+
   - word: jiway
+    type: noun
+    definitions:
+      - messenger night bird
+    translations:
+      - messenger night bird
+      - bird
+
   - word: jiwurrmal
+    type: noun
+    definitions:
+      - pheasant cuckoo
+    translations:
+      - phesant cuckoo
+      - bird
+
   - word: juku-juku
+    type: noun
+    definitions:
+      - bronzewing dove
+    translations:
+      - bronzewing dove
+      - bird
+
   - word: julurr-julurr
+    type: noun
+    definitions:
+      - moomoo bird (owl)
+    translations:
+      - moomoo bird
+      - owl
+      - bird
+
   - word: juril-juril
+    type: noun
+    definitions:
+      - seashore plover
+    translations:
+      - seashore plover
+      - bird
+
   - word: jurriyam
+    type: noun
+    definitions:
+      - satin bower bird
+    translations:
+      - bower bird
+      - bird
+
   - word: kadanji
+    type: noun
+    definitions:
+      - black cockatoo
+    translations:
+      - black cockatoo
+      - bird
+
   - word: kalbu
+    type: noun
+    definitions:
+      - species of crow
+    translations:
+      - kalbu
+      - bird
+
   - word: kalkuy
+    type: noun
+    definitions:
+      - species of owl
+    translations:
+      - owl
+      - bird
+
   - word: kalin-kalin
+    type: noun
+    definitions:
+      - species of hawk
+    translations:
+      - hawk
+      - bird
+
   - word: kalmnbagarr
+    type: noun
+    definitions:
+      - black diver bird
+    translations:
+      - black diver bird
+      - bird
+
   - word: karkunbay
+    type: noun
+    definitions:
+      - stockwhip bird
+    translations:
+      - stockwhip bird
+      - bird
+
   - word: karrmbil
+    type: noun
+    definitions:
+      - blue mountain parakeet
+    translations:
+      - parakeet
+      - bird
+
   - word: kujuway
+    type: noun
+    definitions:
+      - brown pigeon
+    translations:
+      - pigeon
+      - bird
+
   - word: kuludu
+    type: noun
+    definitions:
+      - specis of dove
+    translations:
+      - dove
+      - bird
+
   - word: kumurbina
+    type: noun
+    definitions:
+      - black cockatoo (nyungkul)
+    translations:
+      - black cockatoo
+      - bird
+
   - word: kurkumbay
+    type: noun
+    definitions:
+      - butcherbird
+    translations:
+      - butcherbird
+      - bird
+
   - word: kurranday
+    type: noun
+    definitions:
+      - species of seagull
+    translations:
+      - seagull
+      - bird
+
   - word: kurranji
+    type: noun
+    definitions:
+      - cassowary
+    translations:
+      - cassowary
+      - bird
+
   - word: kurrbal
+    type: noun
+    definitions:
+      - native companion
+    translations:
+      - native companion
+      - bird
+
   - word: kurrburrubun
+    type: noun
+    definitions:
+      - species of magpie
+    translations:
+      - magpie
+      - bird
+
   - word: kurri-kurri
+    type: noun
+    definitions:
+      - stormbird
+    translations:
+      - stormbird
+      - bird
+
   - word: kurrujuwa
+    type: noun
+    definitions:
+      - sentry bird
+    translations:
+      - sentry bird
+      - bird
+
   - word: kurungka
+    type: noun
+    definitions:
+      - bronze wing pigeon
+    translations:
+      - bronze wing pigeon
+      - bird
+
   - word: kuyir
+    type: noun
+    definitions:
+      - bush curlew
+    translations:
+      - bush curlew
+      - bird
+
   - word: milman
+    type: noun
+    definitions:
+      - azure kingfisher
+    translations:
+      - kingfisher
+      - bird
+
   - word: mirrki
+    type: noun
+    definitions:
+      - kidney bird
+    translations:
+      - kidney bird
+      - bird
+
   - word: munwingkul
+    type: noun
+    definitions:
+      - species of dove (ground pigeon)
+    translations:
+      - dove
+      - bird
+
   - word: muya
+    type: noun
+    definitions:
+      - english name unknown #todo
+    translations:
+      - muya
+      - bird
+
   - word: nili-nili
+    type: noun
+    definitions:
+      - duck
+    translations:
+      - duck
+      - bird
+
   - word: ngarkay
+    type: noun
+    definitions:
+      - waterhen
+    translations:
+      - waterhen
+      - bird
+
   - word: wabul
+    type: noun
+    definitions:
+      - torres strait island pigeon
+    translations:
+      - ti
+      - islander
+
   - word: waja
+    type: noun
+    definitions:
+      - species of crow
+    translations:
+      - crow
+      - bird
+
   - word: wakuka
+    type: noun
+    definitions:
+      - species of crow
+    translations:
+      - crow
+      - bird
+
   - word: wandi
+    type: noun
+    definitions:
+      - red backed sea eagle
+    translations:
+      - eagle
+      - bird
+
   - word: wungku
+    type: noun
+    definitions:
+      - turkey, domestic
+    translations:
+      - turkey
+      - bird
+
   - word: yalngkurr
+    type: noun
+    definitions:
+      - grey sea eagle
+    translations:
+      - eagle
+      - bird
+
   - word: yiki
+    type: noun
+    definitions:
+      - species of owl
+    translations:
+      - owl
+      - bird
+
   - word: yindili
+    type: noun
+    definitions:
+      - forest kingfisher
+    translations:
+      - kingfisher
+      - bird
+
   - word: yimjul
   - word: dikarr
   - word: dikarr-warra
