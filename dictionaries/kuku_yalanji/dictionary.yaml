@@ -2707,38 +2707,259 @@ words:
       - climb
       - get into a truck or car
 
-  - word: dakal
   - word: dakaldakal
+    type: noun
+    definitions:
+      - trocus shell
+    translations:
+      - trocus shell
+
   - word: dakandil
+    type: transitive-verb
+    definitions:
+      - to break something down
+      - destroy
+      - delberately drop something
+      - push someone down, to do anything of this sort, if you lose your temper, to call attention to oneself if one feels he has been wronged in some way. "Dingkarangka karrkay dakandin kuli-kadanymundu" "The man dropped the child because he was angry"
+    translations:
+      - to break something down
+      - destroy
+
   - word: daki-daki
+    type: noun
+    definitions:
+      - lazy or in the way. "Yundu daki-daki, dungayda", "You are lazy, get out of my way"
+    translations:
+      - lazy
+
   - word: dakil
+    type: noun
+    definitions:
+      - arm, branch of a tree, wing
+    translations:
+      - branch
+
   - word: dakil-dakil
+    type: noun
+    definitions:
+      - branches of a tree
+    translations:
+      - branches of a tree
+
   - word: dakilji
+    type: noun
+    definitions:
+      - cup
+      - panninkin, only rarely used now.
+    translations:
+      - cup
+
   - word: dakumbar
+    type: noun
+    definitions:
+      - water gum tree (nyungkul dialect). "yalanji-jinajina", "This wood is good for woomeras"
+    translations:
+      - water gum tree
+
   - word: dakwul-dakwul
+    type: noun
+    definitions:
+      - brown and white scrub bird. The male has brown on the top of his head, a white strip past the eye. Tey clear an area, then many form a circle with on in the middle and the middle one will sing and dance.
+    translations:
+      - brown scrub bird
+      - white scrub bird
+
   - word: dakwurr-dakwun
+    type: noun
+    definitions:
+      - hammer bird, totem of the walarr moiety
+    translations:
+      - hammer bird
+
   - word: dakwuy
+    type: adjective
+    definitions:
+      - hungry
+    translations:
+      - hungry
+
   - word: dalban
+    type: noun
+    definitions:
+      - species of oak tree
+    translations:
+      - oak tree
+
   - word: dalbarril
+    type: noun
+    definitions:
+      - strike by lightning. "balbaynja juku dalbarrin", "the lightning struck the tree"
+      - ricochet, as a stone striking another stone and bouncing off or a person throwing a spear at a sea turtle and the spear glancing off the shell
+      - to quickly scold someone and then quickly leave. "bamangka kukubu dalbarrin", "the man scolded (him), (then left)"
+    translations:
+      - scolded
+      - strike by lightning
+      - ricochet
+
   - word: dalkal
+    type: noun
+    definitions:
+      - freshwater sardine, red
+    translations:
+      - freshwater sardine
+
   - word: dalkan
+    type: noun
+    definitions:
+      - species of tree, grows along beaches
+    translations:
+      - tree
+
   - word: dalkari
+    type: noun
+    definitions:
+      - bladder
+    translations:
+      - bladder
+
   - word: dalkay
+    type: intranstive-verb
+    definitions:
+      - hatch. "warngku 10-bala, kaykay-kaykay dalkay", "after 10 days the little ones hatch out"
+    translations:
+      - hatch
+
   - word: dalkay-manil
+    type: transitive-verb
+    definitions:
+      - to blow up, as to blow up a balloon
+      - to break in little pieces, as a bottle
+    translations:
+      - blow up
+
   - word: dalkiji
+    type: noun
+    definitions:
+      - to beat up. "nyulu ngamungku karrkay dalkijin", "the mother beat up the child"
+    translations:
+      - beat up
+
   - word: dalkil
+    type: transitive-verb
+    definitions:
+      - to crack a nut or whip,or shoot a gun
+      - to give a name or call a person by a name. "ngayu nyungunyin burri dalkin carol", "I gave her the name Carol"
+
   - word: dalku
+    type: noun
+    definitions:
+      - archer fish (nyungkul dialect)
+      - yalanji - mujarrka
+    translations:
+      - archer fish
+
   - word: dalmbal
+    type: noun
+    definitions:
+      - flathad (also dukul-barangka)
+    translations:
+      - flathead
+
   - word: dalngan
-  - word: dalngari
+    type: adjective
+    definitions:
+      - well able to do something, courageous. (synonym - muna, burrkul-dandi)
+    translations:
+      - courage
+      - do something
+
+  - word: dalngarri
+    type: noun
+    definitions:
+      - flames which make light. "baya dalngarri-bunga", "make the fire give light"
+      - urine. "ngayu dalngarrinji dungay", "I have to go to the toilet"
+    synonyms:
+      - wula
+      - kumbu
+      - yiwan
+    translations:
+      - flames
+      - light
+      - urinate
+
+  # lisa said phospherous, the link between urine and flames
+
   - word: damal
+    type: transitive-verb
+    definitions:
+      - to spear. "nyulu kalkabu kuyu daman", "he speared a fish with a spear"
+      - to sea. "ngayu kambi daman", "I made the dress"
+      - to baptise. "pastorangka nyungun banabu dukul daman", "the pastor baptised him"
+      - to wash. "nyulu yinkinba kambi daman", "she washed clothes in the creek"
+    synonyms:
+      - julurril
+    translations:
+      - to spear
+      - to sew
+      - to baptise
+      - to wash
+
   - word: dama-murnil
+    type: transitive-verb
+    definitions:
+      - twirl a fire drill
+    translations:
+      - twirl a fire drill
+
   - word: damaway
+    type: intransitive-verb
+    definitions:
+      - fight with spears
+    translations:
+      - fight with spears
+
   - word: damba
+    type: noun
+    definitions:
+      - damper
+    translations:
+      - damper
+  #todo
   - word: dambal
+    type: noun
+    definitions:
+      - shoes, boots, thongs, footwear
+    translations:
+      - shoes
+      - boots
+      - thongs
+      - footwear
+
   - word: dambun
+    type: noun
+    definitions:
+      - a spirit who kills people
+    translations:
+      - spirit
+
   - word: dambunji
+    type: noun
+    definitions:
+      - a person who is possed with a spirit who kills, a murderer
+    translations:
+      - spirit
+      - murderer
+
   - word: danbal
+    type: noun
+    definitions:
+      - king fish
+      - flat head
+    translations:
+      - king fish
+      - fish
+      - flat head
+
   - word: danda
   - word: dandarrbina
   - word: dandi
