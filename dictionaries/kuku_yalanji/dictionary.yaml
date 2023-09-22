@@ -2961,56 +2961,388 @@ words:
       - flat head
 
   - word: danda
-  - word: dandarrbina
-  - word: dandi
-  - word: dandi
-  - word: dangal
-  - word: dara
-  - word: daray
-  - word: daray-manil
-  - word: dari
-  - word: darka
-  - word: darkay
-  - word: darra
-  - word: wawu-darra
-  - word: darrba
-  - word: darrbil
-  - word: dawadawa
-  - word: dawal
-  - word: dawar
-  - word: dawarr
-  - word: daya
-  - word: dayirr
-  - word: dibarr
-  - word: dibirrdibirr
-  - word: dibul
-  - word: diburr
-  - word: diburr-miyil
-  - word: didal
-  - word: diday-manil
-  - word: dijaraban
-  - word: dijarr
-  - word: dijarrdijin
-  - word: dikal
+    type: noun
+    definitions:
+      - chestnut horse
+    translations:
+      - chestnut horse
 
+  - word: dandarrbina
+    type: noun
+    definitions:
+      - yellow freshwater eelfish
+    translations:
+      - eelfish
+
+  - word: dandi
+    type: adjective
+    definitions:
+      - hard, tough
+      - healthy, strong
+    translations:
+      - hard
+      - tough
+      - healthy
+      - strong
+    usage:
+      - english: The meat is tough, I cooked it a short time
+        translation: Minya dandi, ngayu buban wayjun
+      - english: I took the medicine and am better now
+        translation: Ngayu medicine nukan, dandimanda
+
+  - word: Dandi
+    type: pro-noun
+    definitions:
+      - King's Plains, a place
+    translations:
+      - King's Plains
+
+  - word: dangal
+    type: adjective
+    definitions:
+      - baggy, sloppy
+    translations:
+      - baggy
+      - sloppy
+
+  - word: dara
+    type: noun
+    definitions:
+      - bambo spear stick
+    translations:
+      - bambo spear stick
+      - spear stick
+
+  - word: daray
+    type: intransitive-verb
+    definitions:
+      - fall
+    translations: fall
+
+  - word: daray-manil
+    type: transitive-verb
+    definitions:
+      - to drop something
+    translations:
+      - drop
+
+  - word: dari
+    type: noun
+    definitions:
+      - boxwood tree, grows mainly in high places
+    translations:
+      - boxwood tree
+      - tree
+
+  - word: darka
+    type: noun
+    definitions:
+      - kind of nut
+    translations:
+      - nut
+
+  - word: darkay
+    type: noun
+    definitions:
+      - small mud clam
+    translations:
+      - clam
+      - small mud clam
+
+  - word: darra
+    type: adjective
+    definitions:
+      - narrow
+      - too small
+    translations:
+      - narrow
+      - too small
+    usage:
+      - english: A truck can't go that way, the road is too narrow
+        translation: Truck yarra kari dungay baral darra bajaku
+      - english: The dress is too small for me
+        translation: Kambi ngaykunka darra bajaku
+
+  - word: wawu-darra
+    type: noun
+    definitions:
+      - so small that other things/people are being forced/squeezed out
+    translations:
+      - tight
+      - crowded out
+    usage:
+      - english: The house is too small for all the people (just can't fit in)
+        translation: Bayan wawy darra bajaku bamanka wubulku
+
+  - word: darrba
+    type: noun
+    definitions:
+      - grass wallaby
+    translations:
+      - wallaby
+      - grass wallaby
+
+  - word: darrbil
+    type: transitive-verb
+    definitions:
+      - deny relationship with someone
+    translations:
+      - disown
+
+  - word: dawadawa
+    type: noun
+    definitions:
+      - magpie
+    translations:
+      - magpie
+
+  - word: dawal
+    type: noun
+    definitions:
+      - kingfish, trevally
+    translations:
+      - kingfish
+      - trevally
+
+  - word: dawar
+    type: noun
+    definitions:
+      - star
+    translations:
+      - star
+
+  - word: dawarr
+    type: noun
+    definitions:
+      - straw hat
+    translations:
+      - straw hat
+
+  - word: daya
+    type: transitive-verb
+    definitions:
+      - command form of give
+    translations:
+      - give
+
+  - word: dayirr
+    type: adjective
+    definitions:
+      - clean, clear, bright
+    translations:
+      - clean
+      - clear
+      - bright
+    usage:
+      - english: The sun is bright
+        translation: Wungku dayirr
+      - english: After washing th clothes are very clean
+        translation: julurrinyamun kambi dayirr bajaku
+
+  - word: dibarr
+    type: noun
+    definitions:
+      - teapot
+    translations:
+      - teapot
+
+  - word: dibirrdibirr
+    type: noun
+    definitions:
+      - rainbow bird, honey eater
+    translations:
+      - rainbow bird
+      - honey eater
+
+  - word: dibul
+    type: noun
+    definitions:
+      - cane
+    translations:
+      - cane
+
+  - word: diburr
+    type: noun
+    definitions:
+      - seed
+      - egg
+      - bullet
+      - tablets
+    translations:
+      - seed
+      - egg
+      - bullet
+      - tablets
+    usage:
+      - english: I planted the seeds in the garden
+        translation: Ngayu diburr nandan gardenba
+      - english: They got lots of scrub hen eggs
+        translation: Jana jaruka diburr wubul manin
+      - english: Give me some bullets for my gun
+        translation: Diburr daya, marrkinka
+      - english: Ngayu diburr manin Sisterandamun
+        translation: I got some tablets from the Sister
+
+  - word: diburr-miyil
+    type: noun
+    definitions:
+      - eyeball
+    translations:
+      - eyeball
+
+  - word: didal
+    type: transitive-verb
+    definitions:
+      - to put clothes on
+    translations:
+      - get dressed
+    usage:
+      - english: I put my good clothes on
+        translation: Ngayu kambi ngulkurr didan
+
+  - word: diday-manil
+    type: transitive-verb
+    definitions:
+      - say something bad about someone
+    translations:
+      - english: Yabaju kari diday-mana ngaykundu. Ngayu babarr
+        translation: Don't say bad something bad about my younger brother to me. I'm his older sister.
+
+  - word: dijaraban
+    type: noun
+    definitions:
+      - mayfly, dragonfly
+    translations:
+      - mayfly
+      - dragonfly
+
+  - word: dijarr
+    type: noun
+    definitions:
+      - species of freshwater fish, like the jungle perch - bayi - but not around here. Found at Rossville and Shipton's Flats
+    translations:
+      - freshwater fish
+      - dojarr
+
+  - word: dijarrdijin
+    type: noun
+    definitions:
+      - willie wagtail
+    translations:
+      - willie wagtail
+
+  - word: dikal
+    type: noun
+    definitions:
+      - bird
+    translations:
+      - bird
+
+  #todo - a segment or something #51 of pdf
   - word: Dikal wali-yindu-wai-yindu
     meaning: Dikal wali-yindu-wai-yindu
     maybe: something
 
   - word: babarr
+    type: noun
+    definitions:
+      - young cassowary
+    translations:
+      - young cassowary
+
   - word: bajal
+    type: noun
+    definitions:
+      - bower bird
+    translations:
+      - bower bird
+
   - word: bakamu
-  - word: barinku
+    type: noun
+    definitions:
+      - green pigeon
+    translations:
+      - green pigeon
+
+  - word: barinkan
+    type: noun
+    definitions:
+      - scrub bird, dark grey with white breast
+    translations:
+      - scrub bird
+
   - word: bayil-bayil
+    type: noun
+    definitions:
+      - mudlark (peewee)
+    translations:
+      - mudlark
+
   - word: bidu-bidu
+    type: noun
+    definitions:
+      - bank bird
+    translations:
+      - bank bird
+
   - word: bilu-warra
+    type: noun
+    definitions:
+      - spoon bill
+    translations:
+      - spoon bill
+
   - word: binjul-binjul
+    type: noun
+    definitions:
+      - scarlet robin
+    translations:
+      - scarlet robin
+
   - word: binjurr-binjurr
+    type: noun
+    definitions:
+      - species of honey eater
+    translations:
+      - honey eater
+
   - word: birmba
+    type: noun
+    definitions:
+      - white cockatoo
+    translations:
+      - white cockatoo
+      - cockatoo
+
   - word: birrbirr
+    type: noun
+    definitions:
+      - rainbow lorikeet (parakeet)
+    translations:
+      - lorikeet
+      - parakeet
+
   - word: biru-biru
+    type: noun
+    definitions:
+      - bee eater, rainbow bird
+    translations:
+      - rainbow bird
+
   - word: bujarr-bujarr
+    type: noun
+    definitions:
+      - black bird
+    translations:
+      - black bird
+
   - word: bujil-yiran
+    type: noun
+    definitions:
+      - white cockatoo
+    translations:
+      - white cockatoo
+
   - word: bulbul
   - word: bulnja
   - word: burrkul
