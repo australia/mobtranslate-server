@@ -3823,45 +3823,339 @@ words:
       - kingfisher
       - bird
 
-  - word: yimjul
+  - word: yinjul
+    type: noun
+    definitions:
+      - fig parrot
+    translations:
+      - parrot
+      - bird
+
   - word: dikarr
+    type: noun
+    definitions:
+      - magic to make people sick
+      - Thompson Creek camp
+    translations:
+      - magic
+      - Thompson Creek camp
+    usage:
+      - english: Someone made mcdea sick with magic. The doctor took it out.
+        translation: Bamangka nganya bambay-bungun, dikarrda. Doctorangka dikarr manin
+
   - word: dikarr-warra
+    type: noun
+    definitions:
+      - the people living originally at Thompson Creek.
+    translations:
+      - Thompson Creek people
+
   - word: dikarra
+    type: noun
+    definitions:
+      - war spear, has a stingray barb
+    translations:
+      - war spear
+
   - word: dikirr
+    type: noun
+    definitions:
+      - waterlilly (edible)
+    translations:
+      - waterlilly
+      - water flower
+
   - word: dikurrbu
+    type: noun
+    definitions:
+      - zig-zag above Thomas Creek (place name)
+    translations:
+      - zig-zag above Thomas Creek
+
   - word: dilbal
+    type: noun
+    definitions:
+      - hictory tree (a type of tree)
+    translations:
+      - hictory tree
+
   - word: dili
+    type: noun
+    definitions:
+      - corkwood pine; the tree from whicch witchetty comes
+    translations:
+      - corkwood pine
+
   - word: dilngku-baja
+    type: pronoun
+    definitions:
+      - Middle camp (place name) also rock in river. (story site)
+    translations:
+      - Middle camp
+
   - word: dimbi
+    type: noun
+    definitions:
+      - behind the house
+    translations:
+      - behind the house
+    usage:
+      - english: He's going behind the house
+        translation: Nyulu dimbinga
+
   - word: dimbirr
+    type: noun
+    definitions:
+      - hollow trunk of a tree
+    translations:
+      - hollow trunk of a tree
+
   - word: dimulji
+    type: noun
+    definitions:
+      - one who talks to the spirits of the dead
+    translations:
+      - medium
+      - oracle
+      - mystic
+
   - word: dimur-dimur
+    type: noun
+    definitions:
+      - spirit. After a man is murdered by a dambunji, the dimur-dimur sucks the blood of the man who was killed to make him alive again.
+    translations:
+      - spirit
+
   - word: dimurraji
+    type: noun
+    definitions:
+      - a person who is able to summon up the dead
+    translations:
+      - necromancer
+
   - word: dindal
+    type: transitive-verb
+    definitions:
+      - to roast on coals
+    translations:
+      - roast
+      - roast on coals
+  #56 of pdf
+
   - word: dindarra
+    type: directional
+    definitions:
+      - middle, in between
+    translations:
+      - middle
+      - in between
+
   - word: dingal
+    type: noun
+    definitions:
+      - base of a tree
+      - end of something
+    translations:
+      - base of a tree
+      - end of something
+    usage:
+      - english: You sit right at the end
+        translation: Yundu bunday dingalba baja
+
   - word: dingkal
+    type: transitive-verb
+    definitions:
+      - squeeze, knead
+    translations:
+      - squeeze
+      - knead
+    usage:
+      - english: You knead the damper
+        translation: Yunda damba dingka, wayjuda
+
   - word: dingkar
+    type: noun
+    definitions:
+      - male, man, boy
+    translations:
+      - male
+      - man
+      - boy
+
   - word: dingki
+    type: noun
+    definitions:
+      - a type of tree
+    translations:
+      - tree
+
   - word: dingkil-dingkil
+    type: noun
+    definitions:
+      - bell (english loan word)
+    translations:
+      - bell
+
   - word: dingkul
+    type: adjective
+    definitions:
+      - part, part full, part way
+    synonyms:
+      - nyirra
+    translations:
+      - part
+      - part full
+
   - word: diri-diri
+    type: noun
+    definitions:
+      - sandfly
+    synonyms:
+      - munyurri
+    translations:
+      - sandfly
+
   - word: dirka
+    type: noun
+    definitions:
+      - cream of tartar
+      - fur
+      - finecut tobacco
+      - powder
+    translations:
+      - cream of tartar
+      - fur
+      - finecut tobacco
+      - powder
+
   - word: dirka
+    type: noun
+    definitions:
+      - fine, finely ground
+    translations:
+      - fine
+      - finely ground
+
   - word: dirka-dirka
+    type: adjective
+    definitions:
+      - smooth, as rock surface
+    translations:
+      - smooth
+
   - word: dirra
+    type: noun
+    definitions:
+      - tooth
+    translations:
+      - tooth
+
   - word: dirra-baka
+    type: noun
+    definitions:
+      - a person who swears a lot, uses a lot of foul language
+    translations:
+      - vular
+      - foul mouthed
+
   - word: dirramajaji
+    type: intransitive-verb
+    definitions:
+      - to grind one's teeth, to gnash one's teeth
+    translations:
+      - grind teeth
+      - gnash teeth
+
   - word: dirrku
+    type: adjective
+    definitions:
+      - dislike
+    translations:
+      - dislike
+
   - word: dirrmbay
+    type: noun
+    definitions:
+      - seagull which gives warning of an approaching storm
+      - music struck as a warning that a big corroboree is about to start
+      - message to a dead person to not make it a long night. This is done on the night the corpse is in the house
+    usage:
+      - english: He will put the message in his ear
+        translation: Dirrmbay yijarril milkanga
+    translations:
+      - storm-warning seagull
+      - corroboree announcement music
+      - tolling
+      - ringing the bell
+      #todo
+
   - word: diwalngku
+    type: noun
+    definitions:
+      - migratory bird
+    translations:
+      - bird
+      - diwalngku
+
   - word: diwan
+    type: noun
+    definitions:
+      - scrub turkey
+    translations:
+      - scrub turkey
+      - bird
+
   - word: diyi
+    type: noun
+    definitions:
+      - tea
+    translations:
+      - tea
+
   - word: dubal
+    type: noun
+    definitions:
+      - coolamon
+      - bark coffin or container for dead who were then placed in a cave
+    translations:
+      - bed
+      - coffin
+    usage:
+      - english: My child is sleeping in the coolamon
+        translation: Kangkal wunany dulbalba
+
   - word: dubar
+    type: adjective
+    definitions:
+      - level or flat place
+    synonyms: balay
+    translations:
+      - level
+      - flat place
+
   - word: dubar kalbay
+    type: noun
+    definitions:
+      - The Daintree side of Rocky Point (place name)
+    translations:
+      - The Daintree side of Rocky Point
+
   - word: dubu
+    type: noun
+    definitions:
+      - generic term for spirit
+      - the spirit of a dead person
+    translations:
+      - spirit
+      - ghost
+
   - word: dubu-mirrkirr
+    type: noun
+    definitions:
+      - stone skull along path on top of the zig-zag (story site)
+    translations:
+      - stone skull pathway
+
   - word: duburan
   - word: dudal
   - word: dudu
