@@ -4157,96 +4157,781 @@ words:
       - stone skull pathway
 
   - word: duburan
+    type: noun
+    definitions:
+      - directional sign, one placed in position, (not a motion), as a heap of stones or grass twisted to point the way
+      - ring of soft materials to put on women's for carrying things
+    translations:
+      - a directional sign
+      - a sign post
+      - a wreath
+
   - word: dudal
+    type: transitive-verb
+    definitions:
+      - knock, clap
+    translations:
+      - knock
+      - clap
+
+  - word: burridudal-dudal
+    type: transitive-verb
+    definitions:
+      - corroboree singing
+    translations:
+      - corroboree singing
+      - singing
+
   - word: dudu
+    type: noun
+    definitions:
+      - blunt
+    translations:
+      - blunt
+    usage:
+      - english: The knife is blunt, you should sharpen it
+        translation: Yinya naybu dudu, yundu jalngkun-bunga
+
   - word: duduy
+    type: noun
+    definitions:
+      - bush, weeds, tangled growth
+    translations:
+      - bush
+      - weeds
+      - tangled growth
+
   - word: dujandujan
-  - word: dujal
+    type: noun
+    definitions:
+      - locust, large cicada found in mountains
+    translations:
+      - locust
+
+  - word: dukal
+    type: noun
+    definitions:
+      - kind of fruit (fig) that is edible after roasting
+    translations:
+      - fig
+      - fruit
+
   - word: duku
+    type: noun
+    definitions:
+      - bent
+    translations:
+      - bent
+    usage:
+      - english: The mother ate cassoway so the child is hunchback now
+        translation: Ngamungku minya kurranji nukan karrkay muku-dukuda
+
   - word: dukul
+    type: noun
+    definitions:
+      - head
+      - bow of boat
+      - boss, from English
+      - head on a tape recorder
+    translations:
+      - head
+      - bow of boat
+      - boss, from English
+      - head on a tape recorder
+
   - word: dukul bajibay
+    type: noun
+    definitions:
+      - skull
+    translations:
+      - skull
+
   - word: dukul-dandi
+    type: adjective
+    definitions:
+      - stubborn
+    translations:
+      - stubborn
+
   - word: dukul-kulnkul
+    type: adjective
+    definitions:
+      - sorrow
+      - to feel sleepy as if with a heavy head
+    translations:
+      - sorry
+      - sleepy
+
   - word: dukul-wuri
+    type: adjective
+    definitions:
+      - really angry
+    translations:
+      - angry
+
   - word: dukul-barangkal
+    type: noun
+    definitions:
+      - flathead, species of fish.
+    translations:
+      - flathead fish
+    synonyms:
+      - dalmbal
+
   - word: dukul-dukul
+    type: noun
+    definitions:
+      - broad-leafed bush that can be used as cover for a dirt oven, kurrma.
+    translations:
+      - dukul-dukul bush
+      - broad leafed bush
+
   - word: dukul-mukul
+    type: noun
+    definitions:
+      - species of small lizard with big head
+    translations:
+      - dukul-mukul lizard
+
   - word: dukunjaka
+    type: noun
+    definitions:
+      - bush medicine
+    translations:
+      - bush medicine
+
   - word: dukunjuju
+    type: noun
+    definitions:
+      - golden whistler
+    translations:
+      - golder whistler
+
   - word: dukurr
+    type: noun
+    definitions:
+      - inside
+      - mind
+    translations:
+      - inside
+      - mind
+    usage:
+      - english: Rain is coming. Put the baby inside.
+        translation: Kaba kaday. Ngawa dukurrbu walay-mana
+
   - word: dukurr buyin
+    type: adjective
+    definitions:
+      - retarded
+    translations:
+      - retarded
+
   - word: duli
+    type: noun
+    definitions:
+      - burnt patch of grass
+    translations:
+      - burnt patch of grass
+
   - word: dulku
+    type: noun
+    definitions:
+      - white crane
+    translations:
+      - white crane
+
   - word: dulmbi
+    type: noun
+    definitions:
+      - umbrella palm
+      - name of a place at Stucky's Gap
+    translations:
+      - umbrella palm
+      - place at Stucky's Gap
+
   - word: dulngki
+    type: adjective
+    definitions:
+      - wide
+    translations:
+      - wide
+
   - word: dulngku
+    type: noun
+    definitions:
+      - reef
+    translations:
+      - reef
+
   - word: dumbarril
+    type: transitive-verb
+    definitions:
+      - break, tear, rip
+    translations:
+      - break
+      - tear
+      - rip
+    usage:
+      - english: He broke the cassette because he was angry
+        translation: Nyulu kulibu cassette dumbarrin
+
   - word: dumbarriji
+    type: intransitive-verb
+    definitions:
+      - broke
+    translations:
+      - broke
+    usage:
+      - english: He broke his farm
+        translation: Nyulu dakil dumbarrijin
+
   - word: dumbul
+    type: noun
+    definitions:
+      - any hard covering such as bark of a tree, crust of bread, shell of turtle
+    translations:
+      - bark
+      - crust
+      - shell
+    synonyms:
+      - yulban
+
   - word: damu
+    type: noun
+    definitions:
+      - chest
+      - hillside
+    translations:
+      - chest
+      - hillside
+
   - word: damu naka
+    type: noun
+    definitions:
+      - a person facing south, or the slope of a hill facing south
+    translations:
+      - person facing south
+      - slope of hill facing south
+
   - word: duna
+    type: noun
+    definitions:
+      - wet
+    translations:
+      - wet
+    synonyms:
+      - ngunay
+
   - word: dungay
+    type: intransitive-verb
+    definitions:
+      - go. This is contracted to duway in fast speech.
+    translations:
+      - go
+
   - word: dungkul
+    type: adjective
+    definitions:
+      - huge, enormous
+    translations:
+      - huge
+      - enormous
+
   - word: dungkunji
+    type: noun
+    definitions:
+      - bad spirit who in form of a crocodile, covered with crocodile skin
+    translations:
+      - bad spirit in form of crocodile
+
   - word: dunjal
+    type: noun
+    definitions:
+      - a growth on the bottom of a foot
+    translations:
+      - growth on bottom of foot
+      - foot disease
+
   - word: dunju
+    type: noun
+    definitions:
+      - soda bicarb
+    translations:
+      - soda bicard
+
   - word: dunju
+    type: noun
+    definitions:
+      - coarse, rough
+    translations:
+      - coarse
+      - rough
+
   - word: dunju-dunju
-  - word: mungka-dunja
+    type: adjective
+    definitions:
+      - having lots of knobs, spikes, thorns, etc
+      - coarse
+    translations:
+      - knobs
+      - spikes
+      - thorns
+      - coarse
+
+  - word: Mungka-dunja
+    type: noun
+    definitions:
+      - islander
+    translations:
+      - islander
+
   - word: dunyu
+    type: noun
+    definitions:
+      - husband
+    translations:
+      - husband
+
   - word: duray
+    type: adjective
+    definitions:
+      - tricky
+      - clever
+    translations:
+      - tricky
+      - clever
+    usage:
+      - english: Sea turtles dig holes and cover them again without eggs; they trick people
+        translation: Ngawiyangka bubu bakal, diburr kariku nandal baja; jana duraymal bamanka
+
   - word: durra
+    type: noun
+    definitions:
+      - caterpillar, worm
+    translations:
+      - caterpillar
+      - worm
+
   - word: durral
+    type: noun
+    definitions:
+      - species of tree and its edible fruit
+      - spears made from this wood
+    translations:
+      - durral tree
+      - spears
+      - edible fruit
+
   - word: durray
+    type: noun
+    definitions:
+      - fighting stick
+    translations:
+      - fighting stick
+
   - word: durrbal
+    type: noun
+    definitions:
+      - a greedy person who has eaten all the food
+    translations:
+      - greedy person
+      - glutton
+
   - word: durrkin
+    type: noun
+    definitions:
+      - white-tailed rat
+    translations:
+      - white-tailed rat
+
   - word: durru
+    type: noun
+    definitions:
+      - toe
+    translations:
+      - toe
+    usage:
+      - english: I stubbed my toe on a stone
+        translation: Ngayu kuljinga durru yilban
+
   - word: durrubu dungay
+    type: intrasitive-verb
+    definitions:
+      - walk on tiptoe
+    translations:
+      - tiptoe
+
   - word: duru-duru
+    type: adjective
+    definitions:
+      - puzzled
+    translations:
+      - puzzled
+    usage:
+      - english: I'm puzzled about the engine
+        translation: Ngayu duru-dury engineka
+
   - word: duwar
+    type: noun
+    definitions:
+      - black palm
+      - black palm spear
+    translations:
+      - black palm
+      - black palm spear
+
+  # #61 of PDF - J
   - word: jaba
+    type: noun
+    definitions:
+      - stick, sapling, post, walking stick, horn
+    translations:
+      - stick
+      - sapling
+      - post
+      - walking stick
+      - horn
+
   - word: jaba-jaba
+    type: adjective
+    definitions:
+      - adult
+      - ready or big enough for eating, big
+    translations:
+      - adult
+      - ripe
+      - mature
+      - big
+
   - word: jabalbina
+    type: noun
+    definitions:
+      - home of the ancestors
+      - Maytown language for storm
+    translations:
+      - ancestral home
+      - storm
+
   - word: jabani
+    type: noun
+    definitions:
+      - Japanese (english loan word)
+    translations:
+      - japanese
+
   - word: jabarr
-  - word: jabarrangkl
+    type: noun
+    definitions:
+      - baldy gum tree
+    translations:
+      - baldy gum tree
+
+  - word: jabarrangkul
+    type: noun
+    definitions:
+      - blank ant. Also their nest in rotten logs.
+    translations:
+      - black ant
+      - black ant nest
+
   - word: jabil
+    type: transitive-verb
+    definitions:
+      - kick
+    translations:
+      - kick
+
   - word: jabil
+    type: noun
+    definitions:
+      - scrub lizard
+    translations:
+      - scrub lizard
+
   - word: jabul
+    type: adjective
+    definitions:
+      - taboo
+    translations:
+      - taboo
+  #todo nyung dialect etc
+
   - word: bubu jabul
+    type: noun
+    definitions:
+      - taboo ground
+    translations:
+      - taboo ground
+
   - word: jabulbina
+    type: noun
+    definitions:
+      - thunder out west, the start of all storms
+    translations:
+      - thunder
+      - start of storms
+
   - word: jadal-jadal
+    type: adjective
+    definitions:
+      - missed, as missed hearing it
+      - not strong enough
+    translations:
+      - missed
+      - weak
+      - misunderstood
+    usage:
+      - english: I'm not strong enough, can't carry the load
+        translation: Ngayu jadal-jadal, load can't jara-kulbal
+
   - word: jadalangka
+    type: noun
+    definitions:
+      - leg of a beast
+    translations:
+      - leg of a beast
+
   - word: jadamu
+    type: noun
+    definitions:
+      - bananas
+    translations:
+      - bananas
+
   - word: jadi
+    type: noun
+    definitions:
+      - sand goanna. Only old people are allowed to eat it.
+    translations:
+      - sand goanna
+
   - word: jajikal
+    type: noun
+    definitions:
+      - pandanus tree (screw palm)
+      - name of lower (bottom) camp in Ayton where there are lots of pandanus trees
+    translations:
+      - screw palm
+      - pandanus tree
+
   - word: jajin
+    type: noun
+    definitions:
+      - sacred/taboo
+    translations:
+      - sacred
+      - taboo
+
   - word: jajirril
+    type: transitive-verb
+    definitions:
+      - to stand something up
+      - bail up, put up an animal
+    translations:
+      - stand something up
+      - bail up
+      - tie up
+    usage:
+      - english: He put in posts for a fence
+        translation: Nyulu post jajirrin fencemunku
+      - english: The dogs bailed up the pig
+        translation: Kaya-kayangka bikibiki jajirrin
+
   - word: jaka
+    type: noun
+    definitions:
+      - friar bird (leather-head)
+    translations:
+      - friar bird
+      - leather-head bird
+
   - word: jakal
+    type: noun
+    definitions:
+      - full
+    translations:
+      - full
+    usage:
+      - english: Fill the bucket up with water
+        translation: Bucket jakal-bunga banabu
+
   - word: jakal
+    type: noun
+    definitions:
+      - mouse
+      - door, front #todo read original
+    translations:
+      - mouse
+      - door
+      - front
+
   - word: jakalba
+    type: adjective
+    definitions:
+      - ahead, in front of, before
+    translations:
+      - ahead
+      - front of
+      - before
+  #62 in pdf
   - word: jakalbaku
+    type: time
+    definitions:
+      - at the first, in the beginning
+    translations:
+      - beginning
+      - first
+
   - word: jakalbamunku
+    type: adjective
+    definitions:
+      - the first-born, first one
+    translations:
+      - first-born
+      - first one
+
   - word: jakalmunku
+    type: adjective
+    definitions:
+      - first
+    translations:
+      - first
+
   - word: jakalambal
-  - word: jakakulu
+    type: transitive-verb
+    definitions:
+      - start a fire start to cook food
+    translations:
+      - start a fire
+
+  - word: jakalkulu
+    type: noun
+    definitions:
+      - tree stump
+    translations:
+      - tree stump
+
   - word: jakari
+    type: noun
+    definitions:
+      - spiderlily
+    translations:
+      - spiderlily
+
   - word: jakay
+    type: noun
+    definitions:
+      - back of neck, neck
+    translations:
+      - neck
+      - back of neck
+
   - word: jakay-dandi
+    type: adjective
+    definitions:
+      - stingy
+    translations:
+      - stingy
+
   - word: jakay-jakayku
+    type: manner #todo
+    definitions:
+      - headlong
+    translations:
+      - headlong
+    usage:
+      - english: He fell headlong
+        translation: Nyulu jakay-jakayku daran
+
   - word: jakay-jakay
+    type: adjective
+    definitions:
+      - angry
+    translations:
+      - angry
+
   - word: jakibiyal
+    type: adjective
+    definitions:
+      - tough, strong
+    translations:
+      - tough
+      - strong
+
   - word: jakuji
+    type: noun
+    definitions:
+      - left hand
+    translations:
+      - left hand
+
   - word: jakway
+    type: noun
+    definitions:
+      - door, front # todo - read pdf
+    translations:
+      - door
+      - front
+
   - word: jala-jala
+    type: adjective
+    definitions:
+      - loose, loosely put together
+    translations:
+      - loose
+      - loosely put together
+
   - word: jalamal
+    type: intransitive-verb
+    definitions:
+      - jump, hop, skip
+      - get out of a truck, car, boat or plane
+    translations:
+      - jump
+      - hop
+      - skip
+
   - word: jalan
+    type: noun
+    definitions:
+      - edible sea creature with a shell like a porcupine with prickles which lives on the rocks by the sea. (you fry the meat)
+    translations:
+      - sea urchin # todo
+
   - word: jalban-baka
+    type: adjective
+    definitions:
+      - always wanting to be high up - climbing trees
+    translations:
+      - arboreal
+      - climbing trees
+
   - word: jalbayn
+    type: noun
+    definitions:
+      - food taboo
+    translations:
+      - food taboo
+
   - word: jalbil
+    type: noun
+    definitions:
+      - greenish black lizard about 12 inches long
+      - some mythological person/animal who split Snapper Island away from the main-land. Story of dakwurrdakwun cooking marra-bujabay in kurrma
+    translations:
+      - black lizard
+      - mythological creature
+
   - word: jalbu
+    type: noun
+    definitions:
+      - female, woman
+    translations:
+      - female
+      - woman
+
+  # page 64 of pdf
+
   - word: jalbubun
   - word: jalil-jalil
   - word: jalkar
