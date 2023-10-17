@@ -4933,31 +4933,212 @@ words:
   # page 64 of pdf
 
   - word: jalbubun
+    type: noun
+    definitions:
+      - bad news
+    translations:
+      - bad news
+
   - word: jalil-jalil
+    type: noun
+    definitions:
+      - mudskipper
+    translations:
+      - mudskipper
+
   - word: jalkar
+    type: noun
+    definitions:
+      - high bank
+    translations:
+      - high bank
+
   - word: jalkaraburr
+    type: noun
+    definitions:
+      - high reaches of the mountains
+    translations:
+      - mountain peak
+
   - word: jalkar-jalkar
+    type: adjective
+    definitions:
+      - steep
+    translations:
+      - steep
+
   - word: jaljan
+    type: noun
+    definitions:
+      - pharynx
+    translations:
+      - pharynx
+
   - word: jalkay
+    type: noun
+    definitions:
+      - salmon
+    translations:
+      - salmon
+
   - word: jalkinba
+    type: adjective
+    definitions:
+      - loosely, slack, gently, not strongly
+    translations:
+      - loosely
+      - slack
+      - gently
+      - not strongly
+    usage:
+      - english: Hang on tight, you may fall
+        translation: Jalkinbaku kari bunday; daranji
+
   - word: jalnji
+    type: noun
+    definitions:
+      - species of poison nut tree, not edible for humans. Gum from this tree is not poisonous, used for making spears.
+    translations:
+      - poison nut tree
+
   - word: jalngarr
+    type: noun
+    definitions:
+      - flat rock
+    translations:
+      - flat rock
+
   - word: jalngka
+    type: adjective
+    definitions:
+      - smooth, level
+    translations:
+      - smooth
+      - level
+
   - word: jalngka-bungal
+    type: transitive-verb
+    definitions:
+      - take the rough off a piece of wood with a tool or a piece of glass
+      - making a place level
+    translations:
+      - smooth
+
   - word: jalngkal
+    type: transitive-verb
+    definitions:
+      - to remove a hard or tough covering, e.g. a coconut
+    translations:
+      - husk
+
   - word: jalngkay
+    type: intransitive-verb
+    definitions:
+      - itch
+    translations:
+      - itch
+
   - word: jalngka
+    type: noun
+    definitions:
+      - itchy feeling
+    translations:
+      - itchy feeling
+
+  - word: jalngkaji
+    type: noun
+    definitions:
+      - itchy
+    translations:
+      - itchy
+
   - word: jalngkun
+    type: adjective
+    definitions:
+      - sharp
+    translations:
+      - sharp
+    usage:
+      - english: The axe is very dull; sharpen it with a file
+        translation: Axe dudu bajaku; jalngkun-bunga filemundu.
+
   - word: jalun
-  - word: jalunji
+    type: noun
+    definitions:
+      - sea, large body of water
+    translations:
+      - sea
+
+  - word: Jalunji
+    type: noun
+    definitions:
+      - people belonging to the seaside
+    translations:
+      - seafarers
+
   - word: jalungkarr
+    type: noun
+    definitions:
+      - flood
+    translations:
+      - flood
+
   - word: jamal
+    type: noun
+    definitions:
+      - white of egg
+    translations:
+      - white of egg
+      - albumen
+
   - word: jamalka
+    type: noun
+    definitions:
+      - shoulder blade
+    translations:
+      - shoulder blade
+
   - word: jamar
+    type: noun
+    definitions:
+      - newly cleared scrub
+    translations:
+      - newly cleared scrub
+      - cleared land
+
   - word: jamarbina
+    type: noun
+    definitions:
+      - goose
+    translations:
+      - goose
+
   - word: jamba
+    type: noun
+    definitions:
+      - hillside
+    translations:
+      - hillside
+    usage:
+      - english: We went along the hillsides
+        translation: Jamba-jambanga ngalin dungan
+      - english: Up there on the hillside
+        translation: Yinya wangkar-wangkarala jambangala
+
   - word: jambul
+    type: adjective
+    definitions:
+      - two
+    translations:
+      - two
+
   - word: jambul-jambul
+    type: adjective
+    definitions:
+      - four
+    translations:
+      - four
+
   - word: jambun
   - word: jamu
   - word: jama
