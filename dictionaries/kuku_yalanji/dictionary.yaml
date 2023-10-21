@@ -5140,64 +5140,447 @@ words:
       - four
 
   - word: jambun
-  - word: jamu
-  - word: jama
-  - word: jana
-  - word: janay
-  - word: janay-manil
-  - word: janbal
-  - word: janban
-  - word: janbangal
-  - word: janbangaji
-  - word: janbar
-  - word: janbay
-  - word: janbay-manil
-  - word: janbay-janbay
-  - word: jandal
-  - word: jandu
-  - word: jangka
-  - word: jangkal-jangkal
-  - word: jangkan
-  - word: jangkarra
-  - word: jangkuy
-  - word: jani
-  - word: janjarr-janjarr
-  - word: janjil
-  - word: janji-manil
-  - word: janka
-  - word: janku
-  - word: jarba
+    type: noun
+    definitions:
+      - grub. Mareeba dialect for mujurr
+    translations:
+      - grub
 
+  - word: jamu
+    type: noun
+    definitions:
+      - cork from bottle
+    translations:
+      - cork
+
+  - word: jama
+    type: noun
+    definitions:
+      - a type of tree
+    translations:
+      - tree
+
+  - word: jana
+    type: noun
+    definitions:
+      - they plural
+    translations:
+      - they
+      # @todo
+
+  - word: janay
+    type: intransitive-verb
+    definitions:
+      - stand
+      - to come to a stop
+    translations:
+      - stand
+      - to come to a stop
+    usage:
+      - english: The children are standing in front of the school
+        translation: Jana kaykay-kaykay janjanay jakalba school
+      - english: they went and went in the truck, then stopped by the creek
+        translation: Jana truckmundu warrin warrin, warrin, jana yilkinga.
+
+  - word: janay-manil
+    type: transitive-verb
+    definitions:
+      - to stop someone
+    translations:
+      - prevent
+
+  - word: janbal
+    type: noun
+    definitions:
+      - blue quondong
+      - blue spotted fantail ray
+    translations:
+      - blue quondong
+      - blue spotted fantail ray
+
+  - word: janban
+    type: noun
+    definitions:
+      - rice
+    translations:
+      - rice
+
+  - word: janbangal
+    type: transitive-verb
+    definitions:
+      - to glue or stick something, using pitch or glue (yalanji only)
+    translations:
+      - glue'
+
+  - word: janbangaji
+    type: intransitive-verb
+    definitions:
+      - to become stuck, to stick to
+      - to keep something that is not your own, but you don't steal it, just find it somewhere
+    translations:
+      - stuck
+      - stole
+      - appropriate
+      - treasure
+    usage:
+      - english: The car is stuck in the mud
+        translation: Car janbangaji kambal-kambalba
+      - english: he'll keep the ball
+        translation: Nyulu ballungu janbangaji.
+
+  - word: janbar
+    type: noun
+    definitions:
+      - stick, also used for sticky honey
+    translations:
+      - sticky
+    usages:
+      - english: I'm very sticky, want to take a bath
+        translation: Ngayu janbar, bajaku, janjinka.
+
+  - word: janbay
+    type: transitive-verb
+    definitions:
+      - stick to
+    translations:
+      - stick to
+
+  - word: janbay-manil
+    type: transitive-verb
+    definitions:
+      - to stick or glue something to something
+    translations:
+      - stick
+      - glue
+
+  - word: janbay-janbay
+    type: adjective
+    definitions:
+      - cheeky
+    translations:
+      - cheeky
+    usages:
+      - english: You people are cheeky
+        translation: Yurra janbay-janbay
+
+  - word: jandal
+    type: noun
+    definitions:
+      - lower limb, leg
+    translations:
+      - leg
+
+  - word: jandu
+    type: noun
+    definitions:
+      - a food made from flour cooked in water, which is thick, not soupy
+    translations:
+      - starch
+
+  - word: jangka
+    type: noun
+    definitions:
+      - stone
+    translations:
+      - tree (this term is very rarely used for money)
+
+  - word: jangkal-jangkal
+    type: adjective
+    definitions:
+      - bristling, ready to fight
+    translations:
+      - bristling
+
+  - word: jangkan
+    type: noun
+    definitions:
+      - swift (species of bird)
+    translations:
+      - swift bird
+
+  - word: jangkarra
+    type: noun
+    definitions:
+      - along upper reaches of Daintree River
+    translations:
+      - north Daintree river
+
+  - word: jangkuy
+    type: noun
+    definitions:
+      - sound of chewing
+    translations:
+      - chewing
+      - num num num
+
+  - word: jani
+    type: adjective
+    definitions:
+      - well cooked, done
+    translations:
+      - well cooked
+      - done
+
+  - word: janjarr-janjarr
+    type: adjective
+    definitions:
+      - nuisance, cheeky, trouble maker
+    translations:
+      - nuisance
+      - cheeky
+      - trouble maker
+
+  - word: janjil
+    type: intransitive-verb
+    definitions:
+      - wash, bathe, swim
+    translations:
+      - wash
+      - bathe
+      - swim
+    synonyms:
+      - jilurriji
+
+  - word: janji-manil
+    type: transitive-verb
+    definitions:
+      - to give someone a bath
+    translation:
+      - bathe
+
+  - word: janka
+    type: adjective
+    definitions:
+      - quiet
+    translations:
+      - quiet
+
+  - word: janku
+    type: noun
+    definitions:
+      - hole in the ground
+    translations:
+      - hole
+
+  - word: jarba
+    type: noun
+    definitions:
+      - generic word for snake
+    translations:
+      - snake
+
+    # @todo
   - word: Jarba wali-yindu-wali-yindu
-    meaning: Jarba wali-yindu-wali-yindu
-    maybe: something
+    type: noun
+    definitions:
+      - a type of snake
+    translations:
+      - snake
 
   - word: bajalji
+    type: noun
+    definitions:
+      - poisonous snake (found in the Rossville-Shipton's Fault area)
+    translations:
+      - poisonous species
+
   - word: bakay
+    type: noun
+    definitions:
+      - short brown watersnake
+    translations:
+      - watersnake
+
   - word: banamu
+    type: noun
+    definitions:
+      - fresh water snake
+    translations:
+      - fresh water snake
+
   - word: barka
+    type: noun
+    definitions:
+      - yellow water snake
+    translations:
+      - yellow water snake
+
   - word: bindimu
+    type: noun
+    definitions:
+      - red bellied black snake
+    translations:
+      - red bellied black snake
+
   - word: binju
+    type: noun
+    definitions:
+      - light bellied black snake
+    translations:
+      - light bellied black snake
+
   - word: biwul
+    type: noun
+    definitions:
+      - black snake (bigger than the red bellied)
+    translations:
+      - black snake
+
   - word: bubal
+    type: noun
+    definitions:
+      - species of tree snake
+    translations:
+      - tree snake
+
   - word: jijirrbay
+    type: noun
+    definitions:
+      - whip snake
+    translations:
+      - whip snake
+
   - word: jinkalmu
+    type: noun
+    definitions:
+      - brown snake or taipan (no distinction)
+    translations:
+      - brown snake
+
   - word: kabul
+    type: noun
+    definitions:
+      - rock python
+    translations:
+      - rock python
+
   - word: kabuljaka
+    type: noun
+    definitions:
+      - zebra striped water snake
+    translations:
+      - zebra striped water snake
+
   - word: kalkamuku
+    type: noun
+    definitions:
+      - green tree snake
+    translations:
+      - green tree snake
+
   - word: kundurr
+    type: noun
+    definitions:
+      - death adder
+    translations:
+      - death adder
+
   - word: kungkun
+    type: noun
+    definitions:
+      - carpet snake, North Queensland python (no distinction)
+    translations:
+      - carpet snake
+
   - word: kurriyala
+    type: noun
+    definitions:
+      - species of fish, grunter
+    translations:
+      - grunter
+
   - word: ngumbul
+    type: noun
+    definitions:
+      - species of snake
+    translations:
+      - sea snake
+
   - word: yarru
+    type: noun
+    definitions:
+      - rainbow serpent (mythological serpent)
+    translations:
+      - rainbow serpent
+
   - word: yuray
+    type: noun
+    definitions:
+      - species of snake
+    translations:
+      - sea snake
+
   - word: jarbir
+    type: noun
+    definitions:
+      - species of fish, grunter
+    translations:
+      - species of fish, grunter
+
   - word: jarmbil
+    type: noun
+    definitions:
+      - wash away
+      - drift, as things the drift by the tide
+    translations:
+      - wash away
+      - drift
+    usages:
+      - english: The flood washed the tree away
+        translation: Jalungkarrda juku jarmbin
+      - english: The boat is drifting
+        translation: Yinya buwun jarmbil-jarmbil
+
   - word: jarra
+    type: noun
+    definitions:
+      - more, farther
+    translations:
+      - more
+      - farther
+    usages:
+      - english: I am bigger than he is
+        translation: Ngayu jarra yalbay nyungunku
+  #todo
   - word: jarra-jarra
+    type: adjective
+    definitions:
+      - high
+      - full grown or mature
+    translations:
+      - high
+      - grown
+    usages:
+      - english: She climbed up high
+        translation: Nyulu jarra-jarra dikan
+      - english: They were grown up in the head (mind)
+        translation: Jananga dukul jarra-jarramin
+
   - word: jarrabi
+    type: noun
+    definitions:
+      - upper reaches of Daintree River Junction to Gold Hill
+    translations:
+      - tree
+
   - word: jarrabina
+    type: noun
+    definitions:
+      - tree-climbing kangaroo
+    translations:
+      - tree kangaroo
+    usages:
+      - english: Nyungkul Yalanaji
+        translation: murral
+
   - word: jarra-kulbal
+    type: noun
+    definitions:
+      - to lift or carry
+    translations:
+      - lift
+      - carry
+
   - word: jarramali
   - word: jarramali bajaku
   - word: jarra-maliyan
