@@ -6290,29 +6290,198 @@ words:
       - ground lizard
 
   - word: jirakal
-  
+    type: adjective 
+    definitions: 
+      - new
+    translations:
+      - new
+
   - word: jiral-jiral
+    type: adjective
+    definitions:
+      - nightbird
+    translations:
+      - nightbird
+
   - word: jiray
+    type: adjective
+    definitions:
+      - desire, craving 
+    translations:
+      - desire
+      - craving 
+    usage:
+      - english: I have a craving for a smoke
+        translation: Ngayu smokemunku jiraymal
+
   - word: jiri
+    type: noun
+    definitions:
+      - sky
+      - heaven
+    translations:
+      - sky
+      - heaven
+
   - word: jiri bajaku
+    type: noun
+    definitions:
+      - fine day, cloudless sky
+    translations:
+      - fine day
+      - cloudless sky
+
+
   - word: jirimali
+    type: noun
+    definitions:
+      - fine day, cloudless sky
+    translations:
+      - fine day
+      - cloudless sky
+
   - word: jiri-warra
+    type: noun
+    definitions:
+      - angels, the sky-mob
+    translations:
+      - angels
+
   - word: jirimandi
+    type: noun
+    definitions:
+      - coconut, the tree and the fruit
+    translations:
+      - coconut
+      - coconut tree
+
   - word: jiri-wuran
+    type: noun
+    definitions:
+      - upper reaches of the Bloomfield River (place name)
+    translations:
+      - upper reaches of the Bloomfield River
+
   - word: jirka
+    type: noun
+    definitions:
+      - spring
+    translations:
+      - spring
+
   - word: jirra
+    type: adjective
+    definitions:
+      - burnt, as food. Sometimes also the crust of bread.
+    translations:
+      - burnt 
+      - burnt food
+      - crust
+
   - word: jirra-bungal
-  - word: jirral-kangal
+    type: transitive-verb
+    definitions:
+      - to overcook, to burn the food
+    translations:
+      - to overcook
+
+  - word: jirra-kangal
+    type: transitive-verb
+    definitions:
+      - to taste, to upset someone, to stir him up
+      - to start a fire
+      - to start a motor
+    translations:
+      - to taste
+      - to start a fire
+      - to start a motor
+      - to upset someone
+      - to stir him up
+
   - word: jirramar
-  - word: hirray
+    type: noun
+    definitions:
+      - chips, small sticks to start a fire
+    translations:
+      - chips
+      - small sticks
+      - twigs
+
+  - word: jirray
+    type: adjective
+    definitions:
+      - big amount, lots
+    translations:
+      - lots
+      - big amount
+      - much
+
   - word: jirrbu-jirrbu
+    type: adjective
+    definitions:
+      - lonely, uninhabited, sad
+    translations:
+      - lonely
+      - uninhabited
+      - sad
+    usage: 
+      - english: All of them went for good, the place is uninhabited now
+        translation: Jana wubulku dunganyarrkuda, bubu jirrbu-jirrbuda
+      - english: He is lonely, sad (no one around)
+        translation: Nyulu jirrbu-jirrbuku bunday
+
   - word: jirrburr
+    type: adjective
+    definitions:
+      - meat with no fat, an animal in poor condition. (This kind of animal will not be eaten) 
+    see:
+      - jilu
+      - kunukunu
+    translations:
+      - lean
+      - game
+
   - word: jirril
+    type: noun
+    definitions:
+      - pubic hair on both man and woman
+    translations:
+      - small fish
+
   - word: jirrkalinku
+    type: manner
+    definitions:
+      - through, as through a gate.
+    translations:
+      - through 
+    usage:
+      - english: I went through the gate
+        translation: Ngayu gateba jirrkalinku dungan
+
   - word: jirrku
+    type: adjective
+    definitions:
+      - the way you feel if someone talks bad about you
+    translations:
+      - hurt
+
   - word: jirrkul
-  - word: jirrkul
+    type: noun
+    definitions:
+      - rust, rusty
+    translations:
+      - rust
+      - rusty 
+
   - word: jirrkumal
+    type: intransitive-verb 
+    definitions:
+      - complain, to chase, to cause to go away, as when a person or people are angry and make someone go away either by his running away or actually chasing him
+    translations:
+      - chase 
+      - witch hunt
+      # todo wtf
+
   - word: jirrum
   - word: jiwal-jiwal
   - word: jiwawu
