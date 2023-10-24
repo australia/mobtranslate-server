@@ -5582,92 +5582,715 @@ words:
       - carry
 
   - word: jarramali
+    type: noun
+    definitions:
+      - thunder, thunderstorm, thunderheads
+      - praying mantis
+      - small species of stingray
+    translations:
+      - thunder
+      - thunderstorm
+      - thunderheads
+      - praying mantis
+      - small species of stingray
+
   - word: jarramali bajaku
+    type: adjective
+    definitions:
+      - someone who is angry and yelling at people, who loses his temper
+    translations:
+      - hot-head
+      - hot-tempered
+
   - word: jarra-maliyan
+    type: noun
+    definitions:
+      - above Thompson Creek Camp (place name) (story site)
+    translations:
+      - north Thompson Creek Camp
+
   - word: jarrangkal
+    type: noun
+    definitions:
+      - fig tree and its fruit
+    translations:
+      - fig tree
+      - fig 
+
   - word: jarrawaki
+    type: noun
+    definitions:
+      - species of some shelled sea creature
+      - skin colour, a little lighter than usual but not light enough to be half-case
+    translations:
+      - olive
+      - tanned
+      - brown
+      - jarrawaki
+
   - word: jarrbar
+    type: manner
+    definitions:
+      - to be flat on one's stomach, prone
+    translations:
+      - prone 
+    usage:
+      - english: The child is lying on its stomach
+        translation: Nyulu karrkay jarrbar wunanay
+
   - word: jarri
+    type: intransitive-verb
+    definitions:
+      - to delay, stay away
+    translations:
+      - delay
+      - stay away
+    usage:
+      - english: He hasn't come yet, is staying away
+        translation: Nyulu kariku kadan, jarrin, jarriyarrku
+
   - word: jarrjal
+    type: noun
+    definitions:
+      - message stick used to carry bad news, usually a stick about 4 inches long, with notches (If a person receives a sensation on the forehead, it is an indication of bad news)
+    translations:
+      - message stick
+
   - word: jarrkal
+    type: noun
+    definitions:
+      - an item, quartz, marble, bone - which is pulled out of a person's body by the witch doctor when sick
+    translations:
+      - talisman
+      - charm
+
   - word: jarru
+    type: noun
+    definitions:
+      - taro (english loan word)
+    translations:
+      - taro
+
   - word: jurruja
+    type: noun
+    definitions:
+      - trousers (english loan word)
+    translations:
+      - trousers
+
   - word: jarruka
+    type: noun
+    definitions:
+      - scrub hen, also used to refer to the eggs and/or nest of scrub hen
+    translations:
+      - scrub hen
+      - scrub hen eggs
+      - scrub hen nest
+
   - word: jawarr
+    type: noun
+    definitions:
+      - argument, complaint
+    translations:
+      - argument
+      - complaint
+
   - word: jawarr-baka
+    type: noun
+    definitions:
+      - someone who is always arguing or complaining
+    translations:
+      - argumentative
+      - complainer
+
   - word: jawarr-wunay
+    type: intransitive-verb
+    definitions:
+      - to complain
+    translations:
+      - to complain
+
   - word: jaway
+    type: adjective
+    definitions:
+      - generous, liberal
+    translations:
+      - generous
+      - liberal
+    usage:
+      - english: The old man is very generous
+        translation: Nyulu wulman jaway bajaku
+
   - word: jawun
+    type: noun
+    definitions:
+      - friend, relation
+    translations:
+      - friend
+      - relation
+
   - word: jawurraji
+    type: noun
+    definitions:
+      - large ant bed
+    translations:
+      - large ant bed
+      - ant hill
+
   - word: jayarr-jayarr
+    type: adjective
+    definitions:
+      - pleasant, nice to talk to
+    translations:
+      - pleasant
+      - nice to talk to
+
   - word: jaybay
+    type: intransitive-verb
+    definitions:
+      - to become stuck, stick to
+    translations:
+      - to become stuck
+      - stick to
+
   - word: jayjin
+    type: noun
+    definitions:
+      - name for policeman (sergeant) (english loan word) 
+    translations:
+      - policemap
+      - sergeant
+      - copper
+
   - word: jayju
+    type: noun
+    definitions:
+      - kangaroo rat
+    translations:
+      - kangaroo rat
+
   - word: jiba
+    type: noun
+    definitions:
+      - liver
+      - insides, guts
+    translations:
+      - liver
+      - insides
+      - guts
+      - organs
+
   - word: jibi-badi
-  - word: jibaby-nyajil
+    type: intransitive-verb
+    definitions:
+      - to feel sorrow, grief, pity
+    translations:
+      - feel sorrow
+      - grief
+      - pity
+
+  - word: jibabu-nyajil
+    type: transitive-verb
+    definitions:
+      - realize something bad
+    translations:
+      - acknowledge
+      - recognize
+
   - word: jiba-janay
+    type: intransitive-verb
+    definitions:
+      - turn around from stomach to back when lying down
+    translations:
+      - roll over
+      - flip
+      - turn around
+
   - word: jiba-jurrkiji
+    type: intransitive-verb
+    definitions:
+      - repent, to go a different way, morally
+    translations:
+      - repent
+
   - word: jiba-ngulkurmal
+    type: adjective
+    definitions:
+      - glad 
+    # @todo - see also wawurr-warurrmal
+    translations:
+      - glad
+
   - word: jiba-warri
+    type: intransitive-verb
+    definitions:
+      - become startled
+    translations:
+      - become startled
+
   - word: jiba-wulay
+    type: adjective
+    definitions:
+      - sweet, as sugarcane
+      - feel really good and satisfied, as after a good meal
+    translations:
+      - sweet
+      - satisfied
+      - satiated
+    
   - word: jiba-yararri
+    type: intransitive-verb
+    definitions:
+      - frightened
+    synonyms:
+      - yinyilji
+      - wawu-dudaji
+    translations:
+      - frightened
+    usage:
+      - english: He's frightened because people are fighting
+        translation: Nyulu jiba-yararri, bama kunin-kuniway
+
   - word: jibal
+    type: noun
+    definitions:
+      - dog's urine
+    translations:
+      - dog urine
+
   - word: jibar
+    type: noun
+    definitions:
+      - stomach
+    translations:
+      - stomach
+
   - word: jibarr
+    type: directional
+    definitions:
+      - south and inland from the coast, south-west
+    translations:
+      - hinterland
+
   - word: jibul
+    type: noun
+    definitions:
+      - species of large bat
+      - place name - cave between Kangkaji and Kaway (story site). Also called Kurrbi.
+    translations:
+      - large bat
+      - Kangkaji and Kaway
+
   - word: jidi
+    type: noun
+    definitions:
+      - paperbark tree bark torch
+    translations:
+      - torch
+
   - word: jidu
+    type: noun
+    definitions:
+      - species of wild fruit in scrub, a bushy plant, with long leaves, ripe in March. These leaves are also used to line a dirt oven (kurrma)
+    translations:
+      - wild fruit 
+
   - word: jija
-  - word: jijiamali
+    type: noun
+    definitions:
+      - grandchild (one's son's children)
+    translations:
+      - grandchild
+
+  - word: jijamali
+    type: noun
+    definitions:
+      - name of old house across the river from the mill, now burned down
+    # todo - wtf - likely a place somewhere
+    translations:
+      - old house 
+
   - word: jiji
+    type: noun
+    definitions:
+      - roof of house
+      - the top of anything
+    translations:
+      - roof
+      - top
+
   - word: jijiniliji
+    definitions:
+      - place name. First ground upriver from the mouth of the Bloomfield River (south side)
+    translations:
+      - place name
+
   - word: jijirr
+    type: noun
+    definitions:
+      - red bream
+    translations:
+      - red bream
+
   - word: jijirrbay
+    type: noun
+    definitions:
+      - whip snake
+    translations:
+      - whip snake
+
   - word: jika
+    type: adjective
+    definitions:
+      - any food if, when cooked, is not hard but squishy (like sweet potatoes, or pumpkin)
+    translations:
+      - soft
+      - tender
+      - mushy
+
   - word: jika-birra
+    type: noun
+    definitions:
+      - tobacco leaf
+    translations:
+      - tobacco leaf
+
   - word: jikal
+    type: transitive-verb
+    definitions:
+      - stretch, to straighten
+    translations:
+      - stretch
+      - to straighten
+    usage:
+      - english: They straighten the spear out in the fire
+        translation: Jana kalka jikal bayanga
+
   - word: jikaji
+    type: intransitive-verb
+    definitions:
+      - to stretch - as on awakening from sleep
+    translations:
+      - to stretch
+    usage:
+      - english: You stretch when you get up
+        translation: Yundu jikaji, yundu warngkumun wandil
+
   - word: jikan
+    type: noun
+    definitions:
+      - grass
+    translations:
+      - grass 
+
   - word: jila
+    type: noun
+    definitions:
+      - beeswax
+      - smell
+      - sweat
+    translations:
+      - beeswax
+      - smell
+      - sweat
+
   - word: jila-burra
+    type: noun
+    definitions:
+      - bad smell
+    translations:
+      - bad smell
+
   - word: jila-warri
+    type: intransitive-verb
+    definitions:
+      - sweat
+    translations:
+      - sweat
+
   - word: jilanji
+    type: noun
+    definitions:
+      - vareity of edible fig and the tree
+    translations:
+      - edible fig
+      - fig tree
+
   - word: jilba
+    type: noun
+    definitions:
+      - walk
+      - walkabout
+    translations:
+      - walk
+      - walkabout
+    usage:
+      - english: The child can walk now
+        translation: Karrkay jilbajida
+      - english: They went walkabout
+        translation: Jana jilba dungan
+
   - word: jilba-burra
+    type: noun
+    definitions:
+      - a slow walk
+    translations:
+      - a slow walk
+
   - word: jilbar
+    type: noun
+    definitions:
+      - corkwood
+    translations:
+      - corkwood
+
   - word: jiljay
+    type: noun
+    definitions:
+      - grub found in antbed
+    translations:
+      - grub found in antbed
+      
   - word: jilnganji
+    type: noun
+    definitions:
+      - near Spit Island, at the confluence of the Bloomfield River and Thompson Creek (place name)
+    translations:
+      - near Spit Island
+      
   - word: jilngarr
+    type: noun
+    definitions:
+      - headband made from seashells
+    translations:
+      - headband
+
   - word: jilngu
+    type: noun
+    definitions:
+      - boney salmon, tarpon
+    translations:
+      - tarpon
+
   - word: jilu
+    type: adjective
+    definitions:
+      - an animal that is a little fat
+    see: 
+      - jirrburr, kunukunu
+    translations:
+      - lean
+      - game
+
   - word: jilu-jilu
+    type: adjective
+    definitions:
+      - glossy surface
+    translations:
+      - glossy surface
+    usage:
+      - english: That person's skin is really shiny, he rubbed on a lot of oil
+        translation: Nyulu bama jilu-jilu bajaku, oil jarray julngkan
+
   - word: jimal
+    type: noun
+    definitions:
+      - fire stick
+    translations:
+      - fire stick
+
   - word: jimal damal
+    type: transitive-verb
+    definitions:
+      - to make fire with a fire stick
+    translations:
+      - fire stick
+    usage:
+      - english: The old man made a fire with a fire stick to cook food
+        translation: Wulmanangka jimal daman, mayi wayjunku
+
   - word: jimalili
+    type: noun
+    definitions:
+      - mountain lizard. This lizard taught people how to use the firestick.
+    translations:
+      - mountain lizard
+
   - word: jimu
+    type: noun
+    definitions:
+      - grasshopper
+    translations:
+      - grasshopper
+
   - word: jina
+    type: noun
+    definitions:
+      - foot
+    translations:
+      - foot
+
   - word: jinabu dungay
+    type: intransitive-verb
+    definitions:
+      - to go by foot, to walk
+    translations:
+      - walk
+
   - word: jinabiju
+    type: noun
+    definitions:
+      - chicken hawk, goshawk
+    translations:
+      - chicken hawk, goshawk
+
   - word: jinajina
+    type: noun
+    definitions:
+      - water gum tree; this tree is good timber for woomeras (yalanji dialect)
+    see:
+      - dakumbar nyungkul
+    translations:
+      - water gum tree
+
   - word: jinali
+    type: noun
+    definitions:
+      - smooth rock
+    translations:
+      - smooth rock
+
   - word: jinbal
+    type: adjective
+    definitions:
+      - fast, quick, hurry.
+    translations:
+      - fast
+      - quick
+      - hurry
+    usage:
+      - english: Karrkay jinbal-kanga, ngana dungankada
+        translation: Hurry the child up, we want to go now
+
   - word: jinbar
+    type: noun
+    definitions:
+      - wrist 
+    translations:
+      - wrist
+
   - word: jindal
+    type: noun
+    definitions:
+      - spear with three prongs
+    translations:
+      - spear
+      
   - word: jindal
+    type: transitive-verb
+    definitions:
+      - to bite and leave a puncture mark, as a snake bite or some dog bites.
+    translations:
+      - bite
+    usage:
+      - english: A death adder bit her (leaving a mark)
+        translation: Kundurrungku nyungun jindan
+
   - word: jindi
+    type: noun
+    definitions:
+      - fish scale
+      - dish 
+    translations:
+      - fish scale
+      - dish
+    usage:
+      - english: We gathered the green ants in dishes
+        translation: Nganjin yangka yindinga murrngan
+
+  - word: Jingka-Jingka
+    type: noun
+    definitions:
+      - upper reaches of Roaring Meg River (place name)
+    translations:
+      - Roaring Meg River
+
   - word: jingka-jingka
-  - word: jingka-jingka
+    type: noun
+    definitions:
+      - silverfish
+      - honey ant, the abdomen enlarges after eating
+    translations:
+      - silverfish
+      - honey ant
+
   - word: jinil
+    type: noun
+    definitions:
+      - barb of spear
+    translations:
+      - barb of spear
+
   - word: jingajalka
+    type: noun
+    definitions:
+      - species of tree, also its edible fruit, which is small and elongated and plum-like with a large seed. The tree has bark out of which baskets can be made. It peels off easily then is put into the fire for a minute to soften, then it is bent and the ends tied to form a basket. It is used to cook with - hot stones can also be put in the water in it - and it was used to carry bones of the dead.
+    translations:
+      - tree
+      - jingajalka
+
   - word: jinjay
-  - word: jinjurri
+    type: noun
+    definitions:
+      - poison nut tree. The nut is edible after roasting. The smoke is poisonous when roasting the nut. The bark and sap are poisonous, but water from cooked wattle tree bark will cure the poisoned skin.
+    translations:
+      - poison nut tree
+
+  - word: Jinjurri
+    type: noun
+    definitions:
+      - Billygoat Creek (place name)
+    translations:
+      - Billygoat Creek
+
   - word: jinjurri-jinjurri
-  - word: jinklmu
+    type: adjective
+    definitions:
+      - spotted, as an animal
+    translations:
+      - spotted
+
+  - word: jinkalmu
+    type: noun
+    definitions:
+      - taipan, brown snake. (These are not distinguished) Young boys were made to eat the eyes of a jinkalmu in order to make them kuliji, fierce, good fighters.
+    translations:
+      - brown snake
+      - taipan
+
   - word: jinkarr
+    type: noun
+    definitions:
+      - body of a dead person when it is carried in the dubal (bark coffin)
+    translations:
+      - corpse
+
   - word: jinkurr
+    type: noun
+    definitions:
+      - younger sister, relationship term
+    translations:
+      - younger sister
+
   - word: jirabay
+    type: noun
+    definitions:
+      - ground lizard, larger than the blue-tongue lizard
+    translations:
+      - ground lizard
+
   - word: jirakal
+  
   - word: jiral-jiral
   - word: jiray
   - word: jiri
