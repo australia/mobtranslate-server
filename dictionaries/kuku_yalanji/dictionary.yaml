@@ -6483,143 +6483,1062 @@ words:
       # todo wtf
 
   - word: jirrum
+    type: noun
+    definitions:
+      - small oyster
+    translations:
+      - small oyster
+
   - word: jiwal-jiwal
+    type: noun
+    definitions:
+      - kingfisher, white tailed
+    translations:
+      - kingfisher
+      
   - word: jiwawu
+    type: noun
+    definitions:
+      - defiance
+    translations:
+      - defiance
+
   - word: jiway
-  - word: jiwaymba
-  - word: jiwukal
+    type: noun
+    definitions:
+      - messenger night bird which carries the message. When you go somewhere, after you get there, you send a message back home by throwing fire.
+    translations:
+      - messenger bird
+      - homonculus
+
+  - word: Jiwaymba
+    type: noun
+    definitions:
+      - below Stony Crossing in Daintree River (place name)
+    translations:
+      - below Stony Crossing
+
+  - word: Jiwukal
+    type: noun
+    definitions:
+      - along Daintree River (place name)
+    translations:
+      - along Daintree River
+
   - word: jiwurrmal
-  - word: jiwurru
+    type: noun
+    definitions:
+      - cuckoo pheasant (also called bulbululul)
+    translations:
+      - cuckoo pheasant
+
+  - word: Jiwurru
+    type: noun
+    definitions:
+      - somewhere up high between Romeo and Rossville (place name)
+    translations:
+      - Romeo and Rossville 
+
   - word: jubil
+    type: transitive-verb
+    definitions:
+      - to pinch
+    translations:
+      - to pinch
+
   - word: juburr
+    type: adjective
+    definitions:
+      - experienced, expert, clever at something
+    translations:
+      - experienced
+      - expert
+      - clever
+
   - word: judal
+    type: manner
+    definitions:
+      - tricking, pretending
+    translations:
+      - tricking
+      - pretending
+
   - word: jujabala
+    type: noun
+    definitions:
+      - ironwood tree. The bark is burned to control thunderstorms, as is kangka, kanunjul and nganjirr
+    see:
+      - nganjirr
+    translations:
+      - tree
+      - ironwood tree
+
   - word: juju
+    type: noun
+    definitions:
+      - buttocks, bum
+    translations:
+      - bum
+      - buttocks
+
+  - word: juju-juju dungay
+    type: intransitive-verb
+    definitions:
+      - back up, to sit down
+    translations:
+      - back up
+      - sit down
+    
   - word: juka
+    type: noun
+    definitions:
+      - back of ankle, back of heel
+      - sugar
+    synonyms:
+      - junkan
+    translations:
+      - back of ankle
+      - back of heel
+      - sugar
+
   - word: jukar
+    type: noun
+    definitions:
+      - sand
+    translations:
+      - sand
+
   - word: jukar-warra
+    type: noun
+    definitions:
+      - whirlwind
+    translations:
+      - whirlwind
+
   - word: jukar-jukarbina
+    type: noun
+    definitions:
+      - sand whiting
+    translations:
+      - sand whiting
+      - whiting
+
   - word: jukijuki
+    type: noun
+    definitions:
+      - chicken (english loan word)
+    translations:
+      - chicken
+
   - word: juku
+    type: noun
+    definitions:
+      - tree, wood of any size from tree down to splinter
+    translations:
+      - tree
+      - wood
+      - splinter
 
   - word: Jarba wali-yindu-wali-yindu
     meaning: Jarba wali-yindu-wali-yindu
     maybe: something
+    #  @todo - do something here
 
   - word: babajaka
+    type: noun
+    definitions:
+      - species of bloodwood
+    translations:
+      - bloodwood
 
-  - word: babajaka
   - word: bajar
+    type: noun
+    definitions:
+      - species of white gum
+    translations:
+      - white gum
+
   - word: balmbalka
+    type: noun
+    definitions:
+      - species of tree (english name unknown)
+    translations:
+      - balmbalka
+
   - word: banday
+    type: noun
+    definitions:
+      - species of tree with edible cherry-like fruit
+    translations:
+      - cherry-like tree
+
   - word: baril-baril
+    type: noun
+    definitions:
+      - Moreton Bay fig
+    translations:
+      - Moreton Bag fig
+
   - word: barka
+    type: noun
+    definitions:
+      - Queensland nut
+    translations:
+      - nut 
+
   - word: baway
+    type: noun
+    definitions:
+      - species of tree with edible fruit
+    translations:
+      - tree
+      - edible fruit
+
   - word: bijan
+    type: noun
+    definitions:
+      - species of ti tree
+    translations:
+      - tree
+      - bijan
+
   - word: bikarrakul
+    type: noun
+    definitions:
+      - ti tree (fruit must be cooked)
+    translations:
+      - ti tree
+
   - word: bilar
+    type: noun
+    definitions:
+      - candlenut
+    translations:
+      - candlenut
+
   - word: binanji
+    type: noun
+    definitions:
+      - species of fig (large edible)
+    translations:
+      - fig
+      - large fig
+
   - word: bingkajiri
-  - word: bujaba
+    type: noun
+    definitions:
+      - species of with edible fruit with long finger-like seeds
+    translations:
+      - tree
+      - bingkajiri
+
+  - word: bujabay
+    type: noun
+    definitions:
+      - species with edible fruit which must be leaved (in water)
+    translations:
+      - tree
+      - edible fruit
+      - bujabay
+
   - word: bukunjarra
+    type: noun
+    definitions:
+      - species of tree with edible fruit like soursop but smaller
+    translations:
+      - tree
+      - edible fruit
+
   - word: bulbul
+    type: noun
+    definitions:
+      - species of plum
+    translations:
+      - tree
+      - plum tree
+
   - word: bulngkar
+    type: noun
+    definitions:
+      - lady apple
+    translations:
+      - apple
+      - lady apple
+
   - word: burrin-burrin
+    type: noun
+    definitions:
+      - breadfruit
+    translations:
+      - breadfruit
+
   - word: buyku
+    type: noun
+    definitions:
+      - paperbark
+    translations:
+      - paperbark
+
   - word: buyukal
+    type: noun
+    definitions:
+      - tree (english name unknown)
+    translations:
+      - tree
+      - buyukal
+
   - word: dakumbar
+    type: noun
+    definitions:
+      - watergum (also called Nyungkul)
+    translations:
+      - tree
+      - watergum
+
   - word: dalban
+    type: noun
+    definitions:
+      - species of oak
+    translations:
+      - tree
+      - oak tree
+
   - word: dalkan
+    type: noun
+    definitions:
+      - species which grows along beaches
+    translations:
+      - tree
+      - beach tree
+      - dalkan
+  
+  - word: dari
+    type: noun
+    definitions:
+      - boxwood
+    translations:
+      - boxwood
+
   - word: dilbal
+    type: noun
+    definitions:
+      - species of hickory
+    translations:
+      - tree
+      - hickory tree
+
   - word: dili
+    type: noun
+    definitions:
+      - corkwood pine
+    translations:
+      - tree
+      - corkwood pine 
+
   - word: dulmbil
+    type: noun
+    definitions:
+      - umbrella palm
+    translations:
+      - palm
+      - umbrella palm
+
   - word: durral
+    type: noun
+    definitions:
+      - species with edible fruit
+    translations:
+      - tree
+      - durral 
+
   - word: duwar
+    type: noun
+    definitions:
+      - black palm
+    translations:
+      - palm
+      - black palm
+
   - word: jabarr
+    type: noun
+    definitions:
+      - baldy gum
+    translations:
+      - tree
+      - baldy gum
+
   - word: jajikal
+    type: noun
+    definitions:
+      - pandanus palm
+    translations:
+      - palm
+      - pandanus palm
+
   - word: jalnji
+    type: noun
+    definitions:
+      - nut tree
+    translations:
+      - tree
+      - nut tree 
+
   - word: janbal
-  - word: jarangkal
+    type: noun
+    definitions:
+      - blue quondong tree
+    translations:
+      - tree
+      - quondong
+
+  - word: jarrangkal
+    type: noun
+    definitions:
+      - species of fig
+    translations:
+      - tree
+      - fig
+      
   - word: jilanji
+    type: noun
+    definitions:
+      - species of fig
+    translations:
+      - tree
+      - fig
+
   - word: jilbar
+    type: noun
+    definitions:
+      - corkwood
+    translations:
+      - tree
+      - corkwood
+
   - word: jina-jina
+    type: noun
+    definitions:
+      - watergum (yalanji)
+    translations:
+      - tree
+      - watergum
+
   - word: jinjajalka
+    type: noun
+    definitions:
+      - species of tree
+    translations:
+      - tree
+      - jinjajalka
+
   - word: jinjay
+    type: noun
+    definitions:
+      - nut tree, poisonous fruit
+    translations:
+      - tree
+      - poison nut tree
+
   - word: jirimandi
+    type: noun
+    definitions:
+      - coconut
+    translations:
+      - tree
+      - coconut
+
   - word: jujabala
+    type: noun
+    definitions:
+      - ironwood
+    translations:
+      - tree
+      - ironwood tree
+
   - word: julbal
+    type: noun
+    definitions:
+      - species with edible small green apple
+    translations:
+      - tree
+      - julbal
+
   - word: julbin
+    type: noun
+    definitions:
+      - species of scrub zemia
+    translations:
+      - scrub tree
+      - julbin
+
   - word: jundul
+    type: noun
+    definitions:
+      - wild plum (poisonous without leaching)
+    translations:
+      - tree
+      - wild plum tree
+
   - word: jungka
+    type: noun
+    definitions:
+      - wild cherry (edible fruit)
+    translations:
+      - tree
+      - wild cherry tree
+
   - word: kabal
+    type: noun
+    definitions:
+      - Leichardt tree
+    translations:
+      - tree
+      - Leichardt tree
+
   - word: kajul
+    type: noun
+    definitions:
+      - species of mangrove
+    translations:
+      - mangrove tree
+
   - word: kakaji
+    type: noun
+    definitions:
+      - species of mangrove
+    translations:
+      - mangrove tree
+
   - word: kalbariji
+    type: noun
+    definitions:
+      - finger cherry
+    translations:
+      - tree
+      - finger cherry
+
   - word: kalkuri
-  - word: karanda
+    type: noun
+    definitions:
+      - Malaeuca gum (woolybutt)
+    translations:
+      - tree
+      - malaleuca gum
+
+  - word: karranda
+    type: noun
+    definitions:
+      - species of tree (english name unknown)
+    translations:
+      - tree
+      - karranda
+
   - word: kawarr
+    type: noun
+    definitions:
+      - species of bloodwood
+    translations:
+      - tree
+      - bloodwood 
+
   - word: kawunjil
+    type: noun
+    definitions:
+      - black cherry (edible fruit)
+    translations:
+      - tree
+      - black cherry tree
+
   - word: kayjurr
+    type: noun
+    definitions:
+      - species of white gum
+    translations:
+      - tree
+      - white gum tree
+
   - word: kingal
+    type: noun
+    definitions:
+      - river oak or she oak
+    translations:
+      - tree
+      - oak tree
+      - river oak 
+      - she oak
+
   - word: kuji-kuji
+    type: noun
+    definitions:
+      - species of tree species of bloodwood
+    translations:
+      - tree
+      - bloodwood
+
   - word: kulbar
+    type: noun
+    definitions:
+      - silky maple (yellow maple timber)
+    translations:
+      - tree
+      - silky maple
+
   - word: kumin
+    type: noun
+    definitions:
+      - species of fig (edible)
+    translations:
+      - tree
+      - fig
+
   - word: kunjarri
+    type: noun
+    definitions:
+      - species of palm
+    translations:
+      - palm
+      - kunjarri
+
   - word: kuralbi
+    type: noun
+    definitions:
+      - species of tree (english name unknown)
+    translations:
+      - tree
+      - kuralbi
+
   - word: kuray-kuray
+    type: noun
+    definitions:
+      - milka tree
+    translations:
+      - tree
+      - milka tree
+
   - word: kurrun
+    type: noun
+    definitions:
+      - species of tree (english name unknown)
+    translations:
+      - tree
+      - kurrun
+
   - word: kurruy
+    type: noun
+    definitions:
+      - Burdekin plum
+    translations:
+      - tree
+      - Burdekin plum
+
   - word: kurunkal
+    type: noun
+    definitions:
+      - species of mangrove
+    translations:
+      - tree
+      - mangrove tree
+
   - word: madu
+    type: noun
+    definitions:
+      - sea pine
+    translations:
+      - tree
+      - madu
+
   - word: malurri
+    type: noun
+    definitions:
+      - fern tree
+    translations:
+      - tree
+      - fern tree
+
   - word: marbaji
+    type: noun
+    definitions:
+      - species of stringy bark
+    translations:
+      - tree
+      - stringy bark
+
   - word: marngkil
+    type: noun
+    definitions:
+      - species of ti tree
+    translations:
+      - tree
+      - ti tree
+
   - word: marra
+    type: noun
+    definitions:
+      - zemia nut
+    translations:
+      - tree
+      - zemia nut
+
   - word: marrabal
+    type: noun
+    definitions:
+      - species of ti tree
+    translations:
+      - tree
+      - marrabal
+
   - word: marrakan
+    type: noun
+    definitions:
+      - red cedar tree
+    translations:
+      - tree
+      - red cedar tree
+
   - word: marril
+    type: noun
+    definitions:
+      - species of ti tree
+    translations:
+      - tree
+      - ti tree
+
   - word: milbarkal
+    type: noun
+    definitions:
+      - milbarkal (english name unknown)
+    translations:
+      - tree
+      - milbarkal
+
   - word: mili
+    type: noun
+    definitions:
+      - sting tree
+    translations:
+      - tree
+      - sting tree
+
   - word: mingur
+    type: noun
+    definitions:
+      - oilnut tree
+    translations:
+      - tree
+      - oilnut tree
+
   - word: mirrbangku
+    type: noun
+    definitions:
+      - pencil cedar
+    translations:
+      - tree
+      - pencil cedar
+
   - word: miyil
+    type: noun
+    definitions:
+      - species with poisonous sap
+    translations:
+      - tree
+
   - word: miyilabu
+    type: noun
+    definitions:
+      - species of mangrove
+    translations:
+      - tree
+      - mangrove tree
+
   - word: mujarr
+    type: noun
+    definitions:
+      - species of fig 
+    translations:
+      - tree
+      - fig tree
+
   - word: mukukana
+    type: noun
+    definitions:
+      - species of tree (with edible fruit)
+    translations:
+      - tree
+      - mukukana
+
   - word: mungari
+    type: noun
+    definitions:
+      - kaori pine
+    translations:
+      - tree
+      - mungari
+
   - word: mungka-mungka
+    type: noun
+    definitions:
+      - small tree with thorns on branches
+    translations:
+      - tree
+      - mungka-mungka
+
   - word: mura
+    type: noun
+    definitions:
+      - species of tree (english name unknown)
+    translations:
+      - tree
+      - mura
+
   - word: murrkul
+    type: noun
+    definitions:
+      - species with edible fruit
+    translations:
+      - tree
+      - murrkul
+
   - word: ngadil
+    type: noun
+    definitions:
+      - species of hickory
+    translations:
+      - tree
+      - hickory tree
+
   - word: ngakun
+    type: noun
+    definitions:
+      - flame tree
+    translations:
+      - tree
+      - flame tree
+
   - word: ngalkarran
+    type: noun
+    definitions:
+      - species with edible red seed
+    translations:
+      - tree
+      - red seed
+
   - word: nganjirr
+    type: noun
+    definitions:
+      - grass tree
+    translations:
+      - tree
+      - grass tree
+
   - word: ngurrkul
+    type: noun
+    definitions:
+      - species of tree (with edible fig)
+    translations:
+      - tree
+      - fig tree
+
   - word: nyumbil
+    type: noun
+    definitions:
+      - coolibah tree
+    translations:
+      - tree
+      - coolibah tree
+
   - word: wada
+    type: noun
+    definitions:
+      - species with edible white seed
+    translations:
+      - tree
+      - wada white seed
+
   - word: wanakan
+    type: noun
+    definitions:
+      - species of tree (english name unknown)
+    translations:
+      - tree
+      - wanakan
+
   - word: wanjakan
+    type: noun
+    definitions:
+      - species of ti tree
+    translations:
+      - tree
+      - wanjakan
+
   - word: wankar
+    type: noun
+    definitions:
+      - species of tree (english name unknown)
+    translations:
+      - tree
+      - wankar
+
   - word: warka
-  - word: waruburra
+    type: noun
+    definitions:
+      - messmate
+    translations:
+      - messmate
+
+  - word: wawuburra
+    type: noun
+    definitions:
+      - cottontree
+    translations:
+      - tree
+      - cottontree
+
   - word: wulngkurr
+    type: noun
+    definitions:
+      - species of stringy bark
+    translations:
+      - tree
+      - stringy bark tree
+      - wulngkurr
+
   - word: wuymbariji
-  - word: yangkal
+    type: noun
+    definitions:
+      - scrub tree
+    translations:
+      - scrubb tree
+      - wuymbariji
+
+  - word: yalngkal
+    type: noun
+    definitions:
+      - white wattle
+    translations:
+      - wattle tree
+      - yalngkal
+
   - word: yarun
+    type: noun
+    definitions:
+      - black wattle (yellow flower)
+    translations:
+      - tree
+      - black wattle
+
   - word: yawarr
+    type: noun
+    definitions:
+      - species of palm
+    translations:
+      - palm
+      - yawarr
+
   - word: yinkunji
+    type: noun
+    definitions:
+      - species of fig
+    translations:
+      - tree
+      - fig
+      - yinkunji
+
   - word: yumba
+    type: noun
+    definitions:
+      - species of wattle
+    translations:
+      - tree
+      - yumba
+      - wattle tree
+
   - word: yumu
+    type: noun
+    definitions:
+      - bottle brush
+    translations:
+      - tree
+      - bottle brush
+
   - word: yurrunji
+    type: noun
+    definitions:
+      - "dead finish" tree
+    translations:
+      - tree
+      - yurrunji
+
   - word: jukujuku
+    type: noun
+    definitions:
+      - bronzewing dove. If the jukujuku sings out alone the people know that a stranger is coming or that someone may have died.
+    translations:
+      - portentous
+      - bronzewing dove
+
   - word: julaji
+    type: noun
+    definitions:
+      - freshwater catfish (yalanji)
+    synonyms:
+      - nyungka
+      - kanyaji
+    translations:
+      - cat fish
+
   - word: julay
+    type: noun
+    definitions:
+      - Aboriginal camp location along Daintree River
+    translations: 
+      - Daintree River
+
   - word: julay-warra
+    type: noun
+    definitions:
+      - The Daintree people
+    translations: 
+      - daintree people
+
   - word: julba
+    type: noun
+    definitions:
+      - freshwater minnow
+    translations:
+      - freshwater minnow
+    
   - word: julba-julba
+    type: noun
+    definitions:
+      - lizard from dreamtime
+    translations:
+      - lizard from dreamtime
+
   - word: julbal
+    type: noun
+    definitions:
+      - species of tree and its fruit, a small edible green apple which becomes ripe in the wet season
+    translations:
+      - tree
+      - julbal
+
   - word: julbarr
+    type: adjective
+    definitions:
+      - slippery
+    translations:
+      - slippery
+
   - word: julbarr-warri
+    type: transitive-verb
+    definitions:
+      - to slip (in fast speech, this is contracted to julbarrin)
+    usage:
+      - english: I slipped in the mud
+        translation: Ngayu kambal-kambalba julbarr-warrin
+    translations:
+      - slippery rock
+
   - word: julbi
   - word: julbi-dandi
   - word: julbiji
