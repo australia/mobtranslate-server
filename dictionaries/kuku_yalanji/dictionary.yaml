@@ -7540,227 +7540,1925 @@ words:
       - slippery rock
 
   - word: julbi
+    type: noun
+    definitions:
+      - guts, abdominal contents, lining of abdomen
+    translations:
+      - guts
+      - stomach
+      - abdominal contents
+  
   - word: julbi-dandi
+    type: adjective
+    definitions:
+      - showoff, skiter, stubborn person, one who insists on doing what he wants
+    translations:
+      - showoff
+      - skiter
+      - stubborn person
+
   - word: julbiji
+    type: noun
+    definitions:
+      - diarrhea
+    synonyms:
+      - kidi-wanarri
+    translations:
+      - diarrhea
+
   - word: julbin
+    type: noun
+    definitions:
+      - species of scrub zemia. Edible when ground and leaved with water
+    translations:
+      - scrub
+      - zenia scrub
+
   - word: juljal
+    type: noun
+    definitions:
+      - a grave
+    translations:
+      - grave
+
   - word: julkun
+    type: noun
+    definitions:
+      - a belt of bark and hair wound around during mourning
+    translations:
+      - bark
+
   - word: julkurr
+    type: noun
+    definitions:
+      - where Haachs used to live (place name)
+    translations:
+      - Haachs # - todo
+
   - word: julma
+    type: noun
+    definitions:
+      - massage
+    translations:
+      - massage
+
   - word: julmba
+    type: noun
+    definitions:
+      - sucker fish
+    translations:
+      - sucker fish
+
   - word: julmbanu
+    type: noun
+    definitions:
+      - grey kangaroo, a darker variety than mayarriji
+    translations:
+      - grey kangaroo
+
   - word: julngkal
+    type: noun
+    definitions:
+      - transitive-verb
+    translations:
+      - to rub or paint on
+    usages:
+      - english: I rubbed the medicine on the sore
+        translation: Ngayu medecine julngkan bajinga
+
   - word: julnji
+    type: noun
+    definitions:
+      - tar from a tree used to make spears
+    translations:
+      - tar 
+
   - word: julul
+    type: noun
+    definitions:
+      - kind of oyster, larger than juwarru
+    translations:
+      - oyster
+
   - word: julurril
-  - word: julurriki
+    type: transitive-verb
+    definitions:
+      - to wash something
+    synonyms:
+      - damal
+    translations:
+      - wash something
+
+  - word: julurriji
+    type: intransitive-verb
+    definitions:
+      - to wash oneself
+    synonyms:
+      - janjil
+    translations:
+      - wash oneself
+
   - word: julurr-julurr
+    type: noun
+    definitions:
+      - moomoo birds, night owl, night hawk
+    translations:
+      - moomoo bird
+      - night owl
+      - night hawk
+
   - word: juma
+    type: time
+    definitions:
+      - presently, later on
+    translations:
+      - presently 
+      - later on
+
   - word: juma-juma
+    type: time
+    definitions:
+      - later on
+    translations:
+      - later on
+
   - word: jumar
+    type: noun
+    definitions:
+      - little wallaby
+    translations:
+      - wallaby
+
   - word: jumbay-jumbay
+    type: noun
+    definitions:
+      - mushroom
+    translations:
+      - mushroom
+
   - word: jumbun
+    type: adjective
+    definitions:
+      - greedy
+    translations:
+      - greedy
+    - usages:
+      - english: The baby is greedy for milk
+        translation: Ngawa junbun bibika
+
   - word: jumul-jumul
+    type: noun
+    definitions:
+      - The grass seeds that get stuck in clothes, which come during the wet season
+    translations:
+      - grass seeds
+
   - word: junbirr
+    type: noun
+    definitions:
+      - small lizard. Common in leaves and grass before and durin wet season, with reddish markings on head
+    translations:
+      - small lizard
+
   - word: junda
+    type: noun
+    definitions:
+      - wild plum which is poisonous and must be leached before eating
+    translations:
+      - wild plum
+
   - word: jundi
+    type: noun
+    definitions:
+      - pumice stone, carborundum stone
+    translations:
+      - pumice stone
+      - carborundum stone
+
   - word: jundul
+    type: noun
+    definitions:
+      - species of tree, bid round leaves, smooth bark
+    translations:
+      - tree
+      - jundul
+
   - word: jungarr
+    type: noun
+    definitions:
+      - marsupial native cat
+    translations:
+      - marsupial native cat
+
   - word: jungka
+    type: noun
+    definitions:
+      - wild cherry tree and its fruit
+    translations:
+      - tree
+      - wild cherry
+
   - word: jungkalu
+    type: noun
+    definitions:
+      - billycan
+    translations:
+      - billycan
+
   - word: jungkarril
+    type: transitive-verb
+    definitions:
+      - to roll
+    translations:
+      - roll
+    usage:
+      - english: Danny rolled the stones down the hill
+        translation: Dannyngka kulji jungkarrin bada-bada
+
   - word: jungku
+    type: noun
+    definitions:
+      - end, tip
+    translations:
+      - end
+      - tip
+    usage:
+      - english: Queenie's house is on the end
+        translation: Queeniengka bayan jungkungu
+
   - word: jungu-jungu
+    type: noun
+    definitions:
+      - white ant eggs
+    translations:
+      - white ant eggs
+
   - word: jungur
+    type: noun
+    definitions:
+      - the big hill at the east side of the mouth of the Bloomfield River. Collins Hill (place name)
+    translations:
+      - Collins Hill
+      - jungur
+
   - word: junjun
+    type: noun
+    definitions:
+      - species of wild fruit, ripe in March - May. During the junjun season, the scrub turkey, which normally lives in the high country, will come down to feed on them
+    translations:
+      - wild fruit
+      - junjun
+
   - word: junjuy
+    type: noun
+    definitions:
+      - something, usually of no value
+    translations:
+      - something
+      - nothing
+
+  - word: junjuy-junjuy
+    type: noun
+    definitions:
+      - things
+    translations:
+      - things
+
   - word: junkali
+    type: adjective
+    definitions:
+      - truthful, straight
+    translations:
+      - truthful
+      - straight
+    usages:
+      - english: Nyulu junkali
+        translation: He is truthful
+
   - word: junkan
+    type: noun
+    definitions:
+      - back of heel and ankle
+    synonyms:
+      - juka
+    translations:
+      - back of ankle
+      - back of heel
+
   - word: junkay
+    type: adjective
+    definitions:
+      - correct, straight, right
+    translations:
+      - correct
+      - straight
+      - right
+    usages: 
+      - english: He is going straight/he is going right, honestly, not sinning
+        translation: Nyulu junkayku dungay-dungay
+
   - word: junkurr
+    type: noun
+    definitions:
+      - strength
+    translations:
+      - strength
+
   - word: junkurrji
+    type: noun
+    definitions:
+      - strong
+    translations:
+      - strong
+
   - word: junkurr-murubuku
+    type: modifier
+    definitions:
+      - earnestly, strongly
+    translations:
+      - earnestly
+      - strongly
+    usages:
+      - english: He talked earnestly
+        translation: Nyulu junkurr-murubuku balkan
+
   - word: junkurr-janay
+    type: intransitive-verb
+    definitions:
+      - bristling, ready to fight
+      - stand strongly, overcome
+    translations:
+      - bristling
+      - ready to fight
+      - stand strongly
+      - overcome
+    usages:
+      - english: They want to fight
+        translation: Jana junkurr-janay
+      - english: He overcame (the temptation to) drink
+        translation: Nyulu junkurr-janan kamu-kamuku
+
   - word: junumundal
+    type: transitive-verb
+    definitions:
+      - to fasten, join
+    translations:
+      - fasten
+      - join
+
   - word: junumundajin
+    type: intransitive-verb
+    definitions:
+      - to be joined together
+    synonyms:
+      - kajamar
+    translations:
+      - joined together
+    usages:
+      - english: The bananas are joined together
+        translation: Mayi banana junumundajin
+
   - word: juran
+    type: adjective
+    definitions:
+      - alive
+    translations:
+      - alive
+
   - word: jurbu
+    type: noun
+    definitions:
+      - a woman's dance
+    translations:
+      - dance
+      - woman's dance
+
   - word: jurbuji
+    type: noun
+    definitions:
+      - a dancing woman
+    translations:
+      - a dancing woman
+
   - word: juril
+    type: transitive-verb
+    definitions:
+      - eject
+    translations:
+      - eject
+    usages:
+      - english: lay an egg
+        translation: diburr juril
+      - english: have a baby
+        translation: ngawa juril
+
   - word: juril-juril
+    type: noun
+    definitions:
+      - seashore plover
+    translations:
+      - seashore plover
+
   - word: jurra-jurra
+    type: adjective
+    definitions:
+      - rusty
+    translations:
+      - rusty
+
   - word: jurrbil
+    type: adjective
+    definitions:
+      - reddish color
+    translations:
+      - reddish
+
   - word: jurrbu
+    type: noun
+    definitions:
+      - shoots of plants
+    translations:
+      - shoots
+
   - word: jurril
+    type: noun
+    definitions:
+      - a lie, an untruth
+    translations:
+      - lie
+      - untruth
+
   - word: jurril-bungal
+    type: transitive-verb
+    definitions:
+      - to trick someone by lying by word or action
+    translations:
+      - trick
+      - lie
+
   - word: jurrilmal
+    type: intransitive-verb
+    definitions:
+      - jurrilmal
+    translations:
+      - jurrimal
+
   - word: jurriyan
+    type: noun
+    definitions:
+      - satin bower bird
+    translations:
+      - satin bower bird
+
   - word: jurrkil
-  - word: jurriji
+    type: transitive-verb
+    definitions:
+      - turn something, move something
+    translations:
+      - turn
+      - move
+
+  - word: jurrkiji
+    type: noun
+    definitions:
+      - change direction, turn oneself
+      - repent
+    translations:
+      - change direction
+      - turn oneself
+      - repent
+
   - word: jurrngal
+    type: transitive-verb
+    definitions:
+      - to push down, upset
+    translations:
+      - push down
+      - upset
+
   - word: jurrngaji
+    type: intransitive-verb
+    definitions:
+      - to trip, as to trip over a stone
+    translations:
+      - trip
+      
   - word: jarrngkurr
+    type: noun
+    definitions:
+      - a weapon, instrument
+    translations:
+      - weapon
+      - instrument
+    usages:
+      - english: He hit the man with his weapon
+        translation: Nyulu jurrngkurrduku bama kunin
+
   - word: jurru
+    type: noun
+    definitions:
+      - corner, elbow
+    translations:
+      - corner
+      - elbow
+
   - word: jurrubiji
+    type: noun
+    definitions:
+      - right hand
+    translations:
+      - right hand
+
   - word: jurru-walay
+    type: adjective
+    definitions:
+      - expert, good shooter or hunter
+    translations:
+      - expert
+      - good shooter
+      - good hunter
+
   - word: juru
+    type: directional
+    definitions:
+      - moving along
+    translations:
+      - moving along
+
   - word: juru-bawal
+    type: transitive-verb
+    definitions:
+      - to discontinue following something
+    translations:
+      - discontinue
+      - stop following
+
   - word: juru-kulbal
+    type: transitive-verb
+    definitions:
+      - to lead. Can also be used in the sense of leading astray
+    translations:
+      - lead
+      - lead astray
+    usages:
+      - english: He led his friend wrong
+        translation: Nyulu jawun juru-kulban buyunku
+
   - word: juru-kulbaway
+    type: intransitive-verb
+    definitions:
+      - walk single file
+    translations:
+      - walk single file
+
   - word: juru-manil
+    type: transitive-verb
+    definitions:
+      - catch up with. reach.
+    translations:
+      - catch up with
+      - reach
+
   - word: jurungu
+    type: noun
+    definitions:
+      - the next one behind
+    translations:
+      - next one behind
+
   - word: jurungu janbay-janbaji
+    type: intransitive-verb
+    definitions:
+      - keep up (with him), stuck (with him) in the sense of moving along.
+    translations:
+      - keep up
+      - stuck
+
   - word: juru-warri
+    type: transitive-verb
+    definitions:
+      - to go after something to catch it
+    translations:
+      - go after
+      - catch
+
   - word: juru-kija
+    type: noun 
+    definitions:
+      - coconut grove where Biddle's Mission used to be (across from mill)
+    translations:
+      - coconut grove
+
   - word: jurungu-kija
+    type: noun
+    definitions:
+      - area across the river from Middle Camp (place name)
+    translations:
+      - Middle Camp
+
   - word: jurungu-jurungu
+    type: manner
+    definitions:
+      - repeatedly
+    synonyms:
+      - jururr-jururr
+    translations:
+      - repeatedly
+    usages:
+      - english: I caught fish, one after the other
+        translation: Ngayu kuyu jurungu-jurungu manin
+
   - word: jurungurr
-  - word: jururrr-jururr
+    type: noun
+    definitions:
+      - spoon made in old time
+    translations:
+      - spoon 
+
+  - word: jururr-jururr
+    type: manner
+    definitions:
+      - repeatedly
+    synonyms:
+      - jurungu-jurungu
+      - kajaka
+    translations:
+      - repeatedly
+    usages:
+      - english: The policeman beat him repeatedly
+        translation: Bulimanangka nyungun jururr-jururr kunin 
+
   - word: juwa
+    type: time
+    definitions:
+      - too long a time
+    translations:
+      - too long a time
+    usages:
+      - english: We are ready to go walkabout, you are taking too long a time
+        translation: Nganjin ready jilba dunganka, yundu juwaku bundanday
+
   - word: juwal
+    type: noun
+    definitions:
+      - yam or digging stick
+    translations:
+      - yam
+      - digging stick
+
   - word: juwamalmal
+    type: adjective
+    definitions:
+      - lethargic, as from sickness
+    translations:
+      - lethargic
+      - sick
+
   - word: juwarru
+    type: noun
+    definitions:
+      - mud oyster. It is like a barnacle, only it clings to rock and mangroves. Smaller and flatter that julul.
+    translations:
+      - oyster
+
   - word: juway
+    type: noun
+    definitions:
+      - great grandfather
+      - nephew, niece. If you are a man, your sister's children are your wuway. if you are a woman, your brother's children are you juway
+    translations:
+      - great grandfather
+      - nephew
+      - niece
+
   - word: juwul
+    type: noun
+    definitions:
+      - guts, abdominal contents (nyungkul)
+    translations:
+      - guts
+      - abdominal contents
+
   - word: jiyuy
+    type: conujunction
+    definitions:
+      - however, but.
+    translations:
+      - however
+      - but
+    usages:
+      - english: He said "It's good", but (it was a trick), it isn't good
+        translation: Nyulu yalaman, "Yinya ngulkurr", juyuy, yinya kari ngulkarr. 
+
   - word: kaba
+    type: noun
+    definitions:
+      - rain
+    translations:
+      - rain
+
   - word: kababina
+    type: noun
+    definitions:
+      - fresh water lily
+      - flora and fauna belonging to the rain forest area
+    translations:
+      - fresh water lily
+      - rain forest 
+
   - word: kaba-kada
+    type: noun
+    definitions:
+      - Bailey's Creek. Also kulngku.
+    translations:
+      - Bailey's Creek
+
   - word: kabal
+    type: noun
+    definitions:
+      - Leichardt tree and its fruit. The fruit is edible, it is small and round with small seeds. If you have a sore joint, boil the bark in water, rub the cooled water on the sore joint.
+    translations:
+      - Leichardt tree
+      - fruit tree
+
   - word: kaban
+    type: noun
+    definitions:
+      - paper, book
+    translations:
+      - paper
+      - book
+
   - word: kabari
+    type: noun
+    definitions:
+      - armpit
+    translations:
+      - armpit
+
   - word: kabariji
+    type: noun
+    defintions:
+      - species of cherry
+    translations:
+      - cherry tree
+      - cherry fruit
+
   - word: kabay
+    type: noun
+    definitions:
+      - small ant bed
+    translations:
+      - small ant bed
+
   - word: kabi
+    type: noun
+    definitions:
+      - Tributary Creek flowing into Thompson Creek
+    translations:
+      - Tributary Creek
+
   - word: kabu
-  - word: kabu
+    type: adjective
+    definitions:
+      - rotten, bad or rotten smell.
+    translations:
+      - rotten
+      - bad
+      - rotten smell
+
+  - word: Kabu
+    type: noun
+    definitions:
+      - King's Plains swamp (place name)
+    translations:
+      - King's Plains swamp
+
   - word: kabul
+    type: noun
+    definitions:
+      - rock python
+    translations:
+      - rock python
+
   - word: kabuljaka
+    type: noun
+    definitions:
+      - striped water snake, known as the zebra snake
+    translations:
+      - striped water snake
+
   - word: kadabal
+    type: intransitive-verb
+    definitions:
+      - broken
+      - without money
+    translations:
+      - broken
+      - without money
+    usages:
+      - english: His arm is broken
+        translation: Nyulu dakil kadaban (Straight over from the English idiom)
+      - english: I'm broke
+        translation: Ngayu kadaban
+
   - word: kadan
+    type: noun
+    definitions:
+      - shell of turtle
+    translations:
+      - shell of turtle
+
   - word: kadanji
+    type: noun
+    definitions:
+      - black cockatoo (totem of the Dabu moiety) (Yalanji)
+    synonyms:
+      - Nyungkul
+      - kumurbina # todo - fact check
+    translations:
+      - black cockatoo
+
   - word: kadar
+    type: noun
+    definitions:
+      - plains wallaby
+    translations:
+      - wallaby
+
   - word: kaday
+    type: transitive-verb
+    definitions:
+      - come
+    translations:
+      - come
+
   - word: kadil
+    type: noun
+    definitions:
+      - sharp sound or crashing sound, as of an axe cutting wood, or a tree falling
+    translations:
+      - sharp sound
+      - crashing sound
+
   - word: kadirangkal
+    type: noun
+    definitions:
+      - clay pipe
+    translations:
+      - clay pipe
+
   - word: kaduy
+    type: noun
+    definitions:
+      - snail, the small one around here at night
+    translations:
+      - snail
+
   - word: kajaka
+    type: manner
+    definitions:
+      - repeatedly
+    translations:
+      - repeatedly
+    synonyms:
+      - jururr-jururr
+    usages:
+      - english: He's always eating our food 
+        translation: Nyulu nganjinanga mayi kajaka mabal
+
   - word: kajal
+    type: transitive-verb
+    definitions:
+      - to tie
+    translations:
+      - tie
+
   - word: kajamar
+    type: adjective
+    definitions:
+      - two things in one, as twins joined together, as in the darka nut or kajamarkay which has two nuts in one shell
+    synonyms:
+      - junumundajin
+    translations:
+      - two things in one
+    usages:
+      - english: If a woman eats the joined bananas, she will get two children (twins)
+        translation: Kaki jalbungku kajamar binana nukal, nyulu kangkal jambul manil
+
   - word: kajarrbi
-  - word: kajimara
+    type: noun
+    definitions:
+      - clam shell, the giant clam
+    translations:
+      - clam shell
+      - giant clam
+
+  - word: kajimarra
+    type: noun
+    definitions:
+      - food which is ground up to make flour, i.e.e marra. Rolled in junjun leaves and left in water for several weeks, then ground and roasted
+    translations:
+      - food
+      - flour
+
+
   - word: kajinbur
+    type: noun
+    definitions:
+      - passionfruit (english loan word)
+    translations:
+      - passionfruit
+
   - word: kajul
+    type: noun
+    definitions:
+      - species of mangrove. A lo9ng thin fruit which must be soaked in water to make it edible.
+    translations:
+      - mangrove
+      - mangrove fruit
+
   - word: kaka
+    type: adjective
+    definitions:
+      - sore, achey 
+      - bad tasting food, as sour milk or too strong curry
+      - salt water, ocean water
+    translations:
+      - sore
+      - achey
+      - bad tasting food
+      - salt water
+      - ocean water
+    usages:
+      - english: I'm sore all over
+        translation: Ngayu kakajirr
+      - english: The river is salty, not fresh water
+        translation: Wawubaja kaka yaral kari
+
   - word: kakaji
+    type: noun
+    definitions:
+      - species of mangrove with a short thin fruit which becomes edible by leaching out the poison
+    translations:
+      - mangrove
+      - mangrove fruit
+
   - word: kakan
+    type: noun
+    definitions:
+      - the green upper part of the black palm tree from which the dilly bag is made
+    translations:
+      - mangrove
+      - mangrove fruit
+
   - word: kakawarr
+    type: noun
+    definitions:
+      - large number
+    translations:
+      - large number
+
   - word: kakawarri
+    type: manner
+    definitions:
+      - well, good at something
+    translations:
+      - well
+    usages:
+      - english: He sang well then
+        translation: Nyulu kakawarri singmanda
+
   - word: kaki
+    type: conjunction
+    definitions:
+      - if/when
+    translations:
+      - if
+      - when
+    usages:
+      - english: When/if you go, close the gate
+        translation: Kaki yundu dungay, gate nanda
+
   - word: kaku
+    type: noun
+    definitions:
+      - lawyer cane top
+    translations:
+      - lawyer cane top
+
   - word: kala-balal
+    type: transitive-verb
+    definitions:
+      - try something to see if it will be okay
+    translations:
+      - try something
+    usages:
+      - english: Try out the log (to see if it will hold you)
+        translation: Yundu juku kala-babal
+
   - word: kala-babaji
+    type: transitive-verb
+    definitions:
+      - practise
+    translations:
+      - practise
+
   - word: kala-burra
+    type: adjective
+    definitions:
+      - weak
+    translations:
+      - weak
+
   - word: kala-jalamal
+    type: intransitive-verb
+    definitions:
+      - jump over
+    translations:
+      - jump over
+    usages:
+      - english: He jumped over (the mud) on the rocks
+        translation: Nyulu kuljinga kala-jalaman yinduymbu
+
   - word: kalajarr
+    type: noun
+    definitions:
+      - scrub goanna
+    translations:
+      - scrub goanna
+      
   - word: kala-kalbay
+    type: direction
+    definitions:
+      - far away, very long ways away
+    translations:
+      - far away
+
   - word: kalal
+    type: noun
+    definitions:
+      - vine
+    translations:
+      - vine
+
   - word: kalal-kalal
-  - word: kalal-kalal
+    type: noun
+    definitions:
+      - mass of vines
+    translations:
+      - mass of vines
+
+  - word: Kalal-kalal
+    type: noun
+    definitions:
+      - for the lower end of Kangkaji Harry Dick's place (place name)
+    translations:
+      - Kangkaji Harry Dick's
+
+  - word: kalbal
+    type: noun
+    definitions:
+      - the mixture made from green ant larvae/pupae and eggs eaten for chest sickness and the common cold.
+    translations:
+      - remedy
+      - treatment
+
   - word: kalbali
+    type: adjective
+    definitions:
+      - tall
+    translations:
+      - tall
+
   - word: kalbali
+    type: noun
+    definitions:
+      - tall man
+    translations:
+      - tall man
+
   - word: kalbanbina
+    type: noun
+    definitions:
+      - tea leaves
+    translations:
+      - tea leaves
+
   - word: kalbariji
+    type: noun
+    definitions:
+      - finger cherry 
+    translations:
+      - finger cherry
+    usages:
+      - english: If you eat the finger cherry, you'll get blind when you get to be an old woman
+      - translations: Yundu kalbariji nukal, yundu wulbumanmal, yundu miyil-burramalda
+
   - word: kalbarr
+    type: noun
+    definitions:
+      - dead body
+    translations:
+      - dead body
+      - corpse
+      - cadaver 
+
   - word: kalbarr
+    type: adjective
+    definitions:
+      - together because of mutual interest
+    translations:
+      - together
+      - collaborating
+    usages:
+      - english: They're going together (because they're intereted in each other)
+        translation: Bulu kalbarrku dungay
+
   - word: kalbarr-kajal
+    type: transitive-verb
+    definitions:
+      - hug, embrace
+    translations:
+      - hug
+      - embrace
+
   - word: kalbawurr
+    type: noun
+    definitions:
+      - cypress pine pitch - poisonous
+    translations:
+      - cypress pine pitch
+
   - word: kalbay
+    type: adjective
+    definitions:
+      - long
+    translations:
+      - long
+
   - word: kalbu
+    type: noun
+    definitions:
+      - black crow
+    translations:
+      - black crow
+      - crow
+
   - word: kalburiji
+    type: noun
+    definitions:
+      - species of bee 
+    translations:
+      - bee
+
   - word: kali
+    type: noun
+    definitions:
+      - discharge from the eye
+    translations:
+      - eye discharge
+      - mucus
+
   - word: kalin-kalin
+    type: noun
+    definitions:
+      - kestral hawk, totem of dabu moiety. He taught the people to do the corroboreee. # todo - fact check
+    translations:
+      - kestral hawk
+
   - word: kalirrr
-  - word: kaliway
+    type: noun
+    definitions:
+      - vine with edible cherry
+    translations:
+      - vine
+      - edible cherry
+      
+  - word: Kaliway
+    type: noun
+    definitions:
+      - near Cape Tribulation (place name) (story site, big footprint)
+    translations:
+      - Cape Tribulation
+
   - word: kaljan
+    type: noun
+    definitions:
+      - outrigger canoe
+    translations:
+      - outrigger canoe
+
   - word: kaljil
+    type: transitive-verb
+    definitions:
+      - to vomit
+    translations:
+      - vomit
+
   - word: kalka
-  - word: kalkajaka
+    type: noun
+    definitions:
+      - fishing spear, also generic term for spear
+    translations:
+      - fishing spear
+      - spear
+      
+  - word: Kalkajaka
+    type: noun
+    definitions:
+      - caves near Black mountains, also Black Mountains
+    translations:
+      - Black Mountains
+      
   - word: kalkamal
-  - word: kalkamuu
+    type: noun
+    definitions:
+      - a locust in the mountains which tells when to collect turkey eggs
+      - the time to collect the eggs (event)
+    translations:
+      - locust
+
+
+  - word: kalkamuku
+    type: noun
+    definitions:
+      - green tree snake
+    translations:
+      - green tree snake
+
   - word: kalkandil
-  - word: kalkdandiji
+    type: transitive-verb
+    definitions:
+      - to tighten, to jam something in
+    translations:
+      - tighten
+      - jam something in
+    usages:
+      - english: He jammed his finger in the door
+        translation: Nyulu mara kalkandin doorngu
+
+  - word: kalkandiji
+    type: intransitive-verb
+    definitions:
+      - stuck, welded or glued together. Also the name for sticky plaster.
+      - hang on
+    translations:
+      - stuck
+      - welded
+      - glued together
+      - hang on
+    usages:
+      - english: You hang on to (your) work, don't pull out
+        translation: yundu workmunbu kalkandijika, kari kulbajika
+
   - word: kalkarrumbarr
+    type: noun
+    definitions:
+      - species of lizard 8-10 feet long which plays a part in one of the legends
+    translations:
+      - lizard
+
   - word: kalki
-  - word: kakil
+    type: adjective
+    definitions:
+      - undeveloped, green, unripe
+    translations:
+      - undeveloped
+      - green
+      - unripe
+    synonyms:
+      - kayal
+    usages:
+      - english: The fruit is green, let it get ripe
+        translation: Yinya mayi kalki, balu kulbulmaka
+
+  - word: kalkil
+    type: adjective
+    definitions:
+      - salty water, as in the sea or in a tidal river
+    translations:
+      - salty water
+
+  - word: kalkuri
+    type: noun
+    definitions:
+      - woolly butt, Malaleuca gum
+    translations:
+      - woolly butt
+      - gum tree
+
   - word: kalkurr
+    type: noun
+    definitions:
+      - species of wild yam
+    translations:
+      - wild yam
+      - yam
+
   - word: kalkuy
-  - word: kalmbakay
+    type: noun 
+    definitions:
+      - night owl
+    translations:
+      - night owl
+
+  - word: Kalmbakay
+    type: noun 
+    definitions:
+      - upper reaches of Daintree River
+    translations:
+      - upper Daintree River
+
   - word: kalmbangarr
+    type: noun
+    definitions:
+      - black diver bird
+    translations:
+      - black diver bird
+
   - word: kalnga
+    type: noun
+    definitions:
+      - mothers brother (relationship term)
+      - great grandson (relationship term)
+    translations:
+      - mothers brother
+      - great grandson
+      - uncle
+
   - word: kalngar
+    type: noun
+    definitions:
+      - a person who commits adultery
+      - the trouble that comes to a village or home because of a person, man or woman, who is always committing adultery and so disrupting normal home life
+    translations:
+      - adulterer
+      - cheater
+      - scandal
+      - turmoil
+
   - word: kalngar-baka
+    type: noun
+    definitions:
+      - a person who is continually making trouble because of his or licentiousness 
+    translations:
+      - reprobate
+      - debauchee
+
   - word: kalngkan
+    type: noun
+    definitions:
+      - small mullet
+    translations:
+      - mullet
+      - small mullet
+
   - word: kalngkan-damal
+    type: noun
+    definitions:
+      - upper reaches of Thompson Creek (place name)
+    translations:
+      - upper Thompson Creek
+
   - word: kalu
+    type: noun
+    definitions:
+      - garfish
+    translations:
+      - garfish
+
   - word: kalumba
+    type: noun
+    definitions:
+      - left-handed person
+    translations:
+      - left-handed person
+
   - word: kama
+    type: noun
+    definitions:
+      - vomit
+    translations:
+      - vomit 
+
   - word: kamay
+    type: noun
+    definitions:
+      - yellow March fly
+    translations:
+      - yellow March fly
+
   - word: kamba
+    type: noun
+    definitions:
+      - old woman. Now sometimes called wulbuman, which is an English loan word
+    translations:
+      - old woman
+
   - word: kambal
+    type: noun
+    definitions:
+      - low level, within reach
+    translations:
+      - low level
+    usages:
+      - english: Get the food from the low (branch)
+        translation: Mayi kambalmun mana
+
   - word: kambal-kambal
+    type: noun
+    definitions:
+      - mud
+    translations:
+      - mud
+
   - word: kambanmu
+    type: noun
+    definitions:
+      - cross-cousin (relationship term) (Children of my mother's brother or of my father's sister)
+    translations:
+      - cross-cousin
+
   - word: kambar
+    type: noun
+    definitions:
+      - white clay
+      - wet season
+    translations:
+      - white clay
+      - wet season
+
   - word: kambarr
+    type: noun
+    definitions:
+      - the liquid which drops from a corpse
+    translations:
+      - corpse liquid
+      - cadaveric fluid
+
   - word: kambi
+    type: noun
+    definitions:
+      - flying fox
+      - clothing
+    translations:
+      - flying fox
+      - clothing
+
   - word: kambirkambin
+    type: noun
+    definitions:
+      - uncountable numbers
+    translations:
+      - uncountable numbers
+      - infinity
+
   - word: kami
+    type: noun
+    definitions:
+      - grandfather (relationship term) (father's father)
+      - grandmother (relationship term) (mother's mother)
+    translations:
+      - grandfather
+      - grandmother
+
   - word: kaminjarr
+    type: noun
+    definitions:
+      - grandchild - daughter's child
+    translations:
+      - grandchild
+
   - word: kamu-kamu
+    type: noun
+    definitions:
+      - strong drink, usually beer
+    translations:
+      - strong drink 
+
   - word: kana
+    type: noun
+    definitions:
+      - inside
+    translations:
+      - inside
+    usages:
+      - english: we are sitting inside the house
+        translation: Ngana kananga bayanba bundanday
+
   - word: kana-baykal
+    type: intransitive-verb
+    definitions:
+      - angry
+    translations:
+      - angry
+    usages:
+      - english: I'm angry at you
+        translation: Ngayu yununku kana-baykal
+
   - word: kanbal
-  - word: karban
+    type: noun
+    definitions:
+      - some of, the rest of
+    translations:
+      - some of
+      - the rest of
+
+  - word: kanban
+    type: manner
+    definitions:
+      - mistakenly
+    translations:
+      - mistakenly
+      - humbled
+    usages:
+      - english: I was hit by the mistake by the child
+        translation: Ngaykundu karrkay kanban kunijin
+
   - word: kanbil
-  - word: kanbil
+    type: transitive-verb
+    definitions:
+      - to block, put in the way of
+    translations:
+      - block
+      - put in the way of
+
   - word: kandal
+    type: noun
+    definitions:
+      - maggot
+    translations:
+      - maggot
+
   - word: kandarr
+    type: noun
+    definitions:
+      - belch, burp
+    translations:
+      - belch
+      - burp
+    usages:
+      - english: The child finished eating, then the mother burped him
+        translation: Nyulu karrkaymayi kunban ngamungku kandarrda dakay-manin
+
   - word: kanga-dajil
+    type: transitive-verb
+    definitions:
+      - to take someone's place/job
+    translations:
+      - take someone's place
+
   - word: kangal
-  - word: kangkaji
+    type: transitive-verb
+    definitions:
+      - chase
+    translations:
+      - chase
+    usages:
+      - english: He chased the children from the garden
+        translation: Nyulu kaykay-kaykay kangan gardenmun
+
+  - word: kangka
+    type: noun
+    definitions:
+      - wild grape, used for stomach disorders. Also used for the control of thunder storms, as is nganjirr and jujabala and kanunjul.
+    synonyms:
+      - nganjirr
+    translations:
+      - wild grape
+      - stomach disorders
+
+  - word: Kangkaji
+    type: noun
+    definitions:
+      - First bay south of Bloomfield River along coast
+    translations:
+      - First bay south of Bloomfield River along coast
+
   - word: kangkal
+    type: noun
+    definitions:
+      - one's own child; son, daughter
+    translations:
+      - child
+      - son
+      - daughter
+
   - word: kangku
+    type: noun
+    definitions:
+      - low gap in mountain, mountain pass
+    translations:
+      - valley
+      - mountain pass
+
   - word: kangkul
+    type: noun
+    definitions:
+      - cheek
+    translations:
+      - cheek
+
   - word: kanjal
+    type: noun
+    definitions:
+      - mate, one who is with you so you will not be alone
+    translations:
+      - mate
+      - companion
+
   - word: kanka
+    type: noun
+    definitions:
+      - hole
+    translations:
+      - hole
+
   - word: kankar
+    type: noun
+    definitions:
+      - sound of a clap
+    translations:
+      - clap
+
   - word: kankur
+    type: manner
+    definitions:
+      - right off, right through
+    translations:
+      - right off
+    usages:
+      - english: Nyulu milka bikibiki kankuruku nyandan
+        translation: He cut the pig's ear right off
+
   - word: kanunjul
+    type: noun
+    synonyms:
+      - nganjirr
+    definitions:
+      - resin of grass tree, used to make pitch to seal spear bindings. Also used in the control of thunder storms, as is nganjirr and jujabala and kangka. Kanunjul is also used to smoke the inside of a house after the owner dies.
+    synonyms:
+      - nganjirr
+    translations:
+      - resin of grass tree
+      - pitch
+      - seal spear bindings
+      - smoke the inside of a house after the owner dies
+
   - word: kanya
+    type: noun
+    definitions:
+      - fin
+    translations:
+      - fin
+
   - word: kanyaji
+    type: noun
+    definitions:
+      - freshwater catfish (nyungkul) (yalanji - julaji) Sometimes called walarrji, "with whiskers"
+    translations:
+      - catfish
+
   - word: kanyil
-  - word: karu-kumbu
+    type: noun
+    definitions:
+      - curse song. It is sung by one person against another who has seriously wronged him, i.e. stolen his wife. These songs are greatly feared, and act as a deterrent against wrongdoing.
+    synonyms: 
+      - yilal  
+    translations:
+      - curse song
+    usages:
+      - english: to sing a curse song
+        translation: kanyil badi
+
+  - word: Karu-kumbu
+    type: noun
+    definitions:
+      - headwaters of Granite Creek, the Bloomfield side of Romeo (place name)
+    translations:
+      - headwaters of Granite Creek
+
   - word: karangal
+    type: intransitive-verb
+    definitions:
+      - sneak around to see, reconnoiter
+    translations:
+      - sneak around to see
+    usages:
+      - english: That man sneaked around to see if there was any meat
+        translation: Nyulu bama karangan, nguba minyaji
+
   - word: karangaji
+    type: intransitive-verb
+    definitions:
+      - stalk
+    translations:
+      - stalk
+    usages:
+      - english: The man stalked the wallaby
+        translation: Nyulu dingkar karangajin kadaranda
+
   - word: karangkal
+    type: adjective
+    definitions:
+      - alongside
+    translations:
+      - alongside
+    usages:
+      - english: I sat alongside the road
+        translations: Nyulu karangkalba baralba bundan
+
   - word: kakarr
+    type: noun
+    definitions:
+      - grass
+      - blanket to lie on, not to put over you
+      - also used as year, i.e. kararr jambul "two years"
+    translations:
+      - grass
+      - blanket
+      - year
+
   - word: kari
+    type: negative
+    definitions:
+      - negative, no
+      - negative
+      - conjunction meaning but or however
+      - in discourse, on the paragraph level used to indicate a change of focus
+    translations:
+      - no
+      - but
+      - however
+    usages:
+      - english: I didn't get any meat, the fish didn't bite at all
+        translation: Ngayu minya kari manin, kuyungku kari bajaku baykan
+
   - word: karida
+    type: negative
+    definitions:
+      - not now
+    translations:
+      - not now
+
   - word: kariku
+    type: negative
+    definitions:
+      - not yet
+    translations:
+      - not yet
+
   - word: karikuda
+    type: negative
+    definitions:
+      - definitely not
+    translations:
+      - definitely not
+
   - word: kariyirrku
+    type: negative
+    definitions:
+      - not enough, not quite
+    translations:
+      - not enough
+      - not quite
+
   - word: yamba-kari
+    type: negative
+    definitions:
+      - none
+    translations:
+      - none
+
+  - word: karra
+    type: noun 
+    definitions:
+      - rope, cord, string
+    synonyms:
+      - ngarra 
+    translations:
+      - rope
+      - cord
+      - string
+
+  - word: karrambil
+    type: noun
+    definitions:
+      - king parrot
+    translations:
+      - king parrot
+
+  - word: karrandal
+    type: noun
+    definitions:
+      - species of tree with leaves which are white underneath and when crushed are good for boils
+    translations:
+      - tree
+      - cooking leaves
+
+  - word: karrangkal
+    type: noun
+    definitions:
+      - reef or coral
+    translations:
+      - reef
+      - coral
+
+  - word: karraway
+    type: noun
+    definitions:
+      - edible snail
+    translations:
+      - edible snail
+      - snail
+
   - word: karrbal
+    type: transitive-verb
+    definitions:
+      - to catch, grab, touch, arrest
+    translations: 
+      - catch
+      - grab
+      - touch
+      - arrest
+
   - word: karrirrangkal
-  - word: karrkay
-  - word: karrkay
-  - word: kayjay-kaykay
+    type: noun 
+    definitions:
+      - coral crushed for lime
+    translations:
+      - coral
+      - lime
+    
+  - word: karrkay 
+    type: adjective
+    definitions:
+      - small
+    translations:
+      - small
+
+  - word: karrkay 
+    type: noun
+    definitions:
+      - small one, child, young one
+    translations:
+      - small child
+      - young one
+
+  - word: kaykay-kaykay
+    type: noun
+    definitions:
+      - children
+    translations:
+      - children
+
   - word: karrkil
+    type: noun
+    definitions:
+      - red jumper ant. Some people have gotten sick and comited after being bitten by them.
+    translations:
+      - red jumper ant
+
   - word: karrkurr
+    type: noun
+    definitions:
+      - green frog
+    translations:
+      - green frog
+
   - word: karrmbil
+    type: noun
+    definitions:
+      - blue mountain parakeet
+    translations:
+      - blue mountain parakeet
+
   - word: karrngka
+    type: noun
+    definitions:
+      - a hole in something, as in a board or a dress, or a crack in a house
+    translations:
+      - hole
+      - crack
+
   - word: karruku
+    type: noun
+    definitions:
+      - ghost crab, fiddler crab
+    translations:
+      - ghost crab, fiddler crab
+
   - word: karrul
+    type: noun
+    definitions:
+      - drool
+    translations:
+      - drool
+    usages:
+      - english: He is drooling
+        translation: Nyulu karrul wanarri
+        
   - word: karrulbu
   - word: karrulji
   - word: karul-karul
