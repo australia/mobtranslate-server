@@ -9458,66 +9458,513 @@ words:
     usages:
       - english: He is drooling
         translation: Nyulu karrul wanarri
-        
-  - word: karrulbu
+
+  - word: Karrulbu 
+    type: noun
+    definitions:
+      - Roaring Meg Falls area (story site)
+    translations:
+      - Roaring Meg Falls
+
   - word: karrulji
+    type: noun
+    definitions:
+      - black spotted dart
+    translations:
+      - black spotted dart
+
   - word: karul-karul
-  - word: karulkumba
+    type: noun
+    definitions:
+      - green scum
+      - moss
+    translations:
+      - green scum
+      - moss
+
+  - word: Karulkumba
+    type: noun
+    definitions:
+      - near Watermelon Creek (place name)
+    translations:
+      - Watermelon Creek
+
   - word: karunkurr
+    type: noun
+    definitions:
+      - crested pigeon
+    translations:
+      - crested pigeon
+
   - word: kawa
+    type: noun
+    definitions:
+      - little ants, white or black
+    translations:
+      - little ants
+      - white ants
+      - black ants
+
   - word: kawal
+    type: noun
+    definitions:
+      - a shout, cooee, not far away
+    translations:
+      - cooee
+      - shout
+      - not far away
+
   - word: kawal badi
+    type: intransitive-verb
+    definitions:
+      - howl
+    translations:
+      - howl
+
   - word: kawar
+    type: noun
+    definitions:
+      - honey bread of bees
+    translations:
+      - honey bread
+
   - word: kawarr
-  - word: kaway
+    type: noun
+    definitions:
+      - species of bloodwood tree
+    translations:
+      - bloodwood tree
+
+  - word: Kaway
+    type: noun
+    definitions:
+      - second bay south of the Bloomfield River on the coast
+    translations:
+      - Bloomfield River bay
+
   - word: kawku
+    type: exclamation
+    definitions:
+      - expression of delight on the arrival of a visitor (spoken with rising intonation on the second syllable)
+    translations:
+      - Hello
+      # todo
+
   - word: kawu
+    type: noun
+    definitions:
+      - yam
+    translations:
+      - yam
+
   - word: kawunjil
+    type: noun
+    definitions:
+      - species of tree and its fruit, a small edible black cherry, very sweet. Ripe in wet season.
+    translations:
+      - tree
+      - fruit
+
   - word: kaya
+    type: noun
+    definitions:
+      - dog
+    translations:
+      - dog
+
   - word: kaya-kaya
+    type: noun
+    definitions:
+      - dogs
+    translations:
+      - dogs
+
   - word: kayal
+    type: adjective
+    definitions:
+      - undeveloped, green, unripe
+      - raw
+    translations:
+      - undeveloped
+      - green
+      - unripe
+    synonyms:
+      - syn-kalki
+    usages:
+      - english: Leave that fruit, it's still green
+        translation: Yinya mayi bawa, kayalku
+      - english: They eat raw meat 
+        translation: Jana minya kayalku nukanya
+
   - word: kayamuku
+    type: noun
+    definitions:
+      - felt hat (literally the back of a dog)
+    translations:
+      - felt hat
+
   - word: kayil
+    type: transitive-verb
+    definitions:
+      - to hook with a hook spear
+      - to charm, fascinate 
+    translations:
+      - hook with a hook spear
+      - charm
+      - fascinate
+    usages:
+      - english: People hooked out crabs
+        translation: Bamangka minya kiju kayin
+      - english: The man charmed the girl
+        translation: Dingkarangka yinya maral kayin
+
   - word: kayiji
+    type: intransitive-verb
+    definitions:
+      - getting hooked
+      - charm (idioom)
+    translations:
+      - getting hooked
+      - charm
+    usages:
+      - english: My clothes got hooked on a barbed wire fence
+        translation: Ngayku kambi kayijin barber wirenga
+      - english: The girl was charmed/fascinated by the man
+        translation: Nyulu yinya maral kayijin dingkaranda
+
   - word: kayjurr
+    type: noun
+    definitions:
+      - white gum
+    translations:
+      - white gum
+
   - word: kaykay-kaykay
+    type: noun
+    definitions:
+      - children (contraction of karrkay-karrkay)
+    translations:
+      - children
+
   - word: kidal
+    type: transitive-verb
+    definitions:
+      - sweep, remove, wipe
+      - clean an animal - to remove the insides
+    translations:
+      - sweep
+      - remove
+      - wipe
+      - clean an animal
+    usages:
+      - english: Sweep the dirt
+        translation: bubu kidal
+
   - word: kidi-wanarri
+    type: intransitive-verb
+    definitions:
+      - runny tummy, diarrhea 
+    synonyms:
+      - julbiji
+    translations:
+      - runny tummy
+      - diarrhea
+
   - word: kija
+    type: noun 
+    definitions:
+      - moon
+      - Roaring Meg Falls (site of moon story) 
+    translations:
+      - moon
+      - Roaring Meg Falls
+
   - word: kijar-kijar
+    type: noun
+    definitions:
+      - numb feeling
+      - discoloured skin where skin is a little lighter in colour in places, usually from untreated ringworm
+    translations:
+      - numb feeling
+      - discoloured skin
+    usages:
+      - english: My leg was asleep
+        translation: Ngayu ngarri kijar-kijarjimanijin
+
   - word: kiji-kijiyal
+    type: transitive-verb
+    definitions:
+      - tickle
+    translations:
+      - tickle
+    usages:
+      - english: He is tickling the child
+        translation: Nyulu karrkay kiji-kijiyal
+
   - word: kiju
+    type: noun
+    definitions:
+      - mudcrab
+    translations:
+      - mudcrab
+
   - word: kijukum
+    type: noun
+    definitions:
+      - saltwater catfish
+    translations:
+      - saltwater catfish
+
   - word: kilaja
+    type: noun
+    definitions:
+      - mirror (english loan word from glass)
+    translations:
+      - mirror
+
   - word: kilbal
+    type: transitive-verb
+    definitions:
+      - to lose, spill, waste
+    translations:
+      - lose
+      - spill
+      - waste
+
   - word: kilili
+    type: noun
+    definitions:
+      - windbreak
+    translations:
+      - windbreak
+
   - word: kilki
-  - word: kirrkirr
+    type: adjective
+    definitions:
+      - alert, on guard (for yourself), keep an eye on someone, watch out
+    translations:
+      - alert
+      - on guard
+      - keep an eye on someone
+      - watch out
+    usages:
+      - english: That man is angry at you. Watch out (for him)
+        translation: Nyulu bama yununku kuliji. Yundu kilkiku bunday.
+
+  - word: kilkirr
+    type: noun
+    definitions:
+      - tiger shark
+    translations:
+      - tiger shark
+
   - word: kima
+    type: adjective
+    definitions:
+      - soft
+      - weak, sick
+    translations:
+      - soft
+      - weak
+      - sick
+
   - word: kima-kima
+    type: adjective
+    definitions:
+      - easy crossing of water, water isn't rushing as during a floor
+    translations:
+      - easy crossing of water
+
   - word: kimil
+    type: noun
+    definitions:
+      - stick
+    translations:
+      - stick
+    usages:
+      - english: I killed a snake with a stick
+        translation: Ngayu jarba kunin kimilda
+      # todo - contrast kimil with yulal, flat board. Juku is the generic term for wood
+
   - word: kinbal
+    type: transitive-verb
+    definitions:
+      - motion to get attention
+    translations:
+      - motion to get attention
+    usages:
+      - english: You got his attention to show him
+        translation: Yundu nyungun kinban milbinka
+
   - word: kinga
+    type: noun
+    definitions:
+      - caterpillar
+    translations:
+      - caterpillar
+
   - word: kinga-dungay
+    type: intransitive-verb
+    definitions:
+      - kind of a shocked feeling, get goose pimples, hair stands up
+    translations:
+      - shocked feeling
+      - goose pimples
+      - hair stands up
+
   - word: kinga-dungay-manil
+    tyoe: intransitive-verb
+    definitions:
+      - to sneeer at, mock, make someone feel ashamed
+    translations:
+      - sneer at
+      - mock
+      - make someone feel ashamed
+
   - word: kingal
+    type: noun
+    definitions:
+      - river oak, she oak. Type of pine along beach.
+    translations:
+      - river oak
+      - she oak
+      - pine
+
   - word: kingkin-kingkin
+    type: adjective
+    definitions:
+      - amusing, cute, said of a baby when admiring him
+    translations:
+      - amusing
+      - cute
+
   - word: kinkay
+    type: intranstive-verb
+    definitions:
+      - play (yalanji ) #todo (nyungkul - ngujuri)
+    translations:
+      - play
+
   - word: kira
+    type: noun
+    definitions:
+      - female, used only for baby girls
+    translations:
+      - female
+      - baby girl
+
   - word: kira-kira
+    type: noun
+    definitions:
+      - black ant
+    translations:
+      - black ant
+
   - word: kiray
+    type: adjective 
+    definitions:
+      - slow, quiet 
+    synonyms:
+      - waymbul
+      - yambal 
+    translations:
+      - slow
+      - quiet
+
   - word: kiraynjaku
+    type: manner
+    definitions:
+      - secretly
+    translations:
+      - secretly
+
   - word: kirbaji
+    type: noun
+    definitions:
+      - dugong
+    translations:
+      - dugong
+
   - word: kiril
+    type: transitive-verb
+    definitions:
+      - forbid, block
+    translations:
+      - forbid
+      - block
+
   - word: kiriji
+    type: intransitive-verb
+    definitions:
+      - forbidden
+    translations:
+      - forbidden
+
   - word: kirraji
+    type: intransitive-verb
+    definitions:
+      - work
+    translations:
+      - work
+
   - word: kirrbay
+    type: noun
+    definitions:
+      - ringworm
+    translations:
+      - ringworm
+
   - word: kiru
+    type: noun
+    definitions:
+      - brains
+      - grease, marrow, drippings from animal fat
+    translations:
+      - brains
+      - grease
+      - marrow
+      - drippings from animal fat
+
   - word: kiru-kari
+    type: adjective
+    definitions:
+      - dull, stupid, insane, silly
+    translations:
+      - dull
+      - stupid
+      - insane
+      - silly
+
   - word: kiway
+    type: noun
+    definitions:
+      - cold
+    translations:
+      - cold
+
   - word: kiway-kiway
+    type: adjective
+    definitions:
+      - cold
+    translations:
+      - cold
+
   - word: kuban
+    type: noun
+    definitions:
+      - name for wife
+    synonyms:
+      - manyarr
+    translations:
+      - wife
+    
   - word: kubananji
+    type: noun
+    definitions:
+      - married man
+    translations:
+      - married man
+      
   - word: kubarr
   - word: kubi
   - word: kubidada
