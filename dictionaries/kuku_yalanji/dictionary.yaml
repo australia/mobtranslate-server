@@ -9964,98 +9964,546 @@ words:
       - married man
     translations:
       - married man
-      
+
   - word: kubarr
-  - word: kubi
-  - word: kubidada
+    type: noun
+    definitions:
+      - big black freshwater eelfish
+    translations:
+      - big black freshwater eelfish
+      - eelfish
+
+  - word: kubarru
+    type: noun
+    definitions:
+      - sound of whip
+    translations:
+      - sound of whip
+
+  - word: Kubi
+    type: noun
+    definitions:
+      - below the Roaring Meg Falls (place name)
+    translations:
+      - below the Roaring Meg Falls
+
+  - word: Kubidada
+    type: noun
+    definitions:
+      - below the Roaring Meg Falls (place name)
+    translations:
+      - below the Roaring Meg Falls
+
   - word: kubija
+    type: noun
+    definitions:
+      - garfish, barracuda
+    translations:
+      - garfish
+      - barracuda
+
   - word: kubirr-kubirr
+    type: noun
+    definitions:
+      - black and red seeds which are threaded to make a wankarr (necklace)
+    translations:
+      - black and red seeds
+      - necklace
+
   - word: kubu
+    type: noun
+    definitions:
+      - smoke
+    translations:
+      - smoke
+
   - word: kubu-kubu
+    type: noun
+    definitions:
+      - tadpole
+    translations:
+      - tadpole
+
   - word: kuburrubun
+    type: noun
+    definitions:
+      - crown of head
+    translations:
+      - crown of head
+
   - word: kuda
+    type: question
+    definitions:
+      - question word (nyungkal) (yalanji - yala)
+    translations:
+      - question
+      # todo
+    usages:
+      - english: What about your older brother?
+        translation: Kuda yaba?
+
   - word: kudamundu
+    type: direction
+    definitions:
+      - behind, last
+    translations:
+      - behind
+      - last
+    usages:
+      - english: He is behind the house
+        translation: Nyulu kudamundu bayanba
+
   - word: kudamundu kulbal
+    type: transitive-verb
+    definitions:
+      - drag
+    translations:
+      - drag 
+
   - word: judi
+    type: noun
+    definitions:
+      - barramundi (yalanji) (nyungkul - murrabal)
+    translations:
+      - barramundi
+
   - word: kuja
+    type: noun
+    definitions:
+      - species of small stingless bee, and its honey. The nests are found in the ground.
+    translations:
+      - small stingless bee
+      - honey
+
   - word: kujan
+    type: adjective
+    definitions:
+      - slow (nyungkul only)
+    translations:
+      - slow 
+
   - word: kuji-kuji
+    type: noun
+    definitions:
+      - species of bloodwood tree
+    translations:
+      - bloodwood tree
+
   - word: kujil
+    type: transitive-verb
+    definitions:
+      - keep, hold, wait for.
+    translations:
+      - keep
+      - hold
+      - wait for
+
   - word: miyilda kujil
+    type: transitive-verb
+    definitions:
+      - guard something
+    translations:
+      - guard something
+
   - word: kujiway
+    type: noun
+    definitions:
+      - daughter-in-law
+    translations:
+      - daughter-in-law
+
   - word: kujuway
+    type: noun
+    definitions:
+      - brown and green pigeon
+    translations:
+      - brown and green pigeon
+    
   - word: kuku
+    type: noun
+    definitions:
+      - news
+      - the talk or language of a place
+    translations:
+      - news
+      - language
+
   - word: kuku-baka
+    type: noun
+    definitions:
+      - chatterbox, someone who is continually talking
+    translations:
+      - chatterbox
+      - someone who is continually talking
+
   - word: kukujida
+    type: noun
+    definitions:
+      - said of a child who has just learned to talk. Literally "has talk now" "news mouth"
+    translations:
+      - child who has just learned to talk
+
   - word: kuku jurrkiji baj
+    type: intransitive-verb
+    definitions:
+      - to change your mind
+    translations:
+      - change your mind
+      - revoke #todo
+
   - word: kuku yaral
-  - word: kuku-bidiji
-  - word: kuku-buyunji
-  - word: kuku-jalunji
-  - word: kuku-nyungkul
-  - word: kuku waybul
-  - word: kuku-yalanji
+    type: noun
+    definitions:
+      - straight talk
+    translations:
+      - straight talk
+    usages:
+      - english: You go straighten him out / tell him straight
+      - translation: Yundu kuku yaralku daya nyungundu
+
+  - word: Kuku-Bidiji
+    type: noun
+    definitions:
+      - dialect of the people of the ground around Maytown
+    translations:
+      - Maytown speak
+      - Maytown dialect
+
+  - word: Kuku-Buyunji
+    type: noun
+    definitions:
+      - used by speakers to refer to a dialect not their own
+    translations:
+      - foreign
+      - not their own
+
+  - word: Kuku-Jalunji
+    type: noun
+    definitions:
+      - dialect of the coastal people, which includes the Bloomfield area
+    translations:
+      - coastal speak
+      - coastal dialect
+
+  - word: Kuku-Nyungkul
+    type: noun
+    definitions:
+      - the talk of the people originally around Rossville and Shipton's Flats.
+    translations:
+      - Rossville speak
+      - Rossville dialect
+
+  - word: Kuku Waybul
+    type: noun
+    definitions:
+      - English
+    translations:
+      - English
+
+  - word: Kuku-Yalanji
+    type: noun
+    definitions:
+      - literally "talk of this place", now used to refer to the dialect and people of the China Camp-Daintree area. (also the generic name for all the dialects and people from Cooktown to Mossman)
+    translations:
+      - kuku-yalanji
+      - China Camp-Daintree speak
+      - China Camp-Daintree dialect
+
   - word: kukuni
+    type: noun
+    definitions:
+      - the big spear used for spearing turtle, used as a harpoon
+    translations:
+      - big spear
+      - harpoon
+
   - word: kukur
+    type: noun
+    definitions:
+      - rat
+    translations:
+      - rat
+
   - word: kulal
+    type: noun
+    definitions:
+      - a mother who loses a child through death
+    translations:
+      - bereft
+      - vilomah
+      - orphaned mother
+      - miscarriage 
+
   - word: kulay
+    type: noun
+    definitions:
+      - one who commits adultery
+    translations:
+      - adulterer
+    usages:
+      - english: Don't commit adultery
+        translation: Kari kulaymaka
+
   - word: kulbal
+    type: noun
+    definitions:
+      - brolga
+    translations:
+      - brolga
+
   - word: kulbal
+    type: transitive-verb
+    definitions:
+      - pull, lift
+    translations:
+      - pull
+      - lift
+
   - word: jarra-kulbal
+    type: transitive-verb
+    definitions:
+      - carry
+    translations:
+      - carry
+
   - word: kangkul kulbal
+    type: transitive-verb
+    definitions:
+      - to slap someone's cheek
+    translations:
+      - slap someone's cheek
+      - slap
+
   - word: kulbanmuku
+    type: noun
+    definitions:
+      - axe, originally a stone axe
+    translations:
+      - axe
+
   - word: kulbar
+    type: noun
+    definitions:
+      - white beech, silky maple, yellow maple timbers
+    translations:
+      - white beech
+      - silky maple
+      - yellow maple
+
   - word: kulbawurr
+    type: noun
+    definitions:
+      - the resin gum of the cypress pine which is poisonous. It was used on spears in the old days, the effect lasts about two hours.
+    translations:
+      - resin gum
+      - poisonous
+
   - word: kulbul
+    type: adjective
+    definitions:
+      - ripe 
+    translations:
+      - ripe
+
   - word: kuli
+    type: noun 
+    definitions:
+      - anger
+      - poison
+      - trouble
+    
   - word: kuliji
+    type: noun
+    definitions:
+      - savage, always fighting
+    translations:
+      - savage
+      - always fighting
+
   - word: kuli-baka
+    type: noun
+    definitions:
+      - a person who is always fighting, always angry
+    translations:
+      - aggravated
+
   - word: kuli-kangal
+    type: transitive-verb
+    definitions:
+      - tease, mock, make angry
+    translations:
+      - tease
+      - mock
+      - make angry
+
   - word: kulil
+    type: noun
+    definitions:
+      - jellyfish
+    synonyms:
+      - mili
+      - wuybur
+    translations:
+      - jellyfish
+
   - word: kuljan
+    type: noun
+    definitions:
+      - sound made from drumming water. (This is done by percussion, the half-closed hand striking water.) 
+    translations:
+      - sound made from drumming water
+    usages:
+      - english: I drummed the water
+        translation: Ngayu kuljan dudan bananga
+    
   - word: kulji
+    type: noun
+    definitions:
+      - pebbles, small stones
+      - coins, money. This is going out of use.
+    synonyms:
+      - jangka
+    translations:
+      - pebbles
+      - small stones
+
   - word: kulka
-  - word: kulki
+    type: adjective
+    definitions:
+      - short
+    translations:
+      - short
+
+  - word: Kulki
+    type: noun
+    definitions:
+      - Cape Tribilation (place name)
+    translations:
+      - Cape Tribilation 
+
   - word: kulmba-kulmba
-  - word: kulngku
+    type: noun
+    definitions:
+      - gecko, small house lizard
+    translations:
+      - gecko
+      - small house lizard
+
+  - word: Kulngku
+    type: noun
+    definitions:
+      - Bailey's Creek. Also Kaba-kada
+    translations:
+      - Bailey's Creek
+
   - word: kulngkul
+    type: adjective
+    definitions:
+      - heavy
+      - pregnant
+    translations:
+      - heavy
+      - pregnant
+
   - word: kulngu
-  - word: kulngurbu
+    type: noun
+    definitions:
+      - bandicoot
+    translations:
+      - bandicoot
+
+  - word: Kulngurbu
+    type: noun
+    definitions:
+      - the coconut grove near the mouth of the Creek at Ngamujin Beach (place name)
+    translations:
+      - Ngamujin Beach
+
   - word: kulu
-  - word: kukur
-  - word: kulal
-  - word: kulay
-  - word: kulbal
-  - word: kulbal
-  - word: jarra-kulbal
-  - word: kangkul kulbal
-  - word: kulbanmuku
-  - word: kulbar
-  - word: kulbawurr
-  - word: kulbul
-  - word: kuli
-  - word: kuliji
-  - word: kuli-baka
-  - word: kuli-kangal
-  - word: kulil
-  - word: kuljan
-  - word: kulji
-  - word: kulka
-  - word: kulk
-  - word: kalumba-kaluma
-  - word: kulngkul
-  - word: kulngu
-  - word: kulngurbu
-  - word: kulu
+    type: adjective
+    definitions:
+      - short broken off pipe
+    translations:
+      - short broken off pipe
+
+  - word: kuludu
+    type: noun
+    definitions:
+      - dove, small grey
+    translations:
+      - dove
+      - small grey
+
+  - word: kulun
+    type: adjective
+    definitions:
+      - selfish
+    translations:
+      - selfish
+    synonyms:
+      - jumbun
+    usages:
+      - english: He didn't give any food because of selfishness
+      translation: Nyulu mayi kari dajin, kulundu
+
   - word: kulur
+    type: adjective
+    definitions:
+      - three
+    translations:
+      - three
+
   - word: kulurrin
-  - word: kumarkaji
+    type: noun
+    definitions:
+      - handsaw
+    translations:
+      - handsaw 
+
+  - word: Kumarkaji
+    type: noun
+    definitions:
+      - near China Camp (story of Amazon women)
+    translations:
+      - China Camp
+
   - word: kumbamu
+    type: noun
+    definitions:
+      - trade wind, fair wind
+    translations:
+      - trade wind
+      - fair wind
+    
   - word: kumbir
+    type: adjective
+    definitions:
+      - well after being sick
+    synonyms:
+      - ngulkurrr
+    translations:
+      - well after being sick # todow
+    usages:
+      - english: I'm better now, after being sick
+        translation: Ngayu kumbirman, bambaymun
+
   - word: kumbu
+    type: noun
+    definitions:
+      - urine
+    synonyms:
+      - yiwan
+      - dalngarri
+    translations:
+      - urine
+
   - word: kumin
-  - word: kumu
-  - word: kumul
+    type: noun
+    definitions:
+      - species of fig tree with edible fruit. The fruit looks like an eyeball, it is ripe in August - October.
+    translations:
+      - fig tree
+      
   - word: kumurbina
   - word: kumurr
   - word: kumuy
