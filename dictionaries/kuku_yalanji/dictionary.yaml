@@ -10504,162 +10504,1210 @@ words:
     translations:
       - fig tree
       
+  - word: kamu 
+    type: noun
+    definitions:
+      - mosquito
+    translations:
+      - mosquito
+
+  - word: kumul 
+    type: noun
+    definitions:
+      - species of grass
+    translations:
+      - grass
+
   - word: kumurbina
+    type: noun
+    definitions:
+      - black cockatoo (nyungkul) (yalanji - kadanji)
+    translations:
+      - black cockatoo
+
   - word: kumurr
+    type: noun
+    definitions:
+      - The autumn time of the year when so many flowers are in bloom. 
+    translations:
+      - autumn
+    usages:
+      - english: It's flower time now
+        translation: Nganka kumurrkudabi
+
   - word: kumuy
+    type: noun
+    definitions:
+      - fluorescence under water (salt water), as behind a boat in the water at night
+    translations:
+      - fluorescence under water
+      # todo
+
   - word: kuna
+    type: adjective
+    definitions:
+      - to be joinded
+    translations:
+      - to be joined
+
+    - word: kuna-bungal
+      type: transitive-verb
+      definitions:
+        - to join something to something, i.e. to tie something to something else.
+      translations:
+        - to join something to something
+        #todo
+
+  - word: Kuna
+    type: noun
+    definitions:
+      - Shipton's Flat (place name)
+    translations:
+      - Shipton's Flat
+  
   - word: kunarangkal
-  - word: kunbay
+    type: time
+    definitions:
+      - middle of the night
+    translations:
+      - middle of the night
+
+  - word: kunbayn
+    type: intransitive-verb
+    definitions:
+      - finish
+    translations:
+      - finish
+    usages:
+      - english: Today is break-up day; school's finished now
+        translation: Nyiku break-up day, kunbayn yundu school #todo
+
   - word: kunbay-manil
+    type: transitive-verb
+    definitions:
+      - to finish something
+    translations:
+      - complete
+
   - word: kunbu
+    type: noun
+    definitions:
+      - a big day, celebration, as a dance, race meeting or corraborree
+    translations:
+      - big day
+      - celebration
+      - dance
+      - corraborree
+
   - word: kundur-kundur
+    type: noun
+    definitions:
+      - crescent perch
+    translations:
+      - crescent perch
+
   - word: kundurr
+    type: noun
+    definitions:
+      - death adder
+    translations:
+      - death adder
+
   - word: kungkarr
+    type: direction
+    definitions:
+      - north along the coastl also used to refer to Cooktown
+    translations:
+      - north
+      - Cooktown
+
+  - word: kungkun 
+    type: noun
+    definitions:
+      - brown tree snake
+    translations:
+      - brown tree snake
+      - snake
+
+  - word: kungkurr
+    type: adjective
+    definitions:
+      - pop-eyed, eyes open wide, eyes bulging out.
+    translations:
+      - pop-eyed
+      - eyes open wide
+      - eyes bulging out
+
   - word: kunil
+    type: transitive-verb
+    definitions:
+      - to hit
+      - to kill
+    translations:
+      - hit
+      - kill
+    usages: 
+      - english: He hit the dog with a stick
+        translation: Nyulu kaya jukubu kunin
+      - english: He killed (shot) the pig with a gun
+        translation: Nyulu bikibiki marrkinda kunin
+
   - word: kuniway
+    type: intransitive-verb
+    definitions:
+      - to fight with fists or sticks, hitting each other
+    translations:
+      - fight
+    
   - word: kunja
+    type: noun
+    definitions:
+      - pimples
+    translations:
+      - pimples
+
   - word: kunjal
+    type: transitive-verb
+    definitions:
+      - to call someone
+      - to invite
+    translations:
+      - call someone
+      - invite
+    usages:
+      - english: Mother's calling you 
+        translation: Ngamungku yununin kunjan-kunjal
+      - english: They'll invite you to the wedding
+        translation: Jana yununin kunjal weddingba
+
   - word: kunjarri
+    type: noun  
+    definitions:
+      - species of palm tree. The bark can be used to make containers for cooking. The inside of the upper trunk of small ones is edible.
+    translations:
+      - palm tree
+
   - word: kunji
-  - word: kunji
+    type: noun
+    definitions:
+      - sneeze
+    translations:
+      - sneeze
+
+  - word: kunji-damaji
+    type: intransitive-verb
+    definitions:
+      - to sneeze
+    translations:
+      - sneeze
+
+  - word: kunjin
+    type: noun
+    definitions:
+      - fire
+    translations:
+      - fire
+
   - word: kunjirr
+    type: adjective
+    definitions:
+      - cleansed from a dead person's spirit. To make a person's things unusable again after death, they must be warmed or smoked - passed through smoke or waving smoking bark all around and inside it
+    translations:
+      - purified
+      - cleansed
+
   - word: kunju
+    type: adjective
+    definitions:
+      - lame, cripple
+      - mentally ill
+    synonyms:
+      - barrka-buyun
+    translations:
+      - lame
+      - cripple
+      - mentally ill
+
   - word: kunjuri
+    type: noun
+    definitions:
+      - shield
+    translations:
+      - shield
+
   - word: kunka
+    type: manner
+    definitions:
+      - might be, maybe
+    translations:
+      - might be
+      - maybe
+    usages:
+      - english: People might talk about you
+        translation: Bama kunka balkawanji yununku
+
   - word: kunkun
-  - word: kunkunbuku
+    type: noun 
+    definitions:
+      - periwinkle, flat shellfish with a smooth shell
+    translations:
+      - periwinkle
+      - flat shellfish
+
+  - word: Kunkunbuku
+    type: noun
+    definitions:
+      - mountain and river flowing from mountain. This mountain is where the wild dogs stay. (wild dog legend, Shiption's Flat-Jubilee area)
+    translations:
+      - mountain and river flowing from mountain
+
   - word: kunkun-bungal
+    type: transitive-verb
+    definitions:
+      - stare 
+    translations:
+      - stare
+
   - word: kunukunu
-  - word: kunyurrimba
+    type: adjective
+    definitions:
+      - fat in food or fatty meat
+    see: 
+      - jirrburr
+      - jilu
+    translations:
+      - fat in food
+      - fatty meat
+    usages:
+      - english: That soup is too fatty
+        translation: Yinya milkul kunukunu
+
+  - word: Kunyurrimba
+    type: noun
+    definitions:
+      - a sharp corner in the upper reaches of Daintree River (place name)
+    translations:
+      - sharp corner in the upper reaches of Daintree River
+
   - word: kurajan
+    type: noun
+    definitions:
+      - turtle spear point (yalanji) (nyungkul - biyul)
+    translations:
+      - turtle spear point
+
   - word: kural
+    type: noun
+    definitions:
+      - underwater
+    translations:
+      - underwater
+    usages:
+      - english: He swam under water
+        translation: Nyulu kural warrin
+
   - word: kuralbi
+    type: noun
+    definitions:
+      - species of tree and its fruit - wild peasun. The bark from this tree was used to make rope. Two long strands were twisted together and used for turtle rope. It was very strong.
+    translations:
+      - wild peasun
+      - rope
+
   - word: kuran
+    type: noun
+    definitions:
+      - larva of case moth, edible. Found in green wood. 
+    translations:
+      - larva of case moth
+      - edible
+
   - word: kuraykuray
+    type: noun 
+    definitions:
+      - milk tree 
+    translations:
+      - milk tree
+
   - word: kurburrubun
+    type: noun
+    definitions:
+      - magpie
+    translations:
+      - magpie
+
   - word: kuri
+    type: noun
+    definitions:
+      - small patch of scrub
+    translations:
+      - small patch of scrub
+
   - word: kurkunbay
+    type: noun
+    definitions:
+      - butcherbird, stockwhip bird
+    translations:
+      - butcherbird
+      - stockwhip bird
+
   - word: kurmba
+    type: noun
+    definitions:
+      - a woman who has very recently given birth to a baby
+    translations:
+      - postpartum
+      - postpartum mother
+
   - word: kurmba-kurmba
+    type: noun
+    definitions:
+      - slippery lizard 
+      - the mythological person who was the husband of ngalba-bulal, the two sisters of Mt. Peter Botte. He was the husband of babarr, the older sister, but wanted the younger one.
+    translations:
+      - slippery lizard
+      - mythological person
+
   - word: kurmun
+    type: noun
+    definitions:
+      - sack, bag
+    translations:
+      - sack
+      - bag
+
   - word: kurndal
+    type: intransitive-verb
+    definitions:
+      - sink in mud or water
+    synonyms:
+      - bujil-janjil
+    translations:
+      - sink in mud or water
+      - submerge
+    usages:
+      - english: My legs sank down in the mud, can't pull them up again
+        translation: Ngarri kurndan kambalkambalba. Can't kulbaji baja.
+
   - word: kurrajan
+    type: noun
+    definitions:
+      - a spear point made from wattle and used for turtle spearing. it was put in the fire until it was hard enough to pierce through a turtle shell.
+    translations:
+      - spear point
+      - turtle spearing
+
   - word: kurran
-  - word: kurrajan
+    type: noun
+    definitions:
+      - kind of grub
+    translations:
+      - grub
+
   - word: kurranday
+    type: noun
+    definitions:
+      - seagull
+    translations:
+      - seagull
+
   - word: kurranji
-  - word: kurraybaja
+    type: noun
+    definitions:
+      - cassowary
+    translations:
+      - cassowary
+      
+  - word: Kurraybaja
+    type: noun
+    definitions:
+      - coconut grove across the river from the mill
+    translations:
+      - coconut grove
+
   - word: kurrbal
+    type: noun
+    definitions:
+      - plain turkey (native companion)
+    translations:
+      - plain turkey
+
   - word: kurrbar
+    type: noun
+    definitions:
+      - favorite
+    translations:
+      - favorite 
+    usages:
+      - english: Dick's my favorite hunting partner
+        translation: Dickie ngaykuku kurrbar jilbaka
+
   - word: kurrbar-buyun
-  - word: kurrbi
-  - word: kurrkurrbun
+    type: noun 
+    definitions:
+      - a person having no friends, poor, no one to help
+    translations:
+      - desolate
+      - isolated
+      - forlorn
+      - lonely
+      - marginalized
+
+  - word: Kurrbi
+    type: noun
+    definitions:
+      - cave between Kaway and Kangkaji (story site)
+    translations:
+      - Kaway Cave
+
+  - word: kurrburrbun
+    type: noun 
+    definitions:
+      - top of head 
+    translations:
+      - top of head
+
   - word: kurrburrubun
+    type: noun 
+    definitions:
+      - magpie
+    translations:
+      - magpie
+
   - word: kurrija
+    type: noun
+    definitions:
+      - octopus
+    translations:
+      - octopus
+
   - word: kurri-kurri
+    type: noun
+    definitions:
+      - storm bird
+      - giant mythical bird
+      - very tall person
+    translations:
+      - storm bird
+      - giant mythical bird
+      - very tall person
+
   - word: kurrinkurrin
+    type: noun
+    definitions:
+      - mackeral sky
+    translations:
+      - mackeral sky
+
   - word: kurriyala
+    type: noun
+    definitions:
+      - carpet snake, python
+    translations:
+      - carpet snake
+      - python
+
   - word: kurrkal
-  # 97
+    type: noun
+    definitions:
+      - shortcut
+    translations:
+      - shortcut
+
   - word: kurrkal-warri
+    type: intransitive-verb 
+    definitions:
+      - go by a shortcut 
+    translations:
+      - go by a shortcut
+
   - word: kurrka-juri
+    type: intransitive-verb
+    definitions:
+      - a fight between two men over a woman
+    translations:
+      - fight
+      - pissing contest
+  
   - word: kurrka-wabaji
+    type: intransitive-verb
+    definitions:
+      - to look back, as on the trail
+    translations:
+      - look back
+
   - word: kurrma
+    type: noun
+    definitions:
+      - earth oven
+    translations:
+      - earth oven
+      
   - word: kurrmaja
+    type: noun
+    definitions:
+      - larvae of green ants
+    translations:
+      - larvae of green ants
+
   - word: kurrmbal
+    type: noun
+    definitions:
+      - species of cicada or locusts
+    translations:
+      - cicada
+      - locusts
+
   - word: kurrmil
+    type: noun
+    definitions:
+      - part of something, a part
+    translations:
+      - part of something
+      - a part
+
   - word: kurruba
+    type: noun
+    definitions:
+      - species of freshwater fish
+    translations:
+      - freshwater fish
+
   - word: kurrubijal
+    type: noun
+    definitions:
+      - morning star
+    translations:
+      - morning star
+
   - word: kurru-jindal
+    type: transitive-verb
+    definitions:
+      - complain
+    translations:
+      - complain 
+
   - word: kurru-jindaway
+    type: intransitive-verb
+    definitions:
+      - argue, tongue fight 
+    translations:
+      - argue
+      - tongue fight
+    usages:
+      - english: They're arguing about it
+        translation: Bula kurru-jindaway yinyaynka
+
   - word: kurrujuwa
+    type: noun
+    definitions:
+      - sentry bird which warns of crocodiles along the banks of the river. Totem of both the dabu and walarr
+    translations:
+      - sentry bird
+      - crocodile warning bird
+
   - word: kurru-kurru
+    type: adjective
+    definitions:
+      - crooked, wrong
+    translations:
+      - crooked
+      - wrong
+
   - word: kurrul
+    type: noun
+    definitions:
+      - cicatrice, tribal marks
+      - wrinkles, as on forehead or on a newborn baby's side
+    translations:
+      - cicatrice
+      - tribal marks
+      - wrinkles
+
   - word: kurrun
+    type: noun
+    definitions:
+      - a kind of tree
+    translations:
+      - tree
+
   - word: kurruy
+    type: noun
+    definitions:
+      - Burdekin plum
+    translations:
+      - plum tree
+      - Burdekin plum
+
+  - word: kuru
+    type: noun
+    definitions:
+      - woman's affection/love/lust to a man
+      - grub found in dry grass tree 
+    translations:
+      - affection
+      - love
+      - lust
+      - grub 
+
   - word: kuru-baka
+    type: noun 
+    definitions:
+      - a woman who is always falling in love
+    translations:
+      - always falling in love
+      - emophiliac
+
   - word: karu-bunday
+    type: noun
+    definitions:
+      - a woman who is in love with someone
+    translations:
+      - infatuated
+      - limerence 
+
   - word: kurubarr
+    type: noun 
+    definitions:
+      - species of mangrove with a long round seed
+    translations:
+      - mangrove
+      - long round seed
+
   - word: kurunkal
+    type: noun 
+    definitions:
+      - species of mangrove with a long round seed
+    translations:
+      - mangrove
+      - long round seed
+
   - word: kururrungka
+    type: noun
+    definitions:
+      - bronze wing kookaburra
+    translations:
+      - kookaburra
+
   - word: kuwa
+    type: direction
+    definitions:
+      - north and inland from the coast, north-west
+    translations:
+      - north-west
+
   - word: kuwimbur
+    type: noun
+    definitions:
+      - whistle
+    translations:
+      - whistle
+  
   - word: kuwimbur yirrkay
+    type: intransitive-verb 
+    definitions:
+      - to whistle
+    translations:
+      - whistle
+
   - word: kuwinkan
-  - word: kuwinya
+    type: noun
+    definitions:
+      - ghost/spirit
+    translations:
+      - ghost
+      - spirit
+
+  - word: kuwinyu
+    type: noun
+    definitions:
+      - posterior (not a rude term)
+    synonyms: 
+      - juju
+    translations:
+      - posterior
+
   - word: kuya
+    type: noun 
+    definitions:
+      - fun
+    translations:
+      - fun
+
   - word: kuya-bungal
+    type: transitive-verb 
+    definitions:
+      - make fun of, tease in fun, make a joke 
+    translations:
+      - make fun of
+      - tease in fun
+      - make a joke
+
   - word: kuyaji
+    type: noun
+    definitions:
+      - funny person, thing, or happening, joker
+    translations:
+      - funny person
+      - joker
+
   - word: kuyalin
+    type: noun
+    definitions:
+      - small conical shellfish, used for bait
+    translations:
+      - small conical shellfish
+      - bait
+
   - word: kuyan
+    type: noun
+    definitions:
+      - war spear with quartz head
+    translations:
+      - war spear
+      - quartz head
+
   - word: kuyi
+    type: noun
+    definitions:
+      - nasal mucus
+    translations:
+      - nasal mucus
+
   - word: kuyir
+    type: noun
+    definitions:
+      - bush curlew
+    translations:
+      - curlew
+      - bush curlew
+
   - word: kuyu
+    type: noun
+    definitions:
+      - fish
+    translations:
+      - fish 
+    usages:
+      - english: I'm going fishing
+        translation: Ngayu kuyungu dungay
 
   - word: kuyu wali-yindu-wali-yindu
     meaning: kuyu wali-yindu-wali-yindu
-    maybe: something
+    maybe: something # todo - what are these
 
   - word: baban
+    type: noun
+    definitions:
+      - angelfish
+    translations:
+      - angelfish
+
   - word: badibu
+    type: noun
+    definitions:
+      - spotted eagle ray
+    translations:
+      - spotted eagle ray
+
   - word: balarri
+    type: noun
+    definitions:
+      - queenfish
+    translations:
+      - queenfish
+
   - word: barrbal
+    type: noun
+    definitions:
+      - black bream
+    translations:
+      - black bream
+
   - word: bayil
+    type: noun
+    definitions:
+      - jungle perch
+    translations:
+      - jungle perch
+
   - word: bilaji
+    type: noun
+    definitions:
+      - flat tailed ray
+    translations:
+      - flat tailed ray
+
   - word: bilmbin
+    type: noun
+    definitions:
+      - black tip ray
+    translations:
+      - black tip ray
+
   - word: bububay
+    type: noun
+    definitions:
+      - black tip shark
+    translations:
+      - black tip shark
+
   - word: bunjulu
+    type: noun
+    definitions:
+      - giant herring
+    translations:
+      - giant herring
+
   - word: dalkal
+    type: noun
+    definitions:
+      - freshwater sardine
+    translations:
+      - sardine
+      - freshwater sardine
+
   - word: dalku
+    type: noun
+    definitions:
+      - archerfish (nyungkul)
+    translations:
+      - archerfish
+
   - word: dalmbal
+    type: noun
+    definitions:
+      - flathead
+    translations:
+      - flathead
+
   - word: danbal
+    type: noun
+    definitions:
+      - kingfish
+    translations:
+      - kingfish
+
   - word: dandarrbina
+    type: noun
+    definitions:
+      - yellow freshwater eel
+    translations:
+      - yellow freshwater eel
+
   - word: dawal
+    type: noun
+    definitions:
+      - trevally
+    translations:
+      - trevally
+
   - word: dijarr
+    type: noun
+    definitions:
+      - species of fresh water perch
+    translations:
+      - perch
+      - fresh water perch
+
   - word: jalkay
+    type: noun
+    definitions:
+      - salmon
+    translations:
+      - salmon
+
   - word: janbal
+    type: noun
+    definitions:
+      - blue spotted fantail ray
+    translations:
+      - blue spotted fantail ray
+
   - word: jarbir
+    type: noun
+    definitions:
+      - grunter
+    translations:
+      - grunter
+
   - word: jijirr
+    type: noun
+    definitions:
+      - red bream
+    translations:
+      - red bream
+
   - word: jilngu
+    type: noun
+    definitions:
+      - boney salmon, ox eye herring
+    translations:
+      - boney salmon
+      - ox eye herring
+
   - word: jukar-jukarbina
+    type: noun
+    definitions:
+      - sand whiting
+    translations:
+      - sand whiting
+
   - word: julaji
+    type: noun
+    definitions:
+      - fresh water catfish (yalanji)
+    translations:
+      - catfish
+
   - word: julba
+    type: noun
+    definitions:
+      - fresh water minnow
+    translations:
+      - minnow
+
   - word: julmba
+    type: noun
+    definitions:
+      - sucker fish
+    translations:
+      - sucker fish
+
   - word: kalngkan
+    type: noun
+    definitions:
+      - small mullet
+    translations:
+      - small mullet
+
   - word: kanyaji
+    type: noun
+    definitions:
+      - fresh water catfish (nyungkul)
+    translations:
+      - catfish
+
   - word: karrulji
+    type: noun
+    definitions:
+      - black spotted dart 
+    translations:
+      - black spotted dart
+
   - word: kalu
+    type: noun
+    definitions:
+      - salt water catfish
+    translations:
+      - salt water catfish
+
   - word: kijukum
+    type: noun
+    definitions:
+      - salt water catfish
+    translations:
+      - salt water catfish
+
   - word: kilkirr
+    type: noun
+    definitions:
+      - tiger shark
+    translations:
+      - tiger shark
+      
   - word: kubarr
+    type: noun
+    definitions:
+      - big black fresh water eel
+    translations:
+      - eel
+
   - word: kubija
+    type: noun
+    definitions:
+      - barracuda
+    translations:
+      - barracuda
+
   - word: kudi
+    type: noun
+    definitions:
+      - barramundi
+    translations:
+      - barramundi
+
   - word: kundurr-kundurr
+    type: noun
+    definitions:
+      - crescent perch
+    translations:
+      - crescent perch 
+
   - word: kurrubal
+    type: noun
+    definitions:
+      - fresh water cod
+    translations:
+      - cod
+
   - word: mangkurr-mangkurr
+    type: noun
+    definitions:
+      - species of garfish
+    translations:
+      - species of garfish
+
   - word: mawul
+    type: noun
+    definitions:
+      - small fresh water eel
+    translations:
+      - eel
+
   - word: midir
+    type: noun
+    definitions:
+      - knight fish
+    translations:
+      - knight fish
+
   - word: milkaji
+    type: noun
+    definitions:
+      - blue tailed mullet
+    translations:
+      - mullet
+
   - word: murraja
+    type: noun
+    definitions:
+      - stonefish
+    translations:
+      - stonefish
+
   - word: mujarrka
+    type: noun
+    definitions:
+      - archerfish (yalanji)
+    translations:
+      - archerfish 
+      
   - word: ngalkun
+    type: noun
+    definitions:
+      - mullet
+    translations:
+      - mullet
+
   - word: ngarmu
+    type: noun
+    definitions:
+      - shovelnose ray
+    translations:
+      - shovelnose ray
+
   - word: ngiwa
+    type: noun
+    definitions:
+      - moray eel
+    translations:
+      - moray eel 
+
   - word: walarrji
+    type: noun
+    definitions:
+      - fresh water catfish
+    translations:
+      - catfish
+
   - word: walbul-walbul
+    type: noun
+    definitions:
+      - small spotted sting ray
+    translations:
+      - small spotted sting ray
+
   - word: walkan
+    type: noun
+    definitions:
+      - diamond fish or devil ray
+    translations:
+      - diamond fish 
+      - devil ray
+
   - word: wara
+    type: noun
+    definitions:
+      - rock cod
+    translations:
+      - rock cod 
+
   - word: wuyumbu
+    type: noun
+    definitions:
+      - toad fish
+    translations:
+      - toad fish
+
   - word: yaba
+    type: noun
+    definitions:
+      - species of fresh water eel
+    translations:
+      - eel 
+
   - word: yaburr
+    type: noun
+    definitions:
+      - shark
+    translations:
+      - shark
+
   - word: yalmburrajaka
+    type: noun
+    definitions:
+      - whale
+    translations:
+      - whale
+
   - word: yalnganji
+    type: noun
+    definitions:
+      - manta ray (yalanji)
+    translations:
+      - manta ray 
+
   - word: yawu
+    type: noun
+    definitions:
+      - stingray
+    translations:
+      - stingray
+
   - word: yidi
+    type: noun
+    definitions:
+      - manta ray (nyungkul)
+    translations:
+      - manta ray
+  
   - word: yubuji
+    type: noun 
+    definitions:
+      - sawfish
+    translations:
+      - sawfish
+
   - word: landin
-  # M - 101
+    type: noun
+    definitions:
+      - the Aboriginal camp at Thompson Creek. (english loan word, from landing)
+    translations:
+      - the Aboriginal camp at Thompson Creek
+
   - word: ma
+  
   - word: mabal
   - word: mabarr
   - word: mabarrba
