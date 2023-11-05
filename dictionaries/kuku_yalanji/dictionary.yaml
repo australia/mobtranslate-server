@@ -11707,84 +11707,624 @@ words:
       - the Aboriginal camp at Thompson Creek
 
   - word: ma
-  
+    type: exclamation 
+    definitions:
+      - shows mild surprise, something like English 'oh'
+    translations:
+      - oh
+      
   - word: mabal
+    type: noun
+    definitions:
+      - swallow
+    translations:
+      - swallow
+
   - word: mabarr
-  - word: mabarrba
+    type: noun
+    definitions:
+      - war (aboriginals fighting with spears)
+    translations:
+      - war
+
+  - word: Mabarrba
+    type: noun
+    definitions:
+      - the turn off to Main Camp above the Zig-zag
+    translations:
+      - war spear
+
   - word: mabil
+    type: noun
+    definitions:
+      - swamp
+    translations:
+      - swamp
+
   - word: madja
+    type: noun
+    definitions:
+      - scrub, jungle, rain forest
+    translations:
+      - scrub
+      - jungle
+      - rain forest
+
   - word: madu
+    type: noun
+    definitions:
+      - sea pine
+    translations:
+      - sea pine
+
   - word: maja
+    type: noun
+    definitions:
+      - boss (english loan word, from master)
+    translations:
+      - boss
+
   - word: majamal-majamal
+    type: intransitive-verb
+    definitions:
+      - idiom for bossy
+    translations:
+      - bossy
+    usages:
+      - english: He is too bossy
+        translation: Nyulu majamal-majamal bajaku
+
   - word: majal
+    type: transitive-verb
+    definitions:
+      - to chew
+    translations:
+      - chew
+
   - word: majarr
+    type: noun
+    definitions:
+      - lazy, no good for hunting or working, used to refer to both dogs and people
+    translations:
+      - lazy
+      - no good for hunting or working
+
   - word: maji
+    type: noun
+    definitions:
+      - matches (english loan word)
+    translations:
+      - matches
+
   - word: majin
+    type: adjective
+    definitions:
+      - oily or greasy
+    translations:
+      - oily
+      - greasy
+    usages:
+      - english: Your hair is too oily
+        translation: Yunu mungka majin bajaku
+
   - word: makaji
+    type: noun
+    definitions:
+      - onion plant, edible herb
+    translations:
+      - onion plant
+      - edible herb
+
   - word: makal
+    type: noun
+    definitions:
+      - muscles of calf on leg
+    translations:
+      - calf muscles
+
   - word: makarr
+    type: noun
+    definitions:
+      - fish net
+    translations:
+      - fish net
+
   - word: makarra
+    type: noun
+    definitions:
+      - streaky yellow ochre
+    translations:
+      - streaky yellow ochre
+      - ochre
+
   - word: makirr
+    type: noun
+    definitions:
+      - yellow ochre
+    translations:
+      - yellow ochre
+
   - word: makul-makul
+    type: noun
+    definitions:
+      - tar, or something black as tar or bitumen
+    translations:
+      - tar
+      - bitumen
+
   - word: maku
+    type: directional
+    definitions:
+      - towards
+    translations:
+      - towards
+    usages:
+      - english: The boat was coming toward him
+        translation: Buwun maku nyungundu kankadan
+
   - word: makuku-bawal
+    type: transitive-verb
+    definitions:
+      - change directions so you don't meet someone
+    translations:
+      - avoid
+
   - word: maku-janay
-  - word: make-nyajil
+    type: intransitive-verb
+    definitions:
+      - wait to be met
+    translations:
+      - wait to be met
+
+  - word: maku-nyajil
+    type: transitive-verb
+    definitions:
+      - meet, as on the trail
+    translations:
+      - meet
+
   - word: maku-nyajiway
+    type: intransitive-verb
+    definitions:
+      - meet, as on the trail
+    translations:
+      - meet
+
   - word: maku-warri
+    type: intransitive-verb
+    definitions:
+      - go to meet someone
+    translations:
+      - go to meet someone
+
   - word: maku-wukurril
+    type: transitive-verb
+    definitions:
+      - follow to meet someone
+    translations:
+      - follow to meet someone
+
   - word: maku-yungal
+    type: transitive-verb 
+    definitions:
+      - send to meet someone
+    translations:
+      - send to meet someone
+
   - word: mala
+    type: adjunction
+    definitions:
+      - expert, good at
+    translations:
+      - expert
+
   - word: mala-bayan
+    type: noun
+    definitions:
+      - good carpenter
+    translations:
+      - good carpenter
+
   - word: mala-burri
+    type: noun
+    definitions:
+      - good singer
+    translations:
+      - good singer
+
   - word: mala-kural
+    type: noun
+    definitions:
+      - good diver
+    translations:
+      - good diver
+
   - word: mala-kuyu
+    type: noun
+    definitions:
+      - good fisherman
+    translations:
+      - good fisherman
+
   - word: mala-lorry
+    type: noun
+    definitions:
+      - good driver
+    translations:
+      - good driver
+
   - word: mala-minya
+    type: noun
+    definitions:
+      - good hunter
+    translations:
+      - good hunter
+
   - word: mala-nganyi
+    type: noun
+    definitions:
+      - good at it, (anything), clever
+    translations:
+      - competent 
+      - clever
+
   - word: mala-yarraman
+    type: noun
+    definitions:
+      - good rider
+    translations:
+      - good rider
+
   - word: malabayi
-  - word: malajakuy
+    type: noun
+    definitions:
+      - right side
+    translations:
+      - right side
+
+  - word: Malajakuy
+    type: noun
+    definitions:
+      - the point between Kangkiji and Kaway. Jibul (bat) story is about this cave.
+    translations:
+      - the point between Kangkiji and Kaway
+
   - word: malaji
+    type: adjective
+    definitions:
+      - guilty
+    translations:
+      - guilty
+
   - word: mala bajaku
+    type: adjective
+    definitions:
+      - guilty
+    translations:
+      - guilty
+    usages:
+      - english: He's the one (who are the lollies)
+        translation: Nyulu mala bajaku
+
   - word: mala-yirrkay
+    type: intransitive-verb
+    definitions:
+      - admit, confess, tell the truth
+    translations:
+      - admit
+      - confess
+      - tell the truth
+    synonyms:
+      - milka murruji
+    usages:
+      - english: He was sorry and owned up 
+        translation: Nyuly jiba-badin, mala-yirrkan
+
   - word: malal
+    type: noun
+    definitions:
+      - spider and spider web
+      - life force. That which belongs to the body which is burned at a dead person's burning ceremony
+    translations:
+      - spider
+      - spider web
+      - life force
+
   - word: malar
+    type: noun
+    definitions:
+      - creepy feeling
+    translations:
+      - creepy feeling
+
   - word: malar dungay
+    type: intransitive-verb
+    definitions:
+      - gooseflesh
+    translations:
+      - gooseflesh
+
   - word: malari
+    type: noun
+    definitions:
+      - species of fern
+    translations:
+      - fern
+
   - word: malarmalar
+    type: noun
+    definitions:
+      - hairy or lumpy surface, pimples
+    translations:
+      - hairy
+      - lumpy surface
+      - pimples
+
   - word: malbin
+    type: noun
+    definitions:
+      - leg between knee and thigh
+    translations:
+      - upper leg
+
   - word: mali
+    type: noun
+    definitions:
+      - species of small bat
+    translations:
+      - bat
+      - small bat
+
   - word: malka-malka
+    type: noun
+    definitions:
+      - a bad spirit, which goes through walls and comes around when a person has been killed by a dambunji
+    translations:
+      - bad spirit
+
   - word: malkarri
+    type: noun
+    definitions:
+      - corroboree when someone dies
+    translations:
+      - corroboree
+
   - word: malnkurr
+    type: noun
+    definitions:
+      - headband
+    translations:
+      - headband
+
   - word: malurri
+    type: noun
+    definitions:
+      - fern tree
+    translations:
+      - fern tree
+
   - word: mama
+    type: noun
+    definitions:
+      - mother (english loan word)
+    translations:
+      - mother
+
   - word: mamarra
+    type: noun
+    definitions:
+      - two, joined together but not a pair. This is not used anymore except by old people.
+    translations:
+      - two
+
   - word: mamarramaniji
+    type: intransitive-verb
+    definitions:
+      - married
+    translations:
+      - married
+
   - word: mambarril
+    type: transitive-verb
+    definitions:
+      - force
+      - give over to, turn over to
+      - report something bad, to tell on, to gossip about
+      - allow
+    translations:
+      - force
+      - give over to
+      - turn over to
+      - report something bad
+      - tell on
+    usages: 
+      - english: He forced the child to go to school
+        translation: Nyulu karrkay mambarrin schoolbu dunganka 
+      - english: He turned him over to the police 
+        translation: Nyulu nyungunin bulimananda mambarrin
+      - english: You didn't let me go
+        translations: Yundu nganya kari mambarrin dunganka
+
   - word: mana
+    type: transitive-verb
+    definitions:
+      - the command form of the verb "get"
+    translations:
+      - get
+
   - word: manbir
+    type: noun
+    definitions:
+      - barb of a spear
+    translations:
+      - barb of a spear
+
   - word: manda
+    type: noun
+    definitions:
+      - if you are a woman, younger brother's children. If you are a man, younger sister's children (relationship term)
+    translations:
+      - niece
+      - nephew
+
   - word: mandi
+    type: noun
+    definitions:
+      - moiety or subsection of the tribe
+    translations:
+      - moiety 
+      - section
+
   - word: mandi-mandi
+    type: noun
+    definitions:
+      - honeycomb. When your husband or child dies you put this into your hair
+    translations:
+      - honeycomb
+
   - word: mandurr
+    type: noun
+    definitions:
+      - bait (any kind)
+    translations:
+      - bait
+
   - word: manil
+    type: transitive-verb
+    definitions:
+      - get
+    translations:
+      - get
+
   - word: manjal
+    type: noun
+    definitions:
+      - mountain
+    translations:
+      - mountain
+
   - word: manji
-  - word: mangkalba
+    type: noun
+    definitions:
+      - dandruff
+    translations:
+      - dandruff
+
+  - word: Mangkalba
+    type: noun
+    definitions:
+      - Cedar Bay (place name)
+    translations:
+      - Cedar Bay
+
   - word: mangkurru
+    type: noun
+    definitions:
+      - mangrove (english loan word) 
+    see:
+      - kajul
+      - kakaji
+      - kurunkal
+      - marril
+      - miyilabu
+      - walbu-walbu    
+    translations:
+      - mangrove
+
   - word: mangkurr-mangkurr
+    type: noun
+    definitions:
+      - garfish
+    synonyms: kubija
+    translations:
+      - garfish
+
   - word: manu
+    type: manner
+    definitions:
+      - throat and front of neck
+    translations:
+      - throat
+
   - word: manubu-damal
+    type: transitive-verb
+    definitions:
+      - watch or guard
+    translations:
+      - watch
+      - guard
+    usages:
+      - english: The policeman guarded him
+        translation: Bulimanangka nyungun manubu-daman
+
   - word: manubu-wundil
+    type: transitive-verb
+    definitions:
+      - deceive
+    translations:
+      - deceive
+    usages:
+      - english: The boss deceived him
+        translation: Majangka nyungun manubu-wundin
+
   - word: manu-burray
+    type: adjective
+    definitions:
+      - squeamish, nauseated
+    translations:
+      - squeamish
+      - nauseated
+
   - word: manu-damal
+    type: transitive-verb
+    definitions:
+      - visit
+    translations:
+      - visit
+    usages:
+      - english: I want to visit you
+        translation: Ngayu yunun manu-damanka
+
   - word: manu
+    type: noun
+    definitions:
+      - only, just
+    translations:
+      - only
+      - just
+    usages:
+      - english: You buy only sugar, no lollies
+        translation: Yundu manu sugar buyim-bunga, lolly kari
+
   - word: manubaja
+    type: noun
+    definitions:
+      - truth
+    translations:
+      - truth
+
   - word: manubaja-bungal
+    type: transitive-verb
+    definitions:
+      - believe
+    translatians:
+      - believe
+
   - word: manu-kalkaji
+    type: noun 
+    definitions:
+      - person's spirit
+    translations:
+      - spirit
+
   - word: manun-manun
+    type: adjective
+    definitions:
+      - kind, merciful
+    translations:
+      - kind
+      - merciful
+
   - word: manyarr
   - word: manyarrinyu
   - word: manyi
