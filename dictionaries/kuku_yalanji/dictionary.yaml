@@ -13061,28 +13061,224 @@ words:
       - contented
 
   - word: milka-marri
+    type: adjective
+    definitions:
+      - contented, peaceful
+    translations:
+      - contented
+      - peaceful
+    usages:
+      - english: They have peace about that
+        translations: Jana milka-marri yinyanka
+
   - word: milka-murruji
+    type: adjective
+    defintiions:
+      - ashamed of actions, guilty, to avoid someone after stealing from him, or after not keeping a promise, etc.
+    synonyms:
+      - malaji
+      - murrunkal
+    translations:
+      - ashamed
+      - guilty
+      - avoid
+
   - word: milka ngabal
+    type: transitive-verb
+    definitions: 
+      - sentence, as in court
+      - remind
+    translations: 
+      - sentence
+      - remind
+      - jail time
+      - criminal
+    usages:
+      - english: God will give them judgement
+        translation: Godungku jananin milkangabal 
+      - english: I reminded you yesterday
+        translation: Ngayu yunun yilayku milkangaban
+
   - word: milkanyajiji
+    type: intransitive-verb 
+    defintiions:
+      - disobey, don't list don't do as you're told, do as you want to do
+      - to listen to your own conscience
+    translations:
+      - disobey
+      - to listen
+      - conscience
+
   - word: milka nyajil
+    type: transitive-verb
+    definitions:
+      - remember
+    translations:
+      - remember
+
   - word: milkanga-bungal
+    type: transitive-verb
+    definitions:
+      - remind, also used for explain
+    translations:
+      - remind
+      - explain
+
   - word: milkanga-kaday
+    type: intransitive-verb
+    defintions:
+      - recall, remember
+    translations:
+      - recall
+      - remember
+    
   - word: milka-wulay
-  - word: milka-wulay
+    type: intransitive-verb 
+    definitions:
+      - forget
+      - forgive
+    translations:
+      - forget
+      - forgive
+    usages:
+      - english: I forgot about the dog
+        translation: Ngayu kayanka milka-wulan
+
   - word: milkaji
+    type: noun
+    definitions:
+      - small mullet
+    translations:
+      - mullet
+      - small mullet
+
   - word: milkul
+    type: noun
+    definitions:
+      - soup or stew
+    translations:
+      - soup
+      - stew
+
   - word: milman
+    type: noun
+    definitions:
+      - azure kingfisher
+    translations:
+      - kingfisher
+      - azure kingfisher
+
   - word: milmarr
+    type: noun
+    definitions:
+      - edible lawyer cane
+    translations:
+      - cane
+      - lawyer cane
+
   - word: minday
+    type: adjective
+    definitions:
+      - tame, quiet, brace, not afraid of or shy of, confident.
+    translations:
+      - tame
+      - quiet
+      - brave
+      - not afraid
+      - confident 
+    synonyms:
+      - muna
+    usages:
+      - english: That pig isn't afraid any more, is tame now
+        translation: Nyulu bikibiki yinyilji karida, mindayda
+
   - word: mindil
+    type: noun
+    definitions:
+      - dog flea
+    translations:
+      - dog flea
+       
   - word: mingki-janay
+    type: intransitive-verb
+    definitions: 
+      - squat, crouch. People fighting squat down so you cannot hit them with your spear, or when camping out, crouch down all night because of the rain (can't lie down because it is too wet)
+      # todo - the above i think was meant to be usage not a definition
+    translations: 
+      - squat
+      - crouch
+
   - word: mingu
+    type: noun
+    definitions:
+      - the hook of the woomera that enters the end of the spear
+    translations:
+      - hook
+      - hook of the woomera
+
   - word: mingur
+    type: noun
+    definitions: 
+      - oil nut tree. The fruit is like a small green apple, which when roasted in the fire, turns black. The black is rubbed on the hand and then on the hair to beautify it.
+    translations:
+      - oil nut tree 
+      - tree
+
   - word: mini
+    type: adjective
+    definitions:
+      - correct, as a correct marriage according to tribal laws
+    translations:
+      - correct
+      - legimate
+
   - word: mini-mini
+    type: adjective
+    definitions:
+      - beautiful, nice, pretty
+    translations:
+      - beautiful
+      - nice 
+      - pretty
+
   - word: minjal
+    type: transitive-verb 
+    definitions:
+      - to keep/save food for someone
+    translations:
+      - hoard
+      - stockpile
+
   - word: minji
+    type: noun
+    defintions:
+      - splash, that which comes out at an explosion or flames coming out in a big fire
+    translations:
+      - splash
+      - spatter
+      - spray
+      - debris
+    usages:
+      - english: They went real fast, the boat made a big splash (bow wave) (as it goes along fast)
+        translation: Jana jinbalku dungan, buwunda bana minji-kangan
+      - english: The fire has a lot of flames shooting up
+        translation: Baya minijiji
+
   - word: minjin-damal
+    type: transitive-verb
+    definitions:
+      - tidy up, make neat, straighten out.
+    synonyms:
+      - mala
+      - juburr
+    translations:
+      - tidy up
+      - make neat
+      - straighten out
+    usages:
+      - english: He is a good carpenter (does neat work)
+        translation: Nyulu minjin-damal bayan
+         
   - word: minya
   - word: miral
   - word: mirrba
