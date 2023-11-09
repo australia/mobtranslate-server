@@ -12326,93 +12326,740 @@ words:
       - merciful
 
   - word: manyarr
+    type: noun
+    definitions:
+      - wife
+    translations:
+      - wife
+
   - word: manyarrinyu
-  - word: manyi
+    type: noun 
+    definitions:
+      - couple, husband and wife
+    translations:
+      - couple
+      - husband and wife
+
+  - word: Manyi
+    type: noun 
+    definitions:
+      - where Main Roads camp was, near the summit of the Bloomfield-Helenvale Road (place name)
+    translations:
+      - Bloomfield-Helenvale Road
+    
   - word: mara
+    type: noun
+    definitions:
+      - hand
+    translations:
+      - hand
+
   - word: mara-barin
+    type: adjective
+    definitions:
+      - one who takes things and doesn't put them back
+    translations:
+      - borrower
+      - appropriator 
+      - taker
+
   - word: mara-bawan
+    type: transitive-verb
+    definitions:
+      - to intend to steal something, but someone came so he had to leave it behind and couldn't take it
+    translations:
+      - thwarted
+      - foiled
+
   - word: mara-dajil
+    type: transitive-verb 
+    definitions:
+      - help. From English 'give a hand'
+    translations:
+      - help
+    usages:
+      - english: I'll give you a hand/help you'
+        translation: Ngayu yunundu mara-dajil.
+
   - word: mara-dakal
+    type: intransitive-verb
+    definitions:
+      - have a go (idiom)
+    translations:
+      - have a go
+
   - word: mara-duray
+    type: adjective
+    definitions:
+      - clever with the bands, steal something sneak something
+    translations:
+      - thief
+      - clever with the bands
+      - steal something
+      - sleight-of-hand
+
   - word: mara-jalajala
+    type: adjective
+    definitions:
+      - clumsy
+    translations:
+      - clumsy
+
   - word: mara-kunbay
+    type: intransitive-verb
+    definitions:
+      - rest, stop working
+    translations:
+      - rest
+      - stop working
+    usages:
+      - english: I stop working on Sunday
+        translation: Ngayu Sundaynga mara-kunbay
+
   - word: mara-muna
+    type: adjective
+    definitions:
+      - thief
+    translations:
+      - thief
+
   - word: mara-waban-wabaji
+    type: adjective
+    definitions:
+      - always busy, always working
+    translations:
+      - industrious
+      - hardworking
+      - preoccupied
+      - always busy
+      - always working
+
   - word: mara-warri
+    type: intransitive-verb
+    definitions:
+      - crawl 
+    translations:
+      - crawl
+
   - word: maraji
+    type: intransitive-verb
+    definitions:
+      - swim
+    translations:
+      - swim
+    usages:
+      - english: He was swimming in the water
+        translation: Nyulu bananga maran-marajin
+
   - word: marakal
+    type: noun
+    definitions:
+      - spider shell 
+    translations:
+      - spider shell
+
   - word: maral
+    type: noun
+    definitions:
+      - young girl, unmarried girl
+    translations:
+      - young girl
+      - unmarried girl
+
   - word: maral-maral
+    type: noun
+    definitions:
+      - young girls
+    translations:
+      - young girls
+
   - word: maramba
-  - word: marangaku
+    type: noun
+    definitions:
+      - near Watermelon Creek (place name)
+    translations:
+      - Watermelon Creek
+
+  - word: Marangaku
+    type: noun 
+    definitions:
+      - on Main Camp trail (place name) (story site)
+    translations:
+      - Main Camp trail
+
   - word: mararr
+    type: noun 
+    definitions:
+      - cloth. Originally a sail made of plaited palm leaves.
+    translations:
+      - cloth
+
   - word: marbaji
-  - word: marbaymba
+    type: noun
+    definitions:
+      - stringy bark tree
+    translations:
+      - stringy bark tree
+      - tree
+
+  - word: Marbaymba
+    type: noun
+    definitions:
+      - Rattlesnake point and the ground around there, also the taboo place up Fritz Creek 
+      (story site)
+    translations:
+      - Rattlesnake point
+        - Fritz Creek
+
   - word: mari
+    type: adjective
+    definitions:
+      - Aboriginal. English loan word (from English outback slang) (In modern terms some people may also know as indiginous or first nations) Also could be spelt murray, murry, murri. (Also relevant to far north Queensland, not just the Bloomfield area)
+      # todo
+    translations:
+      - Aboriginal
+      - Indiginous
+      - First Nations
+
   - word: mari doctor
+    type: noun
+    definitions:
+      - Aboriginal doctor
+    translations:
+      - Aboriginal doctor
+
   - word: marku
+    type: noun 
+    definitions:
+      - species of oyster
+    translations:
+      - oyster
+
   - word: marngkil
+    type: noun
+    definitions:
+      - species of ti tree 
+      #todo - what is a ti tree? torres straight island or what
+    translations:
+      - tree
+      - ti tree
+
   - word: marra
+    type: noun
+    definitions:
+      - zemia tree and the zemia nut which is roasted, ground and leaced to make flour
+      - wing
+    synonyms:
+      - nangki 
+    translations:
+      - zemia tree
+      - zemia nut
+      - wing
+
   - word: marra-warri
+    type: intransitive-verb 
+    definitions:
+      - to fly
+    translations:
+      - fly
+
   - word: marra-warril
+    type: intransitive-verb
+    definitions:
+      - to be in a real bad temper, temper tantrum, picking up things and throwing them
+      - to go somewhere (just children, not adults) thoughtlessly, not thinking of the danger
+    translations:
+      - furious
+      - enraged
+      - carefree
+      - heedless wandering
+      - reckless
+    usages:
+      - english: The man was angry and throwing things around
+        translation: Nyulu dingkar kuliji marra-warrin
+      - english: The kids went down river (when a floor was running)
+        translation: Jana kaykay-kaykay bada marra-warrin
+
   - word: marrabal
+    type: noun
+    definitions:
+      - species of ti tree
+    translations:
+      - ti tree
+      - tree
+
   - word: marrakan
+    type: noun 
+    definitions: 
+      - dugout canoe made of red cedar wood 
+    translations:
+      - dugout canoe
+      - red cedar wood
+
   - word: marral
-  - word: marralin
+    type: adjective
+    definitions:
+      - dry
+    translations:
+      - dry
+
+  - word: Marralin
+    type: noun
+    definitions:
+      - Islander
+    translations:
+      - Islander
+
   - word: marrbal
+    type: noun
+    definitions:
+      - sour, bitter taste
+    synonyms:
+      - kaka
+    translations:
+      - sour
+      - bitter taste
+
   - word: marri
+    type: time
+    definitions:
+      - prolonged, long time
+    translations:
+      - long time
+      - prolonged
+
   - word: marriman
+    type: intransitive-verb
+    definitions:
+      - settled
+    translations:
+      - settled
+    usages:
+      - english: He went quickly, he didn't settle down
+        translation: Nyulu jinbalku dungan, kari marriman
+
   - word: marri-marri
+    type: noun
+    definitions:
+      - old people
+    translations:
+      - old people
+
   - word: marril
+    type: noun
+    definitions:
+      - species of mangrove, with apple-like seed only much bigger. The wood is hard and is good for making oars.
+    translations:
+      - mangrove
+      - tree
+
   - word: marrka
+    type: noun
+    definitions:
+      - calm sea
+      - salt pan, where salt water has been
+    translations:
+      - calm sea
+      - salt pan
+
   - word: marrkabina
+    type: noun
+    definitions:
+      - edible oyster
+    translations:
+      - oyster
+
   - word: marrkin
+    type: noun
+    definitions:
+      - gun
+    translations:
+      - gun
+
   - word: marrkin-marrkin
+    type: noun
+    definitions:
+      - nickname for a stockman
+    translations:
+      - stockman
+
   - word: marrku
+    type: noun
+    definitions:
+      - edible wild cherry which has two or three seeds in each fruit. It grows on lows by the beach and has a shiny leaf. (english - native cherry)
+    translations:
+      - native cherry
+      - cherry
+
   - word: marubu
+    type: noun
+    definitions:
+      - species of oyster
+    translations:
+      - oyster
+
   - word: maru-maru
+    type: manner
+    definitions:
+      - with nothing, without any, empty 
+    translations:
+      - with nothing
+      - without any
+      - empty
+    usages:
+      - english: I came with nothing, having nothing
+        translation: Ngayu maru-mary kadan
+
   - word: marun-marun
+    type: adjective
+    definitions:
+      - bright red colour
+    translations:
+      - bright red colour
+      - scarlet
+      - crimson
+
   - word: mawal
+    type: noun
+    definitions:
+      - species of bee
+    translations:
+      - bee
+
   - word: mawar
+    type: noun
+    definitions:
+      - the vine of the lawyer cane. Also user to refer to braces.
+    translations:
+      - vine
+      - lawyer cane
+
   - word: mawu
+    type: noun
+    definitions:
+      - a coarse grass used in the making of dilly bags
+    translations:
+      - grass
+
   - word: mawul
-  - word: marurmbu
+    type: noun 
+    definitions:
+      - small variety of freshwater eel. Only old people were allowed to eat it.
+    translations:
+      - eel
+
+  - word: Marurmbu
+    type: noun 
+    definitions:
+      - Gold Hill (place name)
+    translations:
+      - Gold Hill
+
   - word: maya
+    type: noun
+    definitions:
+      - a species of clinging plant or vine
+    translations:
+      - vine
+      - plant
+
   - word: mayal
+    type: noun
+    definitions:
+      - bottle
+    translations:
+      - bottle
+
   - word: mayarriji
+    type: noun 
+    definitions:
+      - sub-species of grey kangaroo, lighter in colour than the "julmbanu"
+    translations:
+      - kangaroo
+
   - word: mayi
+    type: noun
+    definitions:
+      - vegetable food or fruit
+      - generic term for food, whether vegetable or protein 
+    translations:
+      - vegetable food
+      - fruit
+
   - word: midir
+    type: noun
+    definitions:
+      - knight fish, sometimes known as the port and light fish
+    translations:
+      - knight fish
+      - port and light fish
+
   - word: mijan
+    type: noun
+    definitions:
+      - wart
+    translations:
+      - wart
+
   - word: mijiji
-  - word: mijinan
+    type: noun 
+    definitions:
+      - white woman. English loan from "Missus"
+    translations:
+      - white woman
+      - missus 
+
+  - word: Mijinan
+    type: noun
+    definitions:
+      - where the bridge is over Wallabay Creek (place name)
+    translations:
+      - Wallabay Creek
+
   - word: milbal
+    type: noun
+    definitions:
+      - tear
+    translations:
+      - tear
+
   - word: milbanku
+    type: noun
+    definitions:
+      - pencil cedar. The skin of the seed is edible.
+    translations:
+      - pencil cedar
+
   - word: milbar
+    type: noun
+    definitions:
+      - generic term for shell
+      - nautilus shell
+      - button
+    translations:
+      - shell
+      - nautilus shell
+      - button
+
   - word: milbarakal
-  - word: milbayarr
-  - word: milbija
+    type: noun
+    definitions:
+      - species of tree
+    translations:
+      - species of tree
+
+  - word: Milbayarr
+    type: noun
+    definitions:
+      - woomera
+      - used in mixed company when referring to a man's penis 
+    translations:
+      - woomera 
+      - mans penis
+
+  - word: Milbija
+    type: noun 
+    definitions:
+      - along upper reaches of Daintree, between bubu Jiwulkal and Jangkarra
+    translations:
+      - Daintree 
+
   - word: milbil
+    type: transitive-verb 
+    definitions:
+      - to show or tell something
+      - introduce
+    translations:
+      - reveal
+      - disclose
+      - introduce
+    usages:
+      - english: She showed me some of the yam (wukay)
+        translation: Nyulu ngaykundu mayi wukay milbin
+      - english: Dick introced me to his mother
+        translation: Dickingka nganya milbin ngamundu
+
   - word: mili
+    type: noun
+    definitions:
+      - stinging tree
+      - jellyfish (because they also burn)
+    synonyms: 
+      - wuybur
+      - kulil
+    translations:
+      - stining tree
+      - jellyfish
+
   - word: milka
+    type: noun
+    definitions:
+      - ear. Many idioms are compounded with "milka" as the base
+    translations:
+      - ear
+
   - word: milka-bakal
+    type: transitive-verb 
+    definitions:
+      - remind, tempt, warn
+    translations:
+      - remind
+      - tempt
+      - warn
+
   - word: milka-binalku
+    type: associative
+    definitions:
+      - remember
+    translations:
+      - remember
+
   - word: milkabu baykal
+    type: transitive-verb
+    definitions:
+      - think about 
+    translations:
+      - think about
+
   - word: milkabu dumbarril
+    type: transitive-verb
+    definitions:
+      - think about
+    translations:
+      - think about
+    # todo - make reverse synonyms of the above
+
   - word: milka-bujar
+    type: adjective
+    definitions:
+      - homesick, lonely, sad, worried
+    translations:
+      - homesick
+      - lonely
+      - sad
+      - worried
+
   - word: milkabu manil
+    type: transitive-verb
+    definitions:
+      - remember, recollect
+    translations: 
+      - remember
+      - recollect
+
   - word: milkabu nyajil
+    type: transitive-verb
+    definitions:
+      - hear
+    translations:
+      - hear
+
   - word: milka-burray
+    type: adjective 
+    definitions:
+      - tired of so much noise
+    translations:
+      - exasperated
+      - weary
+    usages:
+      - english: The kids are maing too much noise; I'm tired of it
+        translation: Kaykay-kaykay nurra baka; ngayu milka-burray
+
   - word: milkabu wukurril
+    type: transitive-verb 
+    definitions:
+      - think about
+    translations:
+      - think about
+
   - word: milka-dalkay
+    type: intransitive-verb 
+    definitions:
+      - remember 
+    translations:
+      - remember
+    usages:
+      - english: The dead person remembered about his wife
+        translation: Nyulu yarkin manyarranka milka-dalkan
+
   - word: milka-dalkay-manil
+    type: transitive-verb 
+    definitions:
+      - remind
+    translations:
+      - remind
+    usages:
+      - english: You remind me tomorrow about the monkey
+        translation: Yundu nganya milka-dalkay-mana wunkun moneyka
+
   - word: milka-daray
+    type: intransitive-verb 
+    definitions:
+      - sin, yield to temptation
+    translations:
+      - sin
+      - indulge 
+    usages:
+      - english: The young men sinned and stole food from the shop
+        translation: Jana warruwarru milka-daran milka-daran mayi ngakinka shopmunmun
+      - english: The young man and girl did wrong in the bush
+        translation: Bulu maral and warru milka-daran duduymbu
+
   - word: milka dudu
+    type: adjective
+    definitions:
+      - deaf
+      - stubborn
+    translations:
+      - deaf
+      - stubborn
+
   - word: milka jalkinba wunay
+    type: intransitive-verb
+    definitions:
+      - can't sleep because of something on the mind
+    translations:
+      - insomnia
+      - restlessness
+
   - word: milka-janay
+    type: intransitive-verb
+    definitions:
+      - listen
+      - obey
+    translations:
+      - listen
+      - obey
+
   - word: milkaji
+    type: noun  
+    definitions:
+      - earache
+    translations:
+      - earache
+
   - word: milka kaka
+    type: noun
+    definitions:
+      - sore ear
+    translations:
+      - sore ear
+
   - word: milka kari
+    type: adjective
+    definitions:
+      - can't hear, deaf
+    translations:
+      - deaf
+      - can't hear
+
   - word: milka-manil
+    type: transitive-verb
+    definitions:
+      - contented
+    translations:
+      - contented
+
   - word: milka-marri
   - word: milka-murruji
   - word: milka ngabal
