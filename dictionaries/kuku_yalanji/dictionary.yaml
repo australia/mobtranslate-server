@@ -15951,30 +15951,197 @@ words:
       - english: The spirit was invisible
         translation: Nyulu dubu nguwimal kari
     # page #145 yalnji check point 
-    
+
   - word: nguwimal milbiji
+    type: intransitive-verb
+    definitions:
+      - appear, show oneself
+    translations:
+      - appear
+      - show oneself
+
   - word: nguwimalku kunil
+    type: transitive-verb
+    definitions:
+      - to kill as soon as the thing you kill is seen
+    translations:
+      - ambush
+
   - word: nguwul-nguwul
+    type: adjective
+    definitions:
+    # todo
+
   - word: nguyarr-manil
+    type: transitive-verb
+    definitions:
+      - plan to do, but unable to; to want something but can't get it.
+    translations:
+      - desire
+      - plan to do, but unable to
+      - want something but can't get it
+
   - word: nguyal
+    type: adjective
+    definitions:
+      - sticky (as honey)
+    translations:
+      - sticky  
+
   - word: nyabil
+    type: noun
+    definitions:
+      - tongue
+    translations:
+      - tongue 
+
   - word: nyajil
+    type: transitive-verb
+    definitions:
+      - to perceive, to hear, to see. If you need to specify between seeing and hearing, you can say milkabu nyajil (hear), and miyilda nyajil "see"
+    translations:
+      - to be seen
+      - perceive
+      - to see
+      - to hear 
+
   - word: jibabu nyajil
+    type: transitive-verb 
+    definitions:
+      - to know without seeing or hearing
+    translations:
+      - intuit
+      - deduce 
+      - believe 
+
   - word: kuku nyajil
+    type: transitive-verb
+    definitions:
+      - to know without seeing or hearing
+    translations:
+      - english: The doctor man knows that woman will die
+
   - word: jibabu nyajil
-  - word: kuku nyajil
+    type: transitive-verb 
+    definitions:
+      - to obey 
+    synonyms:
+      - milka-janay 
+    translations:
+      - obey
+
   - word: nyaka
+    type: transitive-verb
+    definitions:
+      - the command form of nyajil
+    translations:
+      - command #todo 
+
   - word: nyamal
+    type: transitive-verb
+    definitions:
+      - to boil
+    translations:
+      - to boil
+
   - word: nyambay
+    type: adjective
+    definitions:
+      - sulky
+    translations:
+      - sulky
+    usages:
+      - english: The child didn't go with them, so is sulky now
+        translation: Nyulu karrkay jananji kari dungan, nyambaymanda
+
   - word: nyamun
+    type: noun
+    definitions:
+      - rubbish, (but not household rubbish) such as dead leaves or stuff washed up on the beach. Also leaf mould from scrub, good for growing things.
+    translations:
+      - rubbish
+
   - word: nyandal
+    type: transitive-verb
+    definitions:
+      - to chop
+    translations:
+      - chop
+    usages:
+      - english: He chopped firewood for me
+        translation: Nyulu baya nyandan ngayku
+
   - word: nyandil
+    type: transitive-verb
+    definitions:
+      - to stop someone, to prevent, to stop a motor
+    translations:
+      - to stop someone
+      - to prevent
+      - to stop a motor
+
   - word: nyangarril
+    type: transitive-verb
+    definitions:
+      - pour
+      - spill
+    translations: 
+      - pour
+      - spill
+    usages:
+      - english: Pour the tea into the pannikin
+        translation: Tea nyangarrika pannikanba 
+      - english: He spilled the sugar on the ground
+        translation: Nyulu sugar nyangarrilba bubungu
+
   - word: nyanangarriji
+    type: intransitive-verb
+    definitions:
+      - spill out
+    translations:
+      - spill out
+    usages:
+      - english: The water is coming out of the tap
+        translation: Bana nyangarriji tapmunmun
+
   - word: nyarray
+    type: adjective
+    definitions:
+      - aged, wrinkled, shrunken. Can refer to people, cloth or food, as an old wrinkled apple.
+    translations:
+      - aged
+      - wrinkled
+      - shrunken
+
   - word: nyarril
+    type: transitive-verb
+    definitions:
+      - step on, tread on, pinch, squash
+    translations:
+      - step on
+      - tread on
+      - pinch
+      - squash
+
   - word: nyarrkali
+    type: noun  
+    definitions:
+      - black kangaroo
+    translations:
+      - kangaroo
+
   - word: nyarrmal
+    type: transitive-verb
+    definitions:
+      - snatch, grab 
+    synonyms: karrbal
+    translations:
+      - snatch
+      - grab
+    usages:
+      - english: Snatch it quickly from his hand
+        translation: Maramun jinbaldaku nyarma 
+        
   - word: nyidu
   - word: nyiku
   - word: nyiku baja
