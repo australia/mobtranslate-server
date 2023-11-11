@@ -14452,10 +14452,11 @@ words:
       - drink
 
   - word: nulngkun
-    type: noun 
+    type: adjective 
     definitions:
-      - big breasts
+      - busty
     translations:
+      - busty
       - big breasts
     usages:
       - english: That girl has big breasts
@@ -14686,151 +14687,1271 @@ words:
 
   - word: Ngalkunbu
     type: noun 
-    
+    definitions:
+      - near Wyalla Plains
+    translations:
+      - Wyalla Plains
+
   - word: ngalmnbu
-  - word: ngalmbungu
+    type: noun 
+    definitions:
+      - jumper ant
+    translations:
+      - jumper ant
+
+  - word: Ngalmbungu
+    type: noun 
+    definitions:
+      - below Roaring Meg Falls (place name)
+    translations:
+      - Roaring Meg Falls
+
   - word: ngalngal
+    type: noun 
+    definitions:
+      - sand crab 
+    translations:
+      - sand crab
+
   - word: ngalu-ngalu
+    type: adjective 
+    definitions:
+      - refreshed, as after a swim. Can also mean healthy, lively, happy, glad, mentally alert
+    translations:
+      - refreshed
+      - healthy
+      - lively
+      - happy
+      - glad
+      - mentally alert
+
   - word: ngaluri
+    type: noun 
+    definitions:
+      - flames
+    translations:
+      - flames
+    usages:
+      - english: The flames leap up from the fire
+        translation: Ngaluri dakal bayamun
+
   - word: ngamar
+    type: noun 
+    definitions:
+      - cliff, steep place
+    translations:
+      - cliff
+      - steep place
+
   - word: ngamba
+    type: adjective
+    definitions: 
+      - not seeing or noticing or recognising
+      - absence 
+    translations:
+      - not seeing
+      - not noticing
+      - not recognising
+      - absence
+    usages:
+      - english: He's sitting not noticing
+        translation: Nyulu ngambaku bu danday
+      - english: They went into his house in his absence 
+        translation: Jana nyunguwunbu bayanba walan nyungungunbu ngambanga
+
   - word: ngambuy
+    type: noun 
+    definitions:
+      - to strong a taste, i.e. too sweet 
+      - grog, liquor 
+    translations:
+      - strong taste
+      - grog
+      - liquor
+
   - word: ngami-ngami
+    type: adjective 
+    definitions:  
+      - separate 
+    translations:
+      - separate 
+
   - word: ngami-ngami-bungal
+    type: transitive-verb 
+    definitions:
+      - to separate
+    translations:
+      - to separate 
+
   - word: ngamu
+    type: noun 
+    definitions:  
+      - Mother, mother's sisters, great grand-daughter (relationship term
+      - below Meg Falls (place name) 
+    translations:
+      - Mother
+      - mother's sisters
+      - great grand-daughter
+      - Meg Falls
+
   - word: ngamu-kaja
+    type: noun 
+    definitions:
+      - the main part in things that go naturally together, as the rifle and bullets, or the tape player in cassette player and tapes
+    translations:
+      - complement
+      - complementary
+
   - word: ngamu-baka
+    type: noun
+    definitions:
+      - sissy, mama's baby
+    translations:
+      - sissy
+      - mama's baby
+
   - word: ngamu-manda
-  - word: ngamujin
+    type: noun 
+    definitions:
+      - mother and daughter
+    translations:
+      - mother and daughter
+
+  - word: Ngamujin
+    type: noun 
+    definitions:
+      - Emogin Beach
+    translations:
+      - Emogin Beach
+
   - word: ngamu-murramu
+    type: noun
+    definitions:
+      - dingo
+    translations:
+      - dingo
+
   - word: ngana
+    type: pr
+    definitions:
+      - we plural inclusive 
+    translations:
+      - we plural inclusive 
+
   - word: ngandal
+    type: noun 
+    definitions:
+      - mouth
+    translations:
+      - mouth
+
   - word: ngandal-barin
+    type: adjective
+    definitions:
+      - nuisance, always telling someone to do something 
+    translations:
+      - nuisance
+      - demanding
+
   - word: ngandal milbil
+    type: transitive-verb 
+    definitions:
+      - carry a rumour
+    translations:
+      - circulate 
+      - carry a rumour
+      - gossip
+
   - word: nganday
+    type: adjective
+    definitions:
+      - in one place 
+    translations:
+      - stationary
+      - static
+    usages: 
+      - english: He's sitting quietly, (doesn't visit anyone or walk around)
+        translation: Nyulu ngandayku bundanday
+      
   - word: nganga
+    type: manner 
+    definitions:
+      - only, for just a little bit, just that
+    translations:
+      - only
+      - just a little bit
+      - just that
+    usages:
+      - english: I came for just a little bit, have to get back to cook
+        translation: Ngayu nganga kadan. Ngayu dungay baja mayika wayjul
+
   - word: nganganjirrka
+    type: manner 
+    definitions:
+      - just in case 
+    translations:
+      - just in case
+    usages:
+      - english: Bring (your) gun, in case a pig comes
+        translation: Marrkin wundi, nganganjirrka bikibiki kadanyamunku
+
   - word: nganganjurrbu
+    type: adjective
+    definitions:
+      - disappointed
+    translations:
+      - disappointed
+
   - word: ngangkal
+    type: transitive-verb
+    definitions:
+      - ignorant of something
+    syonyms:
+      - binal kari
+    translations:
+      - ignorant
+    usages:
+      - english: The stranger doesn't know the road
+        translation: Nyulu ngarrbal ngangkal-ngangkal baralka
+
   - word: ngangkal
+    type: transitive-verb
+    definitions:
+      - to be surprised or unexpected
+    translations:
+      - surprised
+      - unexpected
+    usages:
+      - english: I found him here without expecting him
+        translation: Ngayu nyungun ngangkan yaluy
+
   - word: ngangkay
+    type: intransitive-verb
+    definitions:
+      - surprise
+    translations:
+      - surprise
+    usages:
+      - english: You will soon be surprised when I show you something
+        translation: Yundu juma ngangkay, ngayu yunundu junjuy milbil
+
   - word: ngangkin
+    type: noun 
+    definitions:
+      - echidna, porcupine
+    translations:
+      - echidna
+      - porcupine
+
   - word: ngangkun
+    type: noun
+    definitions:
+      - hiccups, hiccoughs
+    translations:
+      - hiccups
+      - hiccoughs
+
   - word: ngangkurr
+    type: noun 
+    definitions:
+      - bark, as of a dog
+      - sound of a dog barking
+    translations:
+      - bark
+      - sound of a dog barking
+
   - word: nganja
+    type: noun 
+    definitions:
+      - taste
+      - voice of one's spirit left behind
+    translations:
+      - taste
+      - echo
+      - legacy
+      - imprint
+
   - word: nganja-burra
+    type: noun
+    definitions:
+      - bad taste
+    translations:
+      - bad taste
+      - distasteful 
+
   - word: nganjamu
+    type: noun 
+    definitions:
+      - worm 
+    translations:
+      - worm 
+
   - word: nganjan
+    type: noun 
+    definitions:
+      - father, father's brother (relationship term)
+    translations:
+      - father
+      - father's brother
+
   - word: nganjan-manda
+    type: noun 
+    definitions:
+      - father and son
+    translations:
+      - father and son
+
   - word: nganjar
+    type: manner
+    definitions:
+      - secret purpose, pretence
+    translations:
+      - secret purpose
+      - pretence
+    usages:
+      - english: The child come to have some icecream (he didn't ask for it, just stayed to see if he would get some)
+        translation: Nyulu karrkay nganjar kadan ice cream nukanka
+
   - word: nganjar-nganjar
+    type: manner
+    definitions:
+      - hinting to find out something, not asking straight out
+    translations:
+      - hinting
+      - not asking straight out
+    usages:
+      - english: He came to find out where they got the grog from (didn't ask, just hinted to find out)
+        translation: Nyulu nganjar-nganjar kadan, jana wanjamun kamukamu manin
+
   - word: nganjay
+    type: adjective
+    definitions:
+      - no good, wilted as nganka nganjay, "wilted flowers"
+      - bad smell. Methylated spirits is sometimes called nganjay
+    translations:
+      - no good
+      - wilted
+      - bad smell
+    usages:
+      - english: The food smells bad, don't eat it
+        translation: Mayi nganjay kari nuka
+
   - word: nganjin
+    type: pr #todo
+    definitions:
+      - we plural exclusive 
+    translations:
+      - we plural exclusive
+
   - word: nganjirr
-  - word: nganjuninda
+    type: noun 
+    definitions:
+      - grass tree (blackboy). If jarramali (thunderstorm) comes, anyone can burn one of these; ironwood bark (jujabala) wild grape vines (kangka); or grasstree pitch (kanunjul). The smell will make the thunder go away
+    translations:
+      - grass tree
+      - blackboy
+
+  - word: Nganjuninda
+    type: noun
+    definitions:
+      - area across from Simm's Wharf behind Mangrove Island. (place name)
+    translations:
+      - Simm's Wharf
+
   - word: nganka
+    type: noun 
+    definitions:
+      - flower, blossom
+    translations:
+      - flower
+      - blossom
+
   - word: nganku
+    type: adjective
+    definitions:
+      - too quickly
+    translations:
+      - too quickly
+    usages:
+      - english: He went too quickly, I didn't finish my letter
+        translation: Nyulu ngankuku dungan ngayu letter kariku kunbay-manin
+
   - word: nganya
+    type: pr #todo
+    definitions:
+      - me, direct object of the verb
+    translations:
+      - me
+
   - word: nganya-burra
+    type: adjective
+    definitions:
+      - old time Aboriginal trial. The one on trial has spears thrown at him. If he is able to dodge them, he goes free. 
+    translations:
+      - trial
+      - old time Aboriginal trial 
+    usages:
+      - english: That man is on trial
+        translation: Nyulu yinya bama nganya-burra
+
   - word: nganya kayi
-  - word: nganyay
+    type: exclamation 
+    definitions:
+      - reaction to hurt 
+    translations:
+      - reaction to hurt
+    usages:
+      - english: Ouch! My hand
+        translation: Nganya kayi mara
+
+    noun: nganyay   
+    type: noun  
+    definitions:
+      - desert
+    translations:
+      - desert
+
   - word: nganyi
+    type: adjective 
+    definitions:
+      - get ready, be prepared 
+    translations:
+      - get ready
+      - be prepared
+
   - word: nganyi-burra
+    type: adjective 
+    definitions:
+      - not good at anything
+    translations:
+      - not good at anything
+
   - word: nganyi-nganyi
+    type: policeman 
+    definitions:
+      - policeman
+    translations:
+      - policeman
+    synonyms:
+      - buliman 
+
   - word: nganyil
+    type: noun 
+    definitions:
+      - haze, mist 
+    translations:
+      - haze
+      - mist
+
   - word: nganyin
+    type: noun 
+    definitions:
+      - onion (english loan word)
+      - sugar bag
+    translations:
+      - onion 
+      - sugar bag
+
   - word: ngara
-  - word: ngara bali-bali
+    type: noun 
+    definitions:
+      - root 
+    translations:
+      - root
+
+  - word: Ngara bali-bali
+    type: noun 
+    definitions:
+      - upper Daintree River  (place name)
+    translations:
+      - upper Daintree River
+
   - word: ngaral
+    type: transitive-verb 
+    definitions:
+      - build 
+      - spread 
+    translations:
+      - build
+      - spread
+    usages: 
+      - english: The carpenters are building a house
+        translation: Jana carpenter-carpenterangka bayan ngaral-ngaral 
+      - english: They spread out a blanket for the children to sleep 
+        translation: Jana blanket ngaran kaykay-kaykay wunanka 
+
   - word: ngarkay
+    type: noun 
+    definitions:
+      - water hen 
+    translations:
+      - water hen
+      - hen 
+
   - word: ngarmu
+    type: noun 
+    definitions:
+      - shovelnose ray
+    translations:
+      - shovelnose ray
+
   - word: ngarngkul
+    type: noun
+    definitions:
+      - splash 
+    translations:
+      - splash
+    usages:
+      - english: The kids are splashing in the water
+        translation: Kaykay-kaykay ngarngkuljiku jan jil-janjil
+
   - word: ngarra
+    type: manner 
+    definitions:
+      - also
+    translations:
+      - also 
+    usages: 
+      - english: Danny went to the store, Carol also went.
+        translation: Danny storengy dungan, Carol ngarra dungan
+
   - word: ngarrakaja
+    type: noun
+    definitions:
+      - species of shell fish, edible 
+    translations:
+      - shell fish
+
   - word: ngarran
+    type: manner 
+    definitions:
+      - fin
+    translations:
+      - fin
+    
   - word: ngarra-yilbal
+    type: transitive-verb
+    definitions:
+      - win over, beat
+      - to pass
+    translations:
+      - win over, beat
+      - to pass
+    usages: 
+      - english: The Bloomfield team beat the rest
+        translation: Bloomfield-warrangka jananin ngarra-yilbal  
+      - english: He passed me (while driving along)
+        translation: Nyulu nganya ngarra-yilban
+        
   - word: ngarrbal
+    type: noun  
+    definitions:
+      - stranger 
+    translations:
+      - stranger
+
   - word: ngarri
-  - word: ngarri-muril
+    type: lower legs 
+    definitions:
+      - lower legs
+    translations:
+      - lower legs
+
+  - word: Ngarri-muril
+    type: noun 
+    definitions:
+      - near Romeo (place name)
+    translations:
+      - Romeo 
+
   - word: ngarrku-ngarrku
+    type: adjective 
+    definitions:
+      - obliging, easy to get along with because he does what you ask him 
+    translations:
+      - obliging
+      - complacent
+    usages:
+      - english: That person is easy to get along with in working (If you ask him to do anything, he does it quickly)
+        translation: Nyulu bama ngarrku-ngarrku workku
+
   - word: ngarruy
+    type: shellbait
+    definitions:
+      - shellbait
+    translations:
+      - shellbait
+
   - word: ngaru
+    type: adjective 
+    definitions:
+      - husky, or squeaky voice
+    translations:
+      - husky
+      - squeaky voice
+
   - word: ngawa
+    type: noun 
+    definitions:
+      - infant, newborn baby
+    translations:
+      - infant
+      - newborn baby
+
   - word: ngawiya
+    type: noun 
+    definitions:
+      - sea turtle 
+    translations:
+      - sea turtle
+
   - word: ngawungkal
+    type: noun 
+    definitions:
+      - a shout from a long ways away
+    translations:
+      - halloo
+      - hallo
+
   - word: ngawur
+    type: noun
+    definitions:
+      - always coming for food
+    translations:
+      - voracious
+
   - word: ngawurr-ngawun
-  - word: ngaybirr
+    type: noun 
+    definitions:
+      - freshwater crocodile
+    translations:
+      - crocodile 
+
+  - word: ngaybirr 
+    type: noun 
+    definitions:
+      - name for spouse (used only by old people now)
+    translations:
+      - spouse
+
   - word: ngayku
+    type: noun 
+    definitions:
+      - my
+      - for me, for my benefit
+    translations:
+      - my
+      - for me, for my benefit
+    usages:
+      - english: He got water for me
+        translation: Nyulu bana manin ngayku 
+
   - word: ngayu
+    type: pr # todo 
+    definitions:
+      - I went to the store
+    translations:
+      - I went to the store
+
   - word: ngayurrku
+    type: manner
+    definitions:
+      - by myself
+    translations:
+      - by myself
+
   - word: ngidin
+    type: noun 
+    definitions:
+      - boundary or border 
+    translations:
+      - boundary
+      - border
+
   - word: ngiki
+    type: noun 
+    definitions:
+      - a cold, or any sickness of the lungs as bronchitis 
+    translations:
+      - cold
+      - bronchitis
+    usages:
+      - english: He got a big sickenss (pneumonia)
+        translations: Nyulu ngiki yalbay manin
+
   - word: ngikiji
+    type: noun 
+    definitions:
+      - have a cold or chest complaint
+    translations:
+      - have a cold
+      - chest complaint
+
   - word: ngiki-damaji
+    type: intransitive-verb 
+    definitions:
+      - cough
+    translations:
+      - cough
+
   - word: ngingal
+    type: transitive-verb
+    definitions:
+      - to tease
+    translations:
+      - to tease 
+    usages:
+      - english: Don't taste that dog (he'll) bite (you)
+        translation: Yundu kaya kari nginga baykanji
+
   - word: ngingkirr
+    type: noun 
+    definitions:
+      - We were going heard a grunt, a pig coming
+    translations:
+      - Nganjin dungan, ngingkirr nyajin 
+
   - word: ngingkirr badi
+    type: intransitive-verb
+    definitions:
+      - to grunt 
+    translations:
+      - grunt
+
   - word: ngingkirr wunay
+    type: intransitive-verb
+    definitions:
+      - to grunt
+    translations:
+      - grunt
+
   - word: nginja
+    type: noun 
+    definitions:
+      - grunt
+    translations:
+      - grunt 
+    usages:
+      - english: That man is always grunting (in his sleep)
+        translation: Nyulu bama nginja-baka
+
   - word: nginja-wunay
+    type: intransitive-verb
+    definitions: 
+      - roar or growl like a dog 
+    translations:
+      - roar
+      - growl like a dog
+
   - word: nginjirri
-  - word: ngiri
+    type: noun 
+    definitions:
+      - fidgety, restless, uneasy 
+    synonyms:
+      - bayjurr
+    translations:
+      - fidgety
+      - restless
+      - uneasy
+
+  - word: Ngiri
+    type: noun
+    definitions:
+      - South of Tribulation
+    translations:
+      - South of Tribulation
+
   - word: ngirran
+    type: noun 
+    definitions:
+      - beetle fully developed from mujurr (witchetty grub)
+    translations:
+      - beetle
+
   - word: ngiwa
+    type: noun 
+    definitions:
+      - moray eel. Also used sometimes for sea snake 
+      - between kangkiji and Kaway (snake story site)
+    translations:
+      - moray eel
+
   - word: nguba
+    type: manner 
+    definitions:
+      - maybe, perhaps
+    translations:
+      - maybe
+      - perhaps
+    usages:
+      - english: Maybe he'll go, maybe not
+        translation: Nyulu nguba dungay, nguba kari
+
   - word: ngubar
+    type: direction
+    definitions:
+      - the other side 
+    translations:
+      - the other side
+      
   - word: ngubar-ngubar
+    type: direction 
+    definitions:
+      - across, over
+    synoynms: 
+      - naka-naka
+    translations:
+      - across
+      - over
+
   - word: ngujakura
+    type: noun 
+    definitions:
+      - Aboriginal law, the dreamtime stories anything to do with the dreamtime 
+    translations:
+      - the dreamtime stories
+
   - word: ngujan
+    type: noun 
+    definitions:
+      - a man or woman who is jealous-suspicious of his/her mate 
+    translations:
+      - jealous
+      - suspicious
+
   - word: ngujan-baka
+    type: noun 
+    definitions:
+      - a person who is always jealous, always suspicious of what his/her spouse is up to
+    translations:
+      - jealous
+      - suspicious
+
   - word: ngujay
+    type: noun 
+    definitions:
+      - freshwater turtle 
+    translations:
+      - freshwater turtle
+      - turtle
+
   - word: nguju
+    type: noun 
+    definitions:
+      - fun 
+    translations:
+      - fun
+
   - word: nguju-baka
+    type: noun 
+    definitions:
+      - something or someone that is always funny/playful 
+    translations:
+      - funny
+      - playful
+
   - word: ngujuji
+    type: noun 
+    definitions:
+      - funny 
+    translations:
+      - funny
+
   - word: nguku maniway
+    type: intransitive-verb 
+    definitions:
+      - playing together 
+    translations:
+      - playing together 
+
   - word: ngujungu
+    type: noun 
+    definitions:
+      - for fun or in fun, pretend
+    translations:
+      - for fun
+      - in fun
+      - pretend
+      - joss 
+    usages:
+      - english: I pretend/play I'm a horse 
+        translation: Ngayu ngujungu yarraman
+
   - word: ngujuri
+    type: intransitive-verb 
+    definitions:
+      - to play (yalanji) (nyungkul - kinkay)
+    translations:
+      - to play
+
   - word: ngujurr
+    type: noun
+    definitions:
+      - a man calls his sister's daughters (ngujurr) (relationship term)
+    translations:
+      - niece 
+
   - word: ngukal
+    type: noun 
+    definitions:
+      - the asking for things
+    translations:
+      - requesting
+      - asking
+
   - word: ngukal-badi
+    type: intransitive-verb 
+    definitions:
+      - to beg, ask
+    translations:
+      - beg
+      - ask
+    usages:
+      - english: Don't steal (it), just ask (for it)
+        translation: Yundu kari wurrmay-bakamaka, ngukal-badiku
+
   - word: ngukal-baka
+    type: noun 
+    definitions:
+      - someone who is always asking things, beggar
+    translations:
+      - beggar
+
   - word: ngulkurr
+    type: adjective
+    definitions:
+      - ngulkurr
+    translations:
+      - ngulkurr 
+
   - word: ngulkurr
+    type: adjective 
+    definitions:
+      - good
+      - well, not sick 
+      - good in the moral sense
+    translations:
+      - english: That food is very good 
+        translation: Yinya mayi ngulkurr bajaku
+      - english: He's well now after being sick 
+        translation: Nyulu bambaymun ngulkurrda 
+      - english: He doesn't do bad things (but) does good things
+        translation: Nyulu kari buyun-damal; nyulu ngulkurrku bunday
+
   - word: ngulkurrijin
+    type: adjective
+    definitions:
+      - pretty, beautiful 
+    synonyms:
+      - minimini
+    translations:
+      - pretty
+      - beautiful
+    usages:
+      - english: Yinya nganka ngulkurrijin
+        translation: That flower is beautiful 
+
   - word: ngulnkul
+    type: noun
+    definitions:
+      - voice without words, also to hum a tune
+    translations:
+      - hum
+      - hum a tune
+
   - word: ngulumuku
-  - word: ngulungaban
+    type: noun 
+    definitions:
+      - seashell 
+    translations:
+      - seashell
+
+  - word: Ngulungaban
+    type: noun 
+    definitions:
+      - Rossville
+    translations:
+      - Rossville
+
   - word: ngumanji
+    type: adjective 
+    definitions:
+      - person with teeth missing
+    translations:
+      - toothless 
+      - gummy 
+    usages:
+      - english: That man has teeth missing
+        translation: Yinya dingkar ngumanji, dirra nyungu
+
   - word: ngumbal
+    type: adjective 
+    definitions:
+      - fully trained boy. In the old time the boys were put through a course of physical training which included marches, hunting, etc. By about the age of 20, they were ngumbal, fully trained and eligible to marry. 
+    translations:
+      - trained boy
+      - ephebe
+
   - word: ngumbi
+    type: noun 
+    definitions:
+      - little spotted bandicoot
+    translations:
+      - bandicoot
+
   - word: ngumbu
+    type: adjective
+    definitions:
+      - black, charcoal
+    translations:
+      - black
+      - charcoal
+
   - word: ngumbul
-  - word: ngumbuymbu
+    type: noun 
+    definitions:
+      - species of snake
+    translations:
+      - species of snake
+
+  - word: Ngumbuymbu
+    type: noun
+    definitions:
+      - up above the Zigzag on way to Main Camp
+    translations:
+      - Zigzag
+
   - word: ngunay
+    type: adjective
+    definitions:
+      - wet
+    syonyms: 
+      - wet
+    translations:
+      - duna
+
   - word: ngundu
+    type: direction 
+    definitions:
+      - this side
+    translations:
+      - this side
+
   - word: ngungul-ngungul
+    type: adjective 
+    definitions:
+      - dark. It is usually contracted to nguwulnguwul or to ngulngul in fast speech
+    translations:
+      - dark
+
+    - word: ngungumurr 
+      type: noun
+      definitions:
+        - kidneys
+      translations:
+        - kidneys
+
   - word: ngunjil
+    type: noun 
+    definitions:
+      - charcoal; hot coals or hot ashes
+    translations:
+      - charcoal
+      - hot coals
+
   - word: ngunnga
+    type: noun 
+    definitions:
+      - an open place (yalanji - nyungkul - warrmba)
+    translations:
+      - open place
+
   - word: ngunnga-bungal
-  - word: ngunnga-bungal
+    type: transitive-verb
+    definitions:
+      - to find
+    translations:
+      - find
+
   - word: ngunya-ngunya
+    type: noun
+    definitions:
+      - imagination, something you can't see but can picture in your mind
+    translations:
+      - imagination
+    usages:
+      - english: I imagined I got a knife 
+        translation: Ngayu ngunyangunya manin, naybu
+
   - word: ngunyarr-damal
+    type: adjective
+    definitions:
+      - to be in a hurry
+    translations:
+      - in a hurry
+      
   - word: ngunyin
+    type: noun 
+    definitions:
+      - dilly bag 
+      - the tree bark used to make into strips and weave fishing nets and dilly bags
+      - spider web
+      - placenta
+    synonyms:
+      - balji 
+    translations:
+      - dilly bag
+      - tree bark
+      - spider web
+      - placenta
+
+
   - word: ngura
+    type: manner 
+    definitions:
+      - too soon for others who aren't yet ready
+    translations:
+      - impatient 
+    usages:
+      - english: You went to soon (they're not ready yet)
+        translation: Yun du nguraku dungan
+
+  - word: ngura-ngura ngal
+    type: transitive-verb
+    definitions:
+      - straighten, measure, aim. 
+    translations:
+      - straighten
+      - measure
+      - aim
+    usages:
+      - english: Aim the gun 
+        translations: Marrkin ngurangurangaka
+      - english: The carpenters got the house ready to build (leveled the foundations measured to see where the walls wouuld be etc)
+        translation: Jana carpenter-carpenterangka bayan ngurangurangan 
+
   - word: ngura-nyajil
+    type: transitive-verb
+    definitions:
+      - jealous, envious, because of another's possessions.
+    translations:
+      - jealous
+      - envious
+    usages:
+      - english: I'm jealous of that girl with a new dress
+        translation: Ngayu yinya ngura-nyajin jalbu kambiji jirakalji
+
   - word: ngurma
+    type: noun 
+    definitions:
+      - shadow, picture, statue, movie, cards, reflection in a mirror or smooth water
+    translations:
+      - reflection
+      - shadow
+      - picture
+      - statue
+      - movie
+      - cards
+
   - word: ngurma-mulkaynji
+    type: noun 
+    definitions:
+      - image
+    translations:
+      - image
+
   - word: ngurmu
+    type: noun
+    definitions: 
+      - decorated butt of woomera
+    translations:
+      - woomera
+
   - word: ngurran
+    type: noun 
+    definitions:
+      - rope, also dilly bag made from rope
+    synonyms:
+      - karra
+    translations:
+      - rope
+      - dilly bag
+
   - word: ngurrbal
+    type: noun
+    definitions:
+      - fog
+    translations:
+      - fog
+    usages:
+      - english: I couldn't see, the heavy fog oblterated (the view)
+        translation: Ngayu kari nyajin, ngurrbalda yalbaynja kanbin
+
   - word: ngurrban
+    type: noun
+    defintions:
+      - cloud
+    translations:
+      - cloud
+
   - word: ngurrku
+    type: noun 
+    definitions:
+      - mopoke, owl
+      - edible fig and the tree 
+      - name of rock near Pearce's place, visible only at low tide (story site)
+    translations:
+      - mopoke
+      - owl
+      - edible fig
+      - rock
+
   - word: ngurrkul
-  - word: ngurru
+    type: noun 
+    definitions:
+      - tree and its edible fruit, found only in deep scrub
+    translations:
+      - tree
+      - edible fruit
+
+  - word: Ngurru  
+    type: noun
+    definitions:
+      - Watermelon Creek
+    see:
+      - muja
+    translations:
+     - Watermelon Creek
+
   - word: nguru
+    type: noun
+    definitions:
+      - a woman's husband's younger brother, a man's wife's younger sister (relationship term)
+    translations:
+      - husband's younger brother
+      - wife's younger sister
+
   - word: nguwimal
+    type: manner
+    definitions:
+      - visible
+    translations:
+      - visibile
+    usages: 
+      - english: I saw him appear, a long ways off
+        translation: Ngayu nyungun nguwimal nyajin, kala-kalbayku
+
   - word: nguwimal kari
+    type: adjective
+    definitions:
+      - invisible
+    translation:
+      - invisible
+    usages:
+      - english: The spirit was invisible
+        translation: Nyulu dubu nguwimal kari
+    # page #145 yalnji check point 
+    
   - word: nguwimal milbiji
   - word: nguwimalku kunil
   - word: nguwul-nguwul
