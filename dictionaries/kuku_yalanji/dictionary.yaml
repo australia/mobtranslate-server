@@ -16141,39 +16141,256 @@ words:
     usages:
       - english: Snatch it quickly from his hand
         translation: Maramun jinbaldaku nyarma 
-        
-  - word: nyidu
+
+  - word: nyidu 
+    type: noun
+    definitions:
+      - waist
+    translations:
+      - waist
+
   - word: nyiku
+    type: time
+    defintions:
+      - today, now
+    translations:
+      - today, now
+
   - word: nyiku baja
+    type: time
+    definitions:
+      - very soon
+    translations:
+      - very soon
+
   - word: nyiku-nyiku
+    type: time
+    definitions:
+      - soon
+    translations:
+      - soon
+
   - word: nyikurrku
+    type: time
+    definitions:
+      - until now
+    translations:
+      - until now
+
   - word: nyinday
+    type: intransitive-verb
+    definitions:
+      - bump against something
+    translations:
+      - collide
+
   - word: nyinja
+    type: noun
+    definitions:
+      - grunt
+    translations:
+      - grunt
+
   - word: nyinja-kangal
+    type: intransitive-verb
+    definitions:
+      - to grunt
+    translations:
+      - grunt
+
   - word: nyinjirri
+    type: noun
+    definitions:
+      - nuisance 
+    translations:
+      - nuisance 
+
   - word: nyinki
-  - word: nyirra
+    type: noun 
+    definitions:
+      - corner of the eye 
+    translations:
+      - peripheral
+    usages: 
+      - english: I saw him out of the corner of my eye
+        translation: Ngayu nyungun nyinkibu nyajin
+
+  - word: nyinyi
+    type: adjective
+    definitions:
+      - sook, crybaby
+    translations:
+      - sook
+      - crybaby
+    usages:
+      - english: That is child is crying for nothing, he's a sook
+        translation: Nyulu nyinyi bajaku 
+
   - word: nyirran
-  - word: nirray
+    type: manner
+    definitions:
+      - the big green ant that is eaten, comes in December - January
+    translations:
+      - green ant
+
+  - word: nyirray
+    type: noun 
+    definitions:
+      - noise of crying, weeping, mourning.
+    translations:
+      - noise of crying
+      - weeping
+      - mourning
+    usages:
+      - english: That child is always crying
+        translation: Nyulu karrkay nyirray-baka 
+
   - word: nirray-warri
+    type: intransitive-verb 
+    definitions:
+      - to start crying
+    translations:
+      - start crying
+
   - word: nyirribulu
+    type: noun
+    definitions:
+      - appendix 
+    translations:
+      - appendix 
+
   - word: nyubun
+    type: adjective
+    definitions:
+      - one
+    translations:
+      - one
+
   - word: nbuyun-birrku
+    type: manner 
+    definitions:
+      - only once
+    translations:
+      - only once
+    usages:
+      - english: I'll deliver it only once
+        translation: Ngayu nyubun-birrku wundil
+
   - word: nyulu
+    type: pr # todo 
+    definitions:
+      - he, she, it
+    translations:
+      - he
+      - she
+      - it
+
   - word: nyulurrku
+    type: manner
+    definitions:
+      - by himself/himself
+    translations:
+      - by himself
+      - himself
+
   - word: nyulurrku yulmbarriji
+    type: intransitive-verb
+    definitions:
+      - boast, skite
+    translations:
+      - boast
+      - skite
+
   - word: nyumal
+    type: transitive-verb 
+    definitions:
+      - to smell or taste
+
   - word: nyumba
+    type: noun
+    definitions:
+      - saliva, spittle
+    translations:
+      - saliva
+      - spittle
+
   - word: nyumba-buyun
+    type: noun
+    definitions:
+      - crave 
+    translations:
+      - crave  
+    usages: 
+      - english: I crab crab meat 
+        translation: Ngayu nyumba-buyun minyaka kijuku
+
   - word: nyumba yilbal
+    type: transitive-verb
+    definitions:
+      - to spit
+    translations:
+      - to spit
+
   - word: nyumbil
+    type: noun 
+    definitions:
+      - leech 
+      - coolibah tree (messmate)
+    translations:
+      - leech
+      - coolibah tree
+
   - word: nyumbirr
+    type: noun
+    definitions:
+      - wax made by bees
+    translations:
+      - wax
+      
   - word: nyumbul
+    type: noun
+    definitions:
+      - cheek
+    translations:
+      - cheek 
+
   - word: nyunbarraman
+    type: adjective
+    definitions:
+      - confused, all mixed up
+    translations:
+      - confused
+
   - word: nyunbay
+    type: intransitive-verb 
+    definitions:
+      - to return, go back
+    translations:
+      - return
+      - go back
+      
   - word: nyundan
+    type: intransitive-verb
+    definitions:
+      - missed
+    translations:
+      - missed 
+    usages:
+      - english: He missed the ball
+        translation: Nyulu nyundan ball
+
   - word: nyungu
+    type: pr #todo 
+    definitions:
+      - he, she, its
+    translations:
+      - he
+      - she
+      - its
+
   - word: nyungun
+    
+
   - word: nyungun-bungal
   - word: nyunil
   - word: nyunjal
