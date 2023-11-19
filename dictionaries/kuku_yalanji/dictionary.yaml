@@ -17702,136 +17702,1166 @@ words:
       - hate
       
   - word: wawu-karrbal
+    type: transitive-verb
+    definitions:
+      - satisfied
+    translations:
+      - satisfied 
+
   - word: wawy-kujiji
+    type: intransitive-verb 
+    definitions:
+      - to have a rest 
+    synonyms:
+      - wawu-balangaji 
+    translations:
+      - satisfied
+
   - word: wawumal
+    type: intransitive-verb
+    definitions:
+      - agree 
+    translations:
+      - agree
+    usages:
+      - english: If you agree, we'll go 
+        translation: Yundu wawumal, ngali dungay 
+
   - word: wawu-mini
+    type: adjective 
+    definitions:
+      - happy 
+    translations:
+      - happy 
+
   - word: wawu nandaji
+    type: intransitive-verb 
+    definitions:
+      - to hold one's breath
+    translation:
+      - apnea
+
   - word: wawurr-wawurr
+    type: adjective 
+    definitions:
+      - willing, glad 
+    translations:
+      - willing
+      - glad 
+
   - word: wawurr-wawurr-bungal
+    type: transitive-verb
+    definitions:
+      - to make happy, glad
+      - promise
+    translations:
+      - make happy
+      - glad
+      - promise
+      - delight
+      - gladden
+      - commitment 
+      - pledge
+
   - word: wawurr-wawurrmal
+    type: intransitive-verb 
+    definitions:
+      - decide 
+    translations:
+      - decide
+    usages:
+      - english: I decided to go now
+        translation: Ngayu wawurr-wawurrman dungankada 
+
   - word: wawurr-wuwurrmaniji
+    type: intransitive-verb
+    definitions:
+      - glad 
+    translations:
+      - glad
+
   - word: wawu-wulay
+    type: intransitive-verb 
+    definitions:
+      - thirsty
+      - exhausted, tired
+    translations:
+      - thirsty 
+      - exhausted
+      - tired
+
   - word: wawu yilbal
+    type: intransitive-verb 
+    definitions:
+      - to breathe heavily, to sigh 
+    translations:
+      - breathe heavily
+      - sigh
+
   - word: wawu yungal
+    type: transitive-verb
+    definitions:
+      - wish, hope, usually without prospects of getting what you wish for
+    translations:
+      - wish
+      - hope
+      - aspiration
+    usages:
+      - english: Hank is wishing for a new outboard motor
+        translation: Hankangka wawu yungal-yungal motorka jirakalka
+
   - word: wawubaja
+    type: noun 
+    definitions:
+      - river 
+    translations:
+      - river
+
   - word: wawuburra
+    type: noun 
+    definitions:
+      - cottontree. Canoes were made out of these and the candlenut tree, bilar. When it blooms (big red flowers) it signals the start of the scrub hen egg season
+    translations:
+      - cottontree 
+
   - word: wawukuna
+    type: noun 
+    definitions:
+      - long wild yam
+    translations:
+      - long wild yam
+
   - word: wayal
-  - word: wayal-wayal
+    type: transitive-verb 
+    definitions:
+      - to lead
+    translations:
+      - to lead
+
+  - word: Wayal-wayal
+    type: noun
+    definitions:
+      - Wayalla Plains (place name)
+    translations:
+      - Wayalla Plains
+
   - word: wayarri
+    type: noun 
+    definitions:
+      - hair belt 
+    translations:
+      - hair belt 
+
   - word: waybala
+    type: noun 
+    definitions:
+      - white person (waybul) (nyungkal yalanji)
+    translations:
+      - white person
+
   - word: waybul
+    type: noun 
+    definitions:
+      - white person (waybala) (nyungkal yalanji)
+    translations:
+      - white person
+
   - word: wayi-janay
+    type: intransitive-verb 
+    definitions:
+      - jumping around because he's happy 
+      - good dancer 
+    translations:
+      - jumping around
+      - good dancer
+
   - word: wayjul
+    type: transitive-verb 
+    definitions:
+      - to cook food 
+      - to burn something
+    translations:
+      - cook
+      - burn
+      
   - word: wayjuji
+    type: intransitive-verb
+    definitions:
+      - to burn oneself
+    translations:
+      - self harm
+      - self immolation #todo lol
+
   - word: waykal
+    type: noun 
+    definitions:
+      - native cat
+    translations:
+      - native cat 
+
   - word: waymbil
+    type: noun 
+    definitions:
+      - axe
+    synonyms:
+      - warrbi 
+    translations:
+      - axe 
+
   - word: waymbul
+    type: adjective 
+    definitions:
+      - slow, gently
+    syonyms:
+      - kiray
+      - yambal 
+    translations:
+      - slow
+      - gently
+
   - word: wuba
+    type: noun
+    definitions:
+      - red ochre 
+    translations:
+      - red ochre
+
   - word: wubaji
+    type: intransitive-verb 
+    definitions:
+      - to swell up
+      - to rise, as bread dough rising
+    translations:
+      - swell up
+      - rise
+    usages:
+      - english: My feet are swollen
+        translation: Ngayu jina wubajin
+
   - word: wubali
+    type: noun
+    definitions:
+      - species of yam
+    translations:
+      - yam
+
   - word: wuban
+    type: adjective
+    definitions:
+      - strong, hard 
+    translations:
+      - strong
+      - hard
+    usages:
+      - english: pulled with all our strength 
+        translation: junkurr wubandaku kulban
+
   - word: wubar-wubar
+    type: direction
+    definitions:
+      - the other side of. Fast speech for ngubar-ngubar.
+    translations:
+      - the other side of
+
   - word: wubul
+    type: noun 
+    definitions:
+      - heart 
+    translations:
+      - heart
+    
   - word: wubul yarangkan
+    type: intransitive-verb 
+    definitions:
+      - strain the heart, as from lifting something heavy 
+    translations:
+      - cardiomegaly
+
   - word: wubun
-  - word: wuburrr
-  - word: wujal-wujal
+    type: noun 
+    definitions: 
+      - hump, as on a Brahman bull
+    translations:
+      - hump 
+
+  - word: wuburr
+    type: noun 
+    definitions:
+      - site of present mission and up to the waterfall (place name)
+    translations:
+      - mission
+
+  - word: Wujal-wujal
+    type: noun 
+    definitions:
+      - Wujal Wujal (place name)
+    translations:
+      - Wujal Wujal
+
   - word: wujirrngal
+    type: transitive-verb
+    definitions:
+      - blame because of your relationship to the guilty one, as if a child steals something, then the owner will blame the mother.
+    translations:
+      - vicarious liability
+    usages:
+      - english: Don't steal - he'll blame me (because you are my child)
+        translation: Nyulu nganya wujirrngal 
+
   - word: wuju
+    type: noun 
+    definitions:
+      - sponge made from grass, used as a sop for eating honey or soup
+    translations:
+      - sponge
+
   - word: wujurr
+    type: noun 
+    definitions:
+      - darkness, night
+    translations: 
+      - darkness
+      - night
+
   - word: wukal
-  - word: wujarra
+    type: transitive-verb
+    definitions:
+      - to frighten by tricking 
+    translations:
+      - intimidate
+      - startle
+    usages:
+      - english: He scared me, fooled me (told me there was a snake)
+        translation: Nyulu nganya wukan jarbaka
+
+  - word: wukarra
+    type: noun 
+    definitions:
+      - autumn
+    translations:
+      - autumn
+
   - word: wukay
+    type: noun 
+    definitions:
+      - hairy yam
+      - must be cooked, ground and leaved before eating
+    translations:
+     - hairy yam
+     - edible yam
+
   - word: wukuju
+    type: noun 
+    definitions:
+      - freshwater prawn, the big one with long legs
+    translations:
+      - freshwater prawn
+
   - word: wukurril
+    type: transitive-verb
+    definitions:
+      - follow
+      - weave
+      - make a fence
+      - imitate 
+    translations:
+      - follow
+      - weave
+      - make a fence
+      - imitate
+    usages: 
+      - english: The woman wove a dilly bag
+        translation: Jalbungku balji wukurrin 
+      - english: The men put up the fence 
+        translation: Dingkar-dingkarangka fence wukurrin 
+
   - word: wula
+    type: noun 
+    definitions:
+      - flames
+    synonyms:
+      - dalngarri 
+    translations:
+      - flames
+
   - word: wulay
+    type: intransitive-verb 
+    definitions:
+      - to die
+      - to become unconcious
+    translations:
+      - dying 
+      - unconscious
+
   - word: wulbar
+    type: intransitive-verb 
+    definitions: 
+      - scar 
+    translations:
+      - scar 
+
   - word: wulbuman
+    type: noun 
+    definitions:
+      - old woman (english loan word)
+    synonyms:
+      - kamba 
+    translations:
+      - old woman
+
   - word: wulburr
+    type: noun 
+    definitions:
+      - bamboo spear stick 
+    translations:
+      - bamboo spear stick
+      - spear
+
   - word: wulburrjuburr
+    type: noun
+    definitions:
+      - sacred dance of women at which the men sing but do not dance 
+    translations:
+      - sacred dance 
+
   - word: wuli-wuli
+    type: noun
+    definitions:
+      - soldier crab
+    translations:
+      - soldier crab
+
   - word: wuljaljiku
+    type: time 
+    definitions:
+      - forever, always
+    translations:
+      - forever
+      - always
+
   - word: wuljal-wuljal
-  - word: wuljay-wuljayku
+    type: adjective 
+    definitions:
+      - long time 
+    translations:
+      - long time # todo
+    usages:
+      - english: He's been sleepy a long time
+        translation: Nyulu wuljal-wujal warngkuji
+
+    - word: wuljay-wuljay 
+      type: time 
+      definitions:
+        - long time ago 
+      translations:
+        - long time ago
+    
   - word: wuljil
+    type: adjective 
+    definitions:
+      - to empty out, bail out
+    translations:
+      - empty out
+      - bail out
+    usages:
+      - english: They emptied out (the bee's nest) into the bucket
+        translation: Bula mayi wunba wuljin bucketba
+
   - word: wulku
+    type: noun 
+    definitions:
+      - fig
+    translations:
+      - fig
+
   - word: wulman
+    type: noun 
+    definitions:
+      - old man (english loan word)
+      - an old animal
+      - husband
+    synonyms:
+      - binga-binga 
+      - dunyu 
+    translations:
+      - spear
+    usages:
+      - english: the old horse 
+        translation: wulman yarraman
+      - english: Where is your husband?
+        translation: Yunu wulman wanjabu? 
+
   - word: wulmbarril
+    type: transitive-verb 
+    definitions:
+      - to blow
+    translations:
+      - blow 
+
+  - word: wulngku
+    type: noun 
+    definitions:
+      - song
+    translations:
+      - song
+    
+  - word: wulngku badi
+    type: intransitive-verb
+    definitions:
+      - to sing
+    translations:
+      - sing
+
   - word: wulngkurr
+    type: noun 
+    definitions:
+      - stringy bark tree
+    translations:
+      - stringy bark tree
+
   - word: wulu
+    type: noun 
+    definitions:
+      - ankle, shin
+    translations:
+      - ankle
+      - shin
+
   - word: wumba
+    type: adjective 
+    definitions:
+      - for nothing, for no reason
+    translations:
+      - no reason
+      - unjustifiably
+
   - word: wumbul
+    type: adjective 
+    definitions:
+      - hot
+    translations:
+      - hot
+
   - word: wunay
+    type: intransitive-verb
+    definitions:
+      - to lie down
+      - to sleep
+      - to have
+    translations:
+      - lie down
+      - sleep
+      - have
+    usages:
+      - english: Do you have a teapot?
+        translation: Yundu teapot wunay?
+
   - word: wunay
+    type: intransitive-verb 
+    definitions:
+      - state of being 
+    translations:
+      - being
+      - conciousness
+    usages:
+      - english: Are there any wallabies there?
+        translation: Kadar yinyaymba wunay?
+
+
+  - word: wunay
+    type: transitive-verb 
+    definitions:
+      - marry
+    translations:
+      - marry
+    usages:
+      - english: The young man married the girl
+        translation: Warrungku maral wunan
+
   - word: wunba
+    type: noun 
+    definitions:
+      - name of the English bee and its honey. Also used for honey bought in store
+    translations:
+      - honey
+      - bee
+
   - word: wunbu
+    type: adjective 
+    definitions:
+      - quiet, lethargic, half asleep, won't do anything, shy, doesn't talk. Opposite of ngalu-ngalu
+    translations:
+      - quiet
+      - lethargic
+      - half asleep
+      - shy
+      - doesn't talk
+
   - word: wundil
+    type: transitive-verb 
+    definitions:
+      - bring, take
+    translations:
+      - bring
+      - take
+
   - word: manubu wudil
-  - word: wundu
+    type: transitive-verb
+    definitions:
+      - persuade 
+    translations:
+      - persuade 
+
+  - word: Wundu
+    type: noun 
+    definitions:
+      - Mt Alexandra (place name)
+    translations:
+      - Mt Alexandra
+
   - word: wunjal
+    type: transitive-verb
+    definitions:
+      - to finish food up 
+    translations:
+      - complete
+      - finish
+    usages:
+      - english: You finish up that food
+        translation: Yundu yinyay mayinga wunjajika
+  
   - word: wungar
+    type: noun 
+    definitions:
+      - sun
+    translations:
+      - sun
+
   - word: wungar dakal
-  - word: wundar daray
+    type: intransitive-verb 
+    definitions:
+      - sunrise
+    translations:
+      - sunrise
+    
+  - word: wungar daray
+    type: intransitive-verb 
+    definitions:
+      - sunset
+    translations:
+      - sunset
+
   - word: wangariji
+    type: noun 
+    definitions:
+      - the hot season
+    translations:
+      - the hot season
+
   - word: wungar jalamal
+    type: intransitive-verb
+    definitions:
+      - the sun comes out from behind the cloud
+    translations:
+      - sun peek # todo
+
   - word: wungar jarra-jarra
+    type: adjective 
+    definitions:
+      - midday
+    translations:
+      - midday
+
   - word: wungar wandil-wandil
+    type: intransitive-verb 
+    definitions:
+      - sun rise. The sun is coming up.
+    translations:
+      - sun rise
+
   - word: wungar wangkar-wangkar
+    type: adjective 
+    definitions:
+      - midday
+    translations:
+      - midday
+
   - word: wungka
-  - word: wungka-baja
+    type: noun
+    definitions:
+      - cry of a woman in distress
+    translations:
+      - wail
+      - scream
+    usages:
+      - english: She's swearing another woman (because she's wronged)
+        translation: Nyulu wungkabu yukil yindi jalbu
+
+  - word: Wungka-baja
+    type: noun
+    definitions:
+      - point straight out from Bloomfield River (place name)
+    translations:
+      - Bloomfield River 
+
   - word: wungku
+    type: noun 
+    definitions:
+      - domestic turkey, not the scrub turkey 
+    synonyms:
+      - diwan
+    translations:
+      - domestic turkey
+      - turkey
+
   - word: wunjan
+    type: noun 
+    definitions:
+      - no personality, no style, not a pleasure to be with
+    translations:
+      - bland
+      - unremarkable
+      - no personality
+      - no style
+      - not a pleasure to be with
+
   - word: wunkun
+    type: time 
+    definitions:
+      - tomorrow
+    translations:
+      - tomorrow 
+
   - word: wunkun yindu
+    type: time 
+    definitions:
+      - day after tomorrow
+    translations:
+      - overmorrow
+
   - word: wunkuwingku
+    type: time
+    definitions:
+      - morning
+    translations:
+      - morning
+
   - word: wunyi-wunyi
+    type: noun 
+    definitions:
+      - mimic
+    translations:
+      - mimic
+      - copy
+      - mime
+
   - word: wurarr-wurarr
+    type: noun 
+    definitions:
+      - dragon fly
+    translations:
+      - dragon fly
+
   - word: wuri
+    type: intransitive-verb 
+    definitions:
+      - to dance, swing
+      - to gamble 
+    translations:
+      - dance
+      - swing
+      - gamble
+
   - word: wurmbu
+    type: noun 
+    definitions:
+      - tip of tail or top of tree, but not point of hill
+    translations:
+      - tip of tail
+      - top of tree
+    usages:
+      - english: The bird is right up at the top 
+        translation: Dikal wurmbungu bajaku
+
   - word: wurun
+    type: noun
+    definitions:
+      - humpy
+    translations:
+      - humpy
+      - halfway # todo
+
   - word: wurunurru
+    type: noun 
+    definitions:
+      - whirlwind
+    translations:
+      - whirlwind
+
   - word: wurra
+    type: noun 
+    definitions:
+      - navel 
+      - umbilical cord
+    translations:
+      - navel 
+      - umbilical cord
+
   - word: wurrarr-wurrarr
+    type: noun 
+    definitions:
+      - mud wasp
+    translations:
+      - mud wasp
+
   - word: wurra-wurrangal
+    type: transitive-verb
+    definitions:
+      - shake
+    translations:
+      - shake
+    usages:
+      - english: take his hand to shake hands 
+        translation: Wungar wurrangal wurrungu
+      - english: Shake the mangoes (off the tree)
+        translation: Mangku wurra-wurrangaka
+
   - word: wurrbal
+    type: noun 
+    definitions:
+      - fog, mist rising from the river
+    translations:
+      - fog
+      - mist 
+
   - word: wurrbu
+    type: noun 
+    definitions:
+      - hornet, bumblebee. Nests in a stump or the ground
+    translations:
+      - hornet, bumblebee
+
   - word: wurri-wurri
+    type: adjective 
+    definitions:
+      - spotted, striped, speckled
+    translations:
+      - spotted
+      - striped
+      - speckled
+
   - word: wurril
+    type: manner
+    definitions:
+      - crossways, lopsided
+    translations:
+      - crossways
+      - lopsided
+    usages:
+      - english: Don't sit on the edge of the boat, sit right
+        translations: Yundu wurril kari bunday boatbu. Junkayku bunday.
+
   - word: wurrkal
+    type: intransitive-verb 
+    definitions:
+      - hurt, ache 
+    translations:
+      - hurt
+      - ache
+
   - word: wurrmay
+    type: noun
+    definitions:
+      - robber, thief 
+    translations:
+      - robber
+      - thief
+      - cleptomanic
+    usages:
+      - english: Don't steal
+        translation: Kari wurrmaymaka
+
   - word: wurrmay-baka
+    type: noun
+    definitions:
+      - someone who is always stealing
+    translations:
+      - robber
+      - thief
+      - cleptomanic
+      #todo - revise
+
+
   - word: wurru-bulan
+    type: noun 
+    definitions:
+      - small crab found on reef
+    translations:
+      - crab
+      
   - word: wurrul
+    type: noun 
+    definitions:
+      - species of shellfish
+    translations:
+      - shellfish
+      - wurrul
+
   - word: wuyar
+    type: noun #todo
+    definitions: 
+      - top
+    translations:
+      - top 
+
   - word: wuyarr
+    type: adjective 
+    definitions:
+      - unable to see properly - if too far away, too dark, too small
+    translations:
+      - blind
+      - myopia
+    usages:
+      - english: He can't see him well, hes too far away
+        translation: Nyulu wuyarr nbajaku nyajiji, kala-kalbay bajakunda
+
   - word: wuybu
+    type: noun 
+    definitions:
+      - whip (english loan word)
+    translations:
+      - whip
+
   - word: wuybubu kulbal
-  - word: wuybar
+    type: transitive-verb 
+    definitions:
+      - to whip someone
+    translations:
+      - whip
+    usages:
+      - english: He whipped the horse
+        translation: Nyulu yarraman wuybubu kulban
+
+  - word: wuybur
+    type: noun 
+    definitions:
+      - jellyfish
+    syonyms:
+      - mili
+      - kulil
+    translations:
+      - jellyfish
+
   - word: wurmbariji
+    type: noun 
+    definitions:
+      - species of tree found in the scrub
+    translations:
+      - tree
+      
   - word: wuynkurr
+    type: noun 
+    definitions:
+      - juice of meat
+    translations:
+      - meat juice
+      - fat 
+
   - word: wuyngkul
+    type: noun 
+    definitions:
+      - spirit of sick person. Only a few people who know the wuynkul can see and talk to him. if they stare at him he hits them with a stick and the next day they become sick. He has eyes in front and behind him, and can see if bama stare at him. He can appear as a person, as a hairy brute with long teeth and a bad smell, or as a wild pig or snake. When by other persons, he has left the sick person.
+    translations:
+      - spirit
+      - demon
+      - trickster
+
   - word: wuyngkulji
+    type: noun 
+    definitions:
+      - one who is possessed by the wuyngkul spirit
+    translations:
+      - possessed
+
   - word: wayul
-  - word: wuyumba
+    type: noun 
+    definitions:
+      - seaweed
+    translations:
+      - seaweed
+
+  - word: wuyumbu
+    type: noun
+    definitions:
+      - species of fish - Striped toby, also toadfish
+    translations: 
+      - fish
+      - toadfish
+      - striped toby
+
   - word: ya
+    type: exclamation
+    definitions: 
+      - exclamation of surprise, attention getter.
+    translations:
+      - exclamation
+
   - word: yaba
+    type: noun
+    definitions:
+      - older brother
+      - freshwater eel - has a big head and is smaller than dandarribina. It does not have much taste, no fat, people don't eat it unless there's no other meat. 
+    translations: 
+      - older brother
+      - eel
+
   - word: yabaju
+    type: noun
+    definitions:
+      - younger brother 
+    synonyms: 
+      - yabuju
+    translations: 
+      - younger brother
+
   - word: yabarraban
+    type: adjective
+    definitions:
+      - big
+    translations:
+      - big
+     
   - word: yaburr
+    type: noun
+    definitions:
+      - shark
+    translations: 
+      - shark
+
   - word: yajarril
+    type: transitive-verb
+    definitions: 
+      - to laugh
+    translations: 
+      - laugh
+
   - word: yajin
+    type: adjective
+    definitions: 
+      - full (of food) (nyungkul) (yalanji - yanji)
+    translations: 
+      - full (of food)
+
   - word: yakal
+    type: transitive-verb
+    defintions: 
+      - to cut. 
+    translations: 
+      - cut
+    usages: 
+      - english: you cut the meat up
+        translation: yundu minya kaka
+
+  - word: yakal
+    type: transitive-verb
+    defintions: 
+      - to saw wood
+    translations: 
+      - saw
+    synonyms:
+      - nyandal`
+    usages: 
+      - english: I sawed the wood
+        translation: Ngayu juku yakan sawmundu
+
   - word: yala
+    type: question
+    definitions: 
+      - what about? 
+    translations:
+      - what about?
+    usages:
+      - english: What about your older brother?
+        translation: Yala yaba? 
+
   - word: yala
+    type: manner
+    definitions:
+      - like
+    translations:
+      - like 
+    usages:
+      - english: he's like his father.
+        translation: nyulu yala nyungu nganjan.
+
   - word: yalada
+    type: adjective
+    definitions: 
+      - alright, okay
+    translations: 
+      - alright
+      - okay
+
   - word: yala-karrajikur
+    type: manner
+    definitions:
+      - alike
+    translations: 
+      - alike 
+    usages: 
+      - english: they are just alike
+        translation: bula yala-karrajiku
+  
   - word: yalakay
+     type: exclamation
+     definitions: 
+       - expressing astonishment to another's statement. (nyungkul - yukil)
+    translations:
+      - expressing
+      - astonishment
+    usages: 
+      - english: is it true that you want to come?
+        translation: yalakay yundu kadanka?
+
   - word: yalaku
+    type: manner
+    defintions: 
+      - custom, like. 
+   translations:
+      - custom
+      - like. 
+    usages: 
+      - english: they are like that (this is their custom. That is the way they are.)
+        translation: jana yalaku
+
   - word: yalamal
+    type: transitive-verb
+    definitions: 
+      - to say or do
+    translations: 
+      - to say or do
+    usages: 
+    - english: don't do that
+      translation: kari yalamaka 
+    
   - word: yalarrku
+    - type: manner
+    definitions: 
+      - also, in the same way
+    translations: 
+      - also
+
   - word: yala
+    type: demonstrative
+    definitions: 
+      - here, this. 
+    translations: 
+      - here
+      - this
+    usages:
+      - english: he went from here
+        translation: nyulu yalamun dungan
+
   - word: yalanguwimburr
   - word: yalanji
   - word: yalaymba
