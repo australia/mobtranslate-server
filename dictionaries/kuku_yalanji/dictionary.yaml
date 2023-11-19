@@ -18863,163 +18863,1357 @@ words:
         translation: nyulu yalamun dungan
 
   - word: yalanguwimburr
+    type: time 
+    definitions:
+      - immeditely 
+    translations:
+      - immediately
+    usages:
+      - english: Before the store closes, go immediately 
+        translation: Store nandajinjiku, yalanguwimburr dunday
+
   - word: yalanji
+    type: demonstrative
+    definitions: 
+      - this area or place
+    translations:
+      - this area
+      - this place
+
   - word: yalaymba
+    type: demonstrative 
+    definitions: 
+      - at this place (nyungkul) (yalanji - yaluy)
+    translations:
+      - at this place
+
   - word: yalaymbu
+    type: time 
+    definitions: 
+      - by this time
+    translations:
+      - by this time
+    usages:
+      - english: He missed the fish. By this time we should have been eating (it)
+        translation: Byulu minya nyundan. Ngana yalaymbu mukanyakuda
+
   - word: yalaymburr
+    type: time 
+    definitions: 
+      - in the meantime 
+    translations:
+      - in the meantime
+    usages:
+      - english: I'll go before the rain comes 
+        translation: Ngayu yalaymburr dungay kabaka
+
   - word: yala-yala
+    type: time 
+    definitions: 
+      - at the same time, when 
+    translations:
+      - during 
+    usages:
+      - english: During the thunderstorm, he hid 
+        translation: Yala-yalaku jarramali kadan, nyulu ngakijin
+
   - word: yalayayku
+    type: demonstrative 
+    definitions:
+      - this kind 
+    translations:
+      - this kind
+    usages:
+      - english: Get this kind of food
+        translation: Yundu yalayayku mayi mana
+
   - word: yalbay
+    type: adjective 
+    definitions:
+      - big
+    translations:
+      - big
+
   - word: yalibalaku
+    type: time 
+    definitions:
+      - early morning (english loan word, from early) 
+    translations:
+      - early morning
+      - morning
+
   - word: yalkaji
+    type: intransitive-verb 
+    definitions:
+      - limp
+    translations:
+      - limp
+    usages:
+      - english: He's limping with sore on his feet
+        translation: Nyulu yalkan-yalkan-yalkaji, jina bajiji
+
   - word: yalkay-yalkay
+    type: noun 
+    definitions:
+      - cripple 
+    translations:
+      - cripple
+
   - word: yalkaka
+    type: noun 
+    definitions:
+      - type of corroboree
+    translations:
+      - corroboree
+
   - word: yalkan
+    type: adjective 
+    definitions:
+      - shallow water 
+    translations:
+      - shallow water
+
   - word: yalmba
+    type: noun 
+    definitions:
+      - seashore, beach 
+    translations:
+      - seashore
+      - beach
+
   - word: yalmbar
+    type: adjective 
+    definitions:
+      - wide
+    translations:
+      - wide
+
   - word: yalmburrajaka
+    type: noun
+    definitions:
+      - whale 
+    translations:
+      - whale 
+
   - word: yalnga
+    type: noun 
+    definitions:
+      - sea turtle, poisonous if sacs aren't removed 
+    translations:
+      - sea turtle
+      
+  - word: yalnganji 
+    type: noun
+    definitions:
+      - manta ray (yalanji) (nyungkul - yidi)
+    translations:
+      - manta ray
+
   - word: yalngkal
+    type: noun 
+    definitions: 
+      - white wattle 
+    translations:
+      - white wattle
+
   - word: yalngkurr
+    type: noun 
+    definitions:
+      - eagle hawk. Totem of all the Kuku-Yalanji people. It represents the country to which they belong
+    translations:
+      - eagle hawk
+      - totem
+
   - word: yaluy
+    type: demonstrative 
+    definitions:
+      - here, this place (yalanji) (nyungkul - yanyu)
+    translations:
+      - here
+      - this place
+
   - word: yamba
-  - word: yamba-kari
+    type: noun 
+    definitions:
+      - house 
+      - opium 
+    translations:
+      - house
+      - opium
+    usages:
+      - english: I am going home
+        translation: Ngayu dungaykuda yambangaku
+
+  - word: yamba 
+    type: conjunction 
+    definitions:
+      - but, however 
+    translations:
+      - but
+      - however
+    see: 
+      - kari 
+    usages:
+      - english: I shot a pig but he didn't fall down
+        translation: Ngayu bikibiki kunin yamba nyulu kari daran 
+
+
+  - word: yamba-kari 
+    type: negative
+    definitions:
+      - none 
+    translations:
+      - none 
+    usages:
+      - english: I don't have any food
+        translation: Ngayu mayi yamba-kari
+
   - word: yambal
+    type: adjective 
+    definitions:
+      - slow 
+    see: 
+      - waymbul
+      - kiray 
+    translations:
+      - slow
+
   - word: yamba-yamba
+    type: noun 
+    definitions:
+      - household goods, collection of personal things 
+    translations:
+      - belongings
+      - posessions
+
   - word: yanday
+    type: adjective 
+    definitions:
+      - something used before, as scraps, rubbish, leftovers. Things that float up on the beach such as timber, usable things only. 
+      - ready
+    translations:
+      - scraps
+      - rubbish 
+      - flotsam 
+    usages:
+      - english: The grass is ready (cut) now, (you) gather (it up)
+        translation: Jikan yandaykuda, mujada
+
   - word: yanday-bungal
+    type: transitive-verb 
+    definitions:
+      - get ready, prepare
+    translations:
+      - get ready
+      - prepare
+    usages:
+      - english: You gut the crass (to get the grass ready), I'll throw it out later 
+        translation: Yundu jikan yanday-bunga ngayu juma yilbal
+
   - word: yanday-nyajil
+    type: transitive-verb
+    definitions:
+      - overhear 
+    translations:
+      - overhear 
+    usages:
+      - english: I overheard them
+        translation: Ngayu jananin kuku yanday-nyajin
+
   - word: yangka
+    type: noun
+    definitions:
+      - green ant. There are used as a medecine for the common cold and other chest complaints. They can be crushed and the odour inhaled to cure headache; or the eggs, larvae, and pupae from the nexts can be mixed with salt water and taken 
+    syonyms:
+      - munjurr 
+    translations:
+      - green ant
+
   - word: yangkija
+    type: noun 
+    definitions:
+      - handkerchief (english loan word)
+    translations:
+      - handkerchief
+
   - word: yanja
+    type: noun 
+    definitions:
+      - rustling noise, as the wind blowing through trees or grass 
+    translations:
+      - rustling noise
+
   - word: yanji
+    type: adjective 
+    definitions:
+      - replete, full, satisfied after eating (yalanji) (nyungkul - yajin)
+    translations:
+      - replete
+      - full
+      - satisfied
+      - satiated
+    usages:
+      - english: Have you eaten enough? 
+        translation: Yundu mayika yanjikuda?
+
   - word: yanji bajakukuda
+    type: adjective 
+    definitions:
+      - overeating
+    translations:
+      - overeating
+
   - word: yanyil
-  - word: yanyu
+    type: transitive-verb 
+    definitions:
+      - to see and examine close up
+    translations:
+      - see
+      - examine
+
   - word: yaral
+    type: demonstrative 
+    definitions:
+      - this, here (nyungkul) (yalanji - yuluy, yanya)
+    translations:
+      - this
+      - here
+
+  - word: yaral
+    type: adjective 
+    definitions:
+      - fresh water (opposite of kalki)
+      - right, not angry or cheeky
+      - cool, not too hot 
+    translations:
+      - fresh water
+      - right
+      - cool
+      - cheeky
+    usages:
+      - english: You talk in the right way (not cheeky - talk as you should in a court case)
+        translation: Yundu kuku yaralku daya
+      - english: He's not angry any more 
+        translation: Nyulu yaralmankuda
+
   - word: yarangkay
+    type: intransitive-verb 
+    definitions:
+      - strain, sprain 
+    translations:
+      - strain
+      - sprain
+    usages:
+      - english: He fell and sprained his ankle 
+        translation: Nyulu daran, wulu yarangkan 
+
   - word: yararri
+    type: intransitive-verb 
+    defintions:
+      - shiver, tremble, convulse 
+    translations:
+      - shiver
+      - tremble
+      - convulse
+
   - word: yabarrka
+    type: manner 
+    definitions:
+      - all the time, regularly, repeatedly, always 
+    translations:
+      - all the time
+      - regularly
+      - repeatedly
+      - always
+
   - word: yarkin
+    type: noun
+    definitions:
+      - corpse 
+    translations:
+      - corpse
+    usages:
+      - english: He murdered him
+        translation: Nyulu nyungun yarkinkaku kunin
+
   - word: yarra
+    type: direction
+    definitions:
+      - that way. This is always accompanied by a gesture. 
+    translations:
+      - that way
+
   - word: yarraman
+    type: noun 
+    definitions:
+      - horse
+    translations:
+      - horse
+
   - word: yarrka
+    type: noun 
+    definitions:
+      - bee, the smallest bee in the bush
+    translations:
+      - bee
+
   - word: yarrkay-yarrka
+    type: noun 
+    definitions:
+      - group of children 
+    see:
+      - karrkay
+    translations:
+      - group of children
+      - class
+      - gang
+
   - word: yarru
+    type: noun 
+    definitions:
+      - rainbow snake (mythical serpent)
+      - deep water hole
+    translations:
+      - rainbow snake
+      - deep water hole
+
   - word: yaru
+    type: adjective 
+    definitions:
+      - wet
+    translations:
+      - wet 
+    synonyms:
+      - duna
+
   - word: yarun
+    type: noun 
+    definitions:
+      - black wattle tree and its yellow flower
+    translations:
+      - black wattle tree 
+
   - word: yawa
+    type: noun
+    definitions:
+      - possum
+    translations:
+      - possum
+
   - word: yawarr
+    type: noun 
+    definitions:
+      - species of palm tree
+    translations:
+      - palm tree
+
   - word: yawu
+    type: noun
+    definitions:
+      - stingray. Long ago only old people were allowed to eat it, but now this isn't followed much. Spearing one will bring on thunder and rainstorms.
+    translations:
+      - stingray
+
   - word: yayin-yayin-bungal
+    type: transitive-verb 
+    definitions:
+      - scatter (like seeds)
+    translations:
+      - scatter
+
   - word: yayji
+    type: adjective 
+    definitions:
+      - thin, emaciated
+    synonyms:
+      - bala
+    translations:
+      - thin
+      - emaciated
+
   - word: yaykarr
+    type: adjective 
+    definitions:
+      - strong, hard, swift 
+    translations:
+      - strong
+      - hard
+      - swift
+
   - word: yayngkar
+    type: noun 
+    definitions:
+      - whisper 
+    translations:
+      - whisper
+    usages:
+      - english: He told in a whisper
+        translation: Nyulu yayngkarabu balkan 
+
   - word: yibuy
-  - word: yibuy-karrbaja
-  - word: yida
+    type: noun 
+    definitions:
+      - loya cane. Also walking stick made from the loya cane. The roots were used to make the walking stick. 
+    translations:
+      - loya cane
+
+  - word: Yibuy-karrbaja 
+    type: noun 
+    definitions:
+      -Snapper island (place name)
+    translations:
+      - Snapper island 
+
+  - word: Yida
+    type: noun 
+    definitions:
+      - between Kangkiji and Kaway (place name) 
+    translations:
+      - between Kangkiji and Kaway
+
   - word: yidilnyul
-  - word: yidi
+    type: noun 
+    synonyms:
+      - yidi 
+    definitions:
+      - spotted manta ray (nyungkul) (yalanji - yalnganji)
+    translations:
+      - spotted manta ray
+
   - word: yijarril
+    type: transitive-verb 
+    definitions:
+      - to put 
+    translations:
+      - to put
+
   - word: yijil-yijin
+    type: noun 
+    definitions:
+      - cricket
+    translations:
+      - cricket
+
   - word: yijirr
+    type: noun 
+    definitions:
+      - shell of egg
+      - fish scales 
+    translations:
+      - egg shell
+      - fish scales
+
   - word: yika
+    type: noun 
+    definitions:
+      - little silver of something, as a silver of glass 
+    translations:
+      - silver
+
   - word: yika-damal
-  - word: yikan-yikan
+    type: transitive-verb 
+    definitions:
+      - to split - as wood
+    translations:
+      - to split
+
+  - word: Yikan-yikan
+    type: noun 
+    definitions:
+      - above the Stoney crossing in the Daintree River (place name)
+    translations:
+      - Daintree River 
+
   - word: yikanyil
+    type: transitive-verb 
+    definitions:
+      - to take clothes, shoes off (yalanji only)
+    translations:
+      - undress 
+
   - word: yikari
+    type: noun 
+    definitions:
+      - hardened beeswax, hardened with ironwood root juice. The juice is extracted by heating and is used to make spears. 
+    translations: 
+      - hardened beeswax
+
   - word: yiki
+    type: noun 
+    definitions:
+      - night owl
+    translations:
+      - night owl
+
   - word: yikin
+    type: noun 
+    definitions:
+      - bank or river 
+    translations:
+      - bank
+      - river
+
   - word: yiki-yiki
+    type: noun 
+    definitions:
+      - didgeridoo 
+    translations:
+      - didgeridoo
+
   - word: yilal
+    type: noun 
+    definitions:
+      - curse song 
+    translations:
+      - curse song
+    see:
+      - kanyil
+
   - word: yilayku
+    type: time  
+    definitions:
+      - yesterday 
+    translations:
+      - yesterday 
+
   - word: yilay-yinduku
+    type: time 
+    definitions:
+      - day before yesterday 
+    translations:
+      - day before yesterday
+
   - word: yilay-yilay
+    type: time
+    definitions:
+      - late afternoon, when the sun is in the west 
+    translations:
+      - late afternoon
+
   - word: yilbal
+    type: transitive-verb 
+    definitions:
+      - to throw 
+    translations:
+      - throw
+
   - word: yilbaji
+    type: intransitive-verb 
+    definitions:
+      - in disorder and disarray 
+    translations:
+      - disorder
+      - disarray
+
   - word: yiljun
+    type: noun 
+    definitions:
+      - type of grasshopper
+    translations:
+      - grasshopper
+    usages:
+      - english: When the grasshopper sings, the wukay (type of yam) are ready
+        translation: Yiljun badida wukayda
+
   - word: yilki
+    type: noun 
+    definitions:
+      - creek
+    translations:
+      - creek
+
   - word: yiman
+    type: noun 
+    definitions:
+      - forehead (nyungkul) (yalanji - munju)
+    translations:
+      - forehead
+
   - word: yiman bunjal
+    type: noun 
+    definitions:
+      - bald headed
+    translations:
+      - bald headed
+
   - word: yimarr-yiman
+    type: adjective 
+    definitions:
+      - a round face, like an Islander
+    translations:
+      - round face
+    usages:
+      - english: That man has a round face 
+        translation: Nyulu bama yimarr-yiman bajaku
+
   - word: yimbal
+    type: transitive-verb 
+    definitions:
+      - come too close, knock down
+    translations:
+      - come too close
+      - knock down
+    usages:
+      - english: He shouldn't come so close
+        translation: Nyulu nganya kariyirrku yimba
+
+  - word: yimbal
+    type: noun 
+    definitions:
+      - message 
+    translations:
+      - message
+
   - word: yimbalji
+    type: noun 
+    definitions:
+      - with a message
+    translations:
+      - messenger 
+    usages:
+      - english: He went with a message
+        translation: Nyulu yimbalji dungay
+
   - word: yimbi
+    type: noun 
+    definitions:
+      - lips
+    translations:
+      - lips
+
   - word: yinba
+    type: noun 
+    definitions:
+      - fish spear
+    synonyms:
+      - kalka
+    translations:
+      - fish spear
+  
   - word: yindili
+    type: noun 
+    definitions:
+      - forest kingfisher
+    translations:
+      - kingfisher
+
   - word: yindu
+    type: adjective
+    definitions:
+      - another, other
+    translations:
+      - another
+      - other
+      
   - word: yingkan
+    type: noun
+    definitions:
+      - knife spear
+    translations:
+      - knife spear
+
   - word: yinil
+    type: noun 
+    definitions:
+      - fear (jalunji) 
+    see:
+      - yinyil
+    translations:
+      - fear
+
   - word: yini-yini
+    type: adjective
+    definitions:
+      - frightened
+    synoynms:
+      - yinyilji
+    translations:
+      - frightened
+    usages:
+      - english: I don't want to go through the night; (I'm) frightened
+        translation: Ngayu wawu kari wujurrdurr dunganka
+
   - word: yinja-yinja
+    type: noun 
+    definitions:
+      - cicada
+    translations:
+      - cicada
+
   - word: yinju-kangal
+    type: intransitive-verb 
+    definitions:
+      - to grunt
+    translations:
+      - grunt
+
   - word: yinjul
+    type: noun 
+    definitions:
+      - fig parrot
+    translations:
+      - parrot
+
   - word: yinkan
+    type: noun 
+    definitions:
+      - ribs, side
+    translations:
+      - ribs
+      - side
+
   - word: yinkanda wunay
-  - word: yinjul
-  - word: yinkan
-  - word: yinkanda wunay
+    type: intransitive-verb 
+    definitions:
+      - lying on the side 
+    translations:
+      - sideways
+
   - word: yinkar
+    type: noun
+    definitions:
+      - dilly bag for holding remains
+    translations:
+      - dilly bag
+
   - word: yinkunji
+    type: noun 
+    definitions:
+      - species of fig tree with edible fruit (longest black fruit which becomes rip in the wet)
+    translations:
+      - fig tree
+
   - word: yinya
+    type: demonstrative
+    definitions:
+      - that,there 
+    translations:
+      - that 
+      - there
+
   - word: yinyamun
+    type: time
+    definitions:
+      - then, next, after that
+    translations:
+      - then
+      - next
+      - after that
+
   - word: yinyarrin
+    type: demonstrative
+    definitions:
+      - those 
+    translations:
+      - those 
+    usages:
+      - english: Those carpenters, they work down (there) now 
+        translation: Yinyarrin carpenter jana bada-badada workmal
+
   - word: yinyay
+    type: demonstrative
+    definitions:
+      - there
+    translations:
+      - there
+
   - word: yinyil
+    type: noun 
+    definitions:
+      - fright, fear
+    see:
+      - yinil (Jalunji dialect)
+    translations:
+      - fright
+      - fear
+
   - word: yinjilji
+    type: noun 
+    definitions:
+      - afraid
+    translations:
+      - afraid
+
   - word: yinyil-kangal
+    type: transitive-verb 
+    definitions:
+      - to frighten
+    translations:
+      - frighten
+
   - word: yira
+    type: noun 
+    definitions:
+      - tide
+      - fruit juice 
+    translations:
+      - tide
+      - fruit juice
+
   - word: yiri
+    type: noun 
+    definitions:
+      - waterfall
+    translations:
+      - waterfall
+
   - word: yiril
+    type: noun 
+    definitions:
+      - rainbow 
+    translations:
+      - rainbow
+
   - word: yiringkal
+    type: transitive-verb 
+    definitions:
+      - drag, roll
+    translations:
+      - drag
+      - roll
+
   - word: yiringkurr
+    type: noun 
+    definitions:
+      - everywhere 
+      - to talk "this way and that"
+    translations:
+      - everywhere
+      - this way and that
+    usages:
+      - english: The sun shines everywhere
+        translation: Wungarabu balbal bubu yiringkurr
+      - english: You're talking this way and that (can't understand)
+        translation: Yundu kuku yiringkurr bajaku balkaway
+
   - word: yirku-yirku
+    type: noun 
+    definitions:
+      - frog
+    translations:
+      - frog
+
   - word: yirmbal
+    type: noun 
+    definitions:
+      - taboo (yalanji) (nyungkul - jabul)
+    translations:
+      - taboo
+    usages:
+      - english: The taboo (thing) grabs you and holds you
+        translation: Yirmbalda karrbal, yunun kujilkuda
+
   - word: bubu yirmbal
+    type: noun 
+    definitions:
+      - taboo place
+    translations:
+      - taboo place
+
   - word: yirrbal
+    type: transitive-verb
+    definitions:
+      - to scratch, to scape
+    translations:
+      - scratch
+      - scape
+
   - word: yirrbaji
+    type: noun 
+    definitions:
+      - to scratch yourself
+    translations:
+      - scratch
+
   - word: yirri
+    type: noun 
+    definitions:
+      - running water
+    translations:
+      - running water
+
   - word: yirri-damal
+    type: intransitive-verb
+    definitions: 
+      - leak
+    translations:
+      - leak 
+    usages:
+      - english: My tank is leaking
+        translation: Ngayku tank yirri-damal-damal
+
   - word: yirrkay
+    type: intransitive-verb
+    definitions:
+      - to shout, cry out
+    translations:
+      - shout
+      - cry out
+
   - word: yirrmal
+    type: transitive-verb
+    definitions:
+      - to rip open/apart
+    translations:
+      - rip open
+      - rip apart
+
   - word: yirrmba
+    type: noun 
+    definitions: 
+      - many-pronged fish spear 
+    translations:
+      - many-pronged fish spear
+
   - word: yirrnga
+    type: noun
+    definitions:
+      - labour pains
+    translations:
+      - labour pains
+    usages:
+      - english: When you have your labour pains, go to the hospital
+        translation: Yundu yirrngaji, hospitalba dungayda
+
   - word: yiwan
+    type: noun 
+    definitions:
+      - urine 
+    synonyms:
+      - kumbu
+      - dalngarri 
+    translations:
+      - urine 
+
   - word: yiwarril
+    type: transtive-verb
+    definitions:
+      - to tickle 
+    translations:
+      - tickle
+
   - word: yuba
+    type: manner 
+    definitions:
+      - close 
+    translations:
+      - close
+
   - word: yubal
+    type: pronoun
+    definitions:
+      - you, dual
+    translations:
+      - you
+      - dual
+
   - word: yubuji
+    type: noun 
+    definitions:
+      - sawfish
+    translations:
+      - sawfish
+
   - word: yudal
+    type: transitive-verb
+    definitions:
+      - start something, like a motor
+    translations:
+      - start
+      - ignite
+
   - word: yuday
+    type: noun 
+    definitions:
+      - large frog, edible 
+    translations:
+      - frog
+
   - word: yukil
+    type: adjective
+    definitions:
+      - true (nyungkul) (yalanji - yalakay)
+    translations:
+      - true 
+    usages:
+      english: Is it true that he came?
+      translation: Yukil nyulu kadan 
+    
   - word: yukil
+    type: transitive-verb 
+    definitions:
+      - swear
+    translations:
+      - swear 
+
   - word: yuku
-  - word: yukubaja
+    type: adjective
+    definitions:
+      - big or thick 
+    synonyms:
+      - yalbay 
+    translations:
+      - big
+      - thick
+    usages:
+      - english: Bring all the meat home (don't cut it up and leave some)
+        translation: Minya yukuku wundi
+
+  - word: Yukubaja
+    type: noun  
+    definitions:
+      - Annan River
+    translations:
+      - Annan River
+
   - word: yukurr
+    type: noun 
+    definitions:
+      - a song sung by old men on behalf of someone whose relative has died in an unknown or far coutnry. The song is to send the dead man's spirit back to the right place 
+    translations:
+      - song
+      - lament
+      - dirge 
+
   - word: yulal
+    type: noun
+    definitions:
+      - board, plank. Contrast with kimil, "round stick"
+    translations:
+      - board
+      - plank
+
   - word: yulba
+    type: noun 
+    definitions:
+      - large round oyster 
+    translations:
+      - oyster
+
   - word: yulban
-  - word: yulbulu
+    type: noun 
+    definitions:
+      - any soft covering such as skin or vegetable or fruit peeling
+    see: 
+      - dumbul
+    translations:
+      - pelt
+      - skin
+      - fur
+      - covering
+
+  - word: Yulbulu
+    type: noun 
+    definitions:
+      - Mt. Poverty.
+    translations:
+      - Mt. Poverty
+
   - word: yulkur
+    type: adjective 
+    definitions:
+      - poor physical condition, lean
+    translations:
+      - poor physical condition
+      - lean
+      - emaciated
+
   - word: yulmbarril
+    type: transitive-verb
+    definitions:
+      - welcome, to sing out to someone to welcome him
+      - praise 
+    synonyms:
+      - buyay-manil
+    translations:
+      - welcome
+    usages:
+      - english: The school children come from down south, all the people welcomed them
+        translation: Jana school children nakamun kadarin, bamangka wubulduku jananin yulmbarrin
+
   - word: yulmbarriji
-  - word: yumalba
+    type: intransitive-verb
+    definitions:
+      - brag
+      - skite 
+    translations:
+      - brag
+      - skite
+
+  - word: Yumalba 
+    type: noun 
+    definitions:
+      - mountain near Mt. Poverty (place name)
+    translations:
+      - mountain near Mt. Poverty
+      - Yumalba
+
   - word: yumba
+    type: noun
+    definitions:
+      - wattle tree
+    translations:
+      - wattle tree
+      - tree
+
   - word: yumu
+    type: noun
+    definitions:
+      - bottle brush tree
+    translations:
+      - bottle brush tree
+      - tree
+
   - word: yundu
+    type: pronoun
+    definitions:
+      - you, singular 
+    translations:
+      - you
+
   - word: yunduku baja
+    type: pronoun 
+    definitions:
+      - "it's up to you" (idiom)
+    translations:
+      - it's up to you
+      # todo - revise above
+
   - word: yundurrku
+    type: manner
+    definitions:
+      - by yourself
+    translations:
+      - by yourself
+
   - word: yungal
+    type: transitive-verb
+    definitions:
+      - send
+      - to allow to go
+      - free from custody
+    translations:
+      - send
+      - allow to go
+      - free from custody
+      - hit (a ball)
+    usages:
+      - english: Mother sent to me the store
+        translation: Ngamungku nganya yungan storengu
+      - english: He won't let me go
+        translation: Nyulu nganya kari yungal
+      - english: The judge freed him (sent him back home)
+        translation: Judgeungku nyungun bayanbaku yungan
+      - english: We hit the ball a long way
+        translation: Nyulu ball kala-kalbay yungan
+
   - word: yunu
+    type: adjective
+    definitions:
+      - your, singular possessive 
+      - for you
+    translations:
+      - your
+      - for you
+    usages:
+      - english: Where is your dog?
+        translation: Yunu kaya wanjabu 
+      - english: I got water for you
+        translation: Ngayu bana manin yunu
+
   - word: yunun
+    type: pronoun
+    definitions:
+      - you (object, Yalanji)
+    translations:
+      - you 
+
   - word: yununyin
+    type: pronoun 
+    definitions: 
+      - you (object, Nyungkul)
+    translations:
+      - you
+
   - word: yuray
+    type: noun 
+    definitions:
+      - sea snake
+    translations:
+      - sea snake
+
   - word: yurmbil
+    type: transitive-verb 
+    definitions:
+      - swallow
+    translations:
+      - swallow
+
   - word: yurra
+    type: pronoun 
+    definitions:
+      - you (plural) 
+    translations:
+      - you 
+
   - word: yurril
+    type: transitive-verb
+    definitions:
+      - scrape 
+    translations:
+      - scrape
+
   - word: yurru-janjil
+    type: intransitive-verb
+    definitions:
+      - suck down, as in quicksand or mud
+    translations:
+      - suck down
+    usages: 
+      - english: The mud sucked the legs down
+        translation: Kambal-kambalda ngarri yurru-janil-manin
+
   - word: yurrunji
+    type: noun
+    definitions:
+      - species of tree, called "dead finish" by whites. It is found only in Kuku-Nyungkul country except for one tree standing all alone at Main camp which is in Kuku-Yalanji country. The story is that he came from Romeo and was in Love with (bujanji) but was rejected and is now standing alone
+    translations:
+      - tree 
+      - dead finish
+
   - word: yuru-dudal
+    type: transitive-verb
+    definitions: 
+      - to join together by means of something else, as nailing, sewing, etc. 
+    translations:
+      - join together
+      - nailing
+      - sewing
+    usages:
+      - english: The carpenter nailed the board on the house
+        translation: Carperterangka yulal yurru-dudan bayanba
+
   - word: yuwu
+    type: noun # todo
+    definitions:
+      - yes
+    translations:
+      - yes
+
   - word: yuy
+    type: exclamation 
+    definitions:
+      - exclamation of surprise and awe, usually prolonged and said in a breathy voice and level intonation 
+    translations:
+      - wow
+      - whoa
+      - gasp
+      
+
   - word: yuyku
+    type: noun
+    definitions:
+      - a father is called this when he loses a child through death
+    translations:
+      - bereaved father
+      
